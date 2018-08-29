@@ -1,0 +1,78 @@
+---
+files:
+  axb911.asc:
+    font: topaz-a1200
+  arl-pixe.asc:
+    font: topaz-a1200
+  er-ho.asc:
+    font: topaz-a1200
+  arl-rmrs.asc:
+    font: topaz-a1200
+  tn-van.asc:
+    font: topaz-a1200
+  pix-ashtar.asc:
+    font: topaz-a1200
+    artist: splonk
+  tn-eliza.asc:
+    font: topaz-a1200
+  er-bdz.asc:
+    font: topaz-a1200
+  nt-pyro.ans:
+    artist: nightrain
+  er-zgr.asc:
+    font: topaz-a1200
+  radman.txt:
+    font: topaz-a1200
+  pix-poki.asc:
+    font: topaz-a1200
+    artist: splonk
+  pix-bofh2.asc:
+    font: topaz-a1200
+    artist: splonk
+  pix-jini.asc:
+    font: topaz-a1200
+    artist: splonk
+  nt-l0g0z.ans:
+    artist: nightrain
+  to-abek4t.asc:
+    font: topaz-a1200
+  nt-chat.ans:
+    artist: nightrain
+  axb0102.asc:
+    font: topaz-a1200
+  tn-snat.asc:
+    font: topaz-a1200
+  er-tfrc.asc:
+    font: topaz-a1200
+  arl-help.asc:
+    font: topaz-a1200
+  us-lh.asc:
+    font: topaz-a1200
+  us-fa.asc:
+    font: topaz-a1200
+  to-deton.asc:
+    font: topaz-a1200
+  er-mtnws.asc:
+    font: topaz-a1200
+  pix-fa.asc:
+    font: topaz-a1200
+    artist: splonk
+  vol-grs.txt:
+    font: topaz-a1200
+  pix-mbc.asc:
+    font: topaz-a1200
+    artist: splonk
+  tr5-slave.asc:
+    font: topaz-a1200
+  rm-usele.asc:
+    font: topaz-a1200
+  rm-fix.asc:
+    font: topaz-a1200
+  bne!pg.asc:
+    font: topaz-a1200
+  pix-aprd.asc:
+    font: topaz-a1200
+    artist: splonk
+  cd-galm.asc:
+    font: topaz-a1200
+group: remorse.1981

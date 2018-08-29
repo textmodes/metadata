@@ -1,0 +1,15 @@
+---
+files:
+  ps-tdc.asc:
+    font: topazplus-a500
+  ps-east.asc:
+    font: topazplus-a500
+  ps-enigm.asc:
+    font: topazplus-a500
+  c4-noway.asc:
+    artist: c4nn
+  c4-glop.asc:
+    artist: c4nn
+  ps-punc.asc:
+    font: topazplus-a500
+group: halluci-nation

@@ -1,0 +1,75 @@
+---
+files:
+  ppe-avg.ans:
+    artist: propane
+  k1-aflux.ans:
+    artist: knocturnal
+  nf-showmethepig.ans:
+    artist: necrofiliac
+  k1-spawn.ans:
+    artist: knocturnal
+  ppe-metallica.ans:
+    artist: propane
+  avg-fuelthefat.ans:
+    artist: avenging.angel
+  aoh-retiredlarry.ans:
+    artist: angel.of.hell
+  dfr-smeg.ans:
+    artist: deep.freezer
+  bs-djt.ans:
+    artist: burps
+  tk-totalrecall.ans:
+    artist: the.knight
+  nf-100months.ans:
+    artist: necrofiliac
+  tk-propane.ans:
+    artist: the.knight
+  ppe-tk.ans:
+    artist: propane
+  nf-mindgames.ans:
+    artist: necrofiliac
+  lum-777.ans:
+    artist: luminator
+  tk-lninja.ans:
+    artist: the.knight
+  mfs-simp.ans:
+    artist: mel.farr.suppastar
+  tk-facecrowd.ans:
+    artist: the.knight
+  ppe-evang.ans:
+    artist: propane
+  j33-moebius.ans:
+    artist: j33p33
+  k1-totem.ans:
+    artist: knocturnal
+  tk-phenom.ans:
+    artist: the.knight
+  cl!-elt.ans:
+    artist: cleaner
+  n-67love.ans:
+    artist: nail
+  cl!-fuel.ans:
+    artist: cleaner
+  tk-elnecro.ans:
+    artist: the.knight
+  us-catbat.ans:
+    artists:
+    - propane
+    - the.knight
+  bs-lg22.ans:
+    artist: burps
+  tk-alljoke.ans:
+    artist: the.knight
+  zii-shme.ans:
+    artist: zeus.ii
+  gj-blackflag.ans:
+    artist: grymmjack
+  ppe-dukes.ans:
+    artist: propane
+  pg-penguins.ans:
+    artist: pinguino
+  aoh-got.bin:
+    artist: angel.of.hell
+  ppe-lenecro.ans:
+    artist: propane
+group: fuel

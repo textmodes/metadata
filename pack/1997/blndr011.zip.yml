@@ -1,0 +1,21 @@
+---
+files:
+  te-red.lit:
+    artist: the.extremist
+  is-blend.ans:
+    artist: isrisu
+  mfs-gubm.ans:
+    artist: mel.farr.suppastar
+  smi-ooo.ans:
+    artist: samurai
+  mfs-hulk.ans:
+    artist: mel.farr.suppastar
+  mfs-comi.ans:
+    artist: mel.farr.suppastar
+  ox-bln10.asc:
+    artist: oxidizer
+  us-bld11.ans:
+    artists:
+    - harass
+    - teakay
+group: the.blender

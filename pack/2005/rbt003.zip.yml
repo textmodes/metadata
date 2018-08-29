@@ -1,0 +1,38 @@
+---
+files:
+  ra-koob.ans:
+    artist: r@
+  ra-antic.ans:
+    artist: r@
+  ra-dgtl.jpg:
+    artist: r@
+  nf-2k5.ans:
+    artist: nf
+  nf-2k5hr.jpg:
+    artist: nf
+  fd-autumn.lit:
+    font: cp866-8x16
+  nf_2k5_4.ans:
+    artist: nf
+  pp-gzagrt.ans:
+    artist: peaceprayer
+  astery-strange.lit:
+    font: cp866-8x16
+    artist: astery
+  file_id.diz:
+    artist: peaceprayer
+  nf-2k5-3.ans:
+    artist: nf
+  s&-rbtnfo.asc:
+    artist: sandman
+  pp-satisf.ans:
+    artist: peaceprayer
+  s&-scru.asc:
+    artist: sandman
+  s$-rbt.asc:
+    artist: sandman
+  nf-2k5-2.ans:
+    artist: nf
+  ra-dstar.png:
+    artist: r@
+group: rebirth

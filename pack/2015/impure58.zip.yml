@@ -1,0 +1,92 @@
+---
+files:
+  xz-eee.ans:
+    artist: hellbeard
+  grx-comp3.ans:
+    artist: grmmxi
+  grk-i58.ans:
+    artist: griskokare
+  ldn-mrkl.ans:
+    artist: lord.nikon
+  grk-hisc.ans:
+    artist: griskokare
+  grx-comp5.ans:
+    artist: grmmxi
+  grx-comp9.ans:
+    artist: grmmxi
+  xz-wild.ans:
+    artist: hellbeard
+  grk-ascg.ans:
+    artist: griskokare
+  xz-evoke.ans:
+    artist: hellbeard
+  grk-acid.ans:
+    artist: griskokare
+  grx-comp1.ans:
+    artist: grmmxi
+  ldn-tmpl.ans:
+    artist: lord.nikon
+  ldn-mnk2.ans:
+    artist: lord.nikon
+  mz-sweat.ans:
+    artist: maze
+  file_id.diz:
+    font: topaz-a500
+    artist: griskokare
+  impure58.ans:
+    artists:
+    - lord.nikon
+  xz-seawolf.ans:
+    artist: hellbeard
+  grk-revo.ans:
+    artist: griskokare
+  xz-karin.ans:
+    artist: hellbeard
+  grx-comp4.ans:
+    artist: grmmxi
+  grx-comp8.ans:
+    artist: grmmxi
+  impure58rel.ans:
+    artists:
+    - griskokare
+    - hellbeard
+  grx-comp7.ans:
+    artist: grmmxi
+  grk-xtop.ans:
+    artist: griskokare
+  ldn-mnk1.ans:
+    artist: lord.nikon
+  ldn-dhma.ans:
+    artist: lord.nikon
+  dmg-hellbeard.ans:
+    font: topaz-a500
+    artist: dmg
+  grk-ldn.ans:
+    artist: griskokare
+  grx-comp6.ans:
+    artist: grmmxi
+  ldn-aego.ans:
+    artist: lord.nikon
+  ldn-logo.ans:
+    artist: lord.nikon
+  xz-prayer.ans:
+    artist: hellbeard
+  ldn-kjoy.ans:
+    artist: lord.nikon
+  ldn-totm.ans:
+    artist: lord.nikon
+  xz-nemo.ans:
+    artist: hellbeard
+  xz-logos.ans:
+    artist: hellbeard
+  us-bi.ans:
+    artists:
+    - griskokare
+    - hellbeard
+  grx-comp2.ans:
+    artist: grmmxi
+  xz-redflag.ans:
+    artist: hellbeard
+  ldn-knot.ans:
+    artist: lord.nikon
+group: impure!ascii.1940

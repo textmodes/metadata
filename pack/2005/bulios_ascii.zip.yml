@@ -1,0 +1,28 @@
+---
+files:
+  bulio(nice).txt:
+    font: topaz-a1200
+    artists:
+    - bulio
+    - cubon
+    - noof
+  zl.txt:
+    artist: bulio
+  about this.txt:
+    artist: bulio
+  nice-nfo.txt:
+    artist: bulio
+  pablo-serv1.txt:
+    font: topaz-a1200
+    artists:
+    - cleaner
+    - cubon
+    - bulio
+    - noof
+    - miyagi
+  bulio+box.txt:
+    artist: bulio
+  my demo.txt:
+    artist: bulio
+  tut.txt:
+    artist: bulio

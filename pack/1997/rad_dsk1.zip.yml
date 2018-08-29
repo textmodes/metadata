@@ -1,0 +1,27 @@
+---
+files:
+  fb-s.s3m:
+    artist: foolish.bird
+  yt-fame.s3m:
+    artist: neophyte
+  ct-trust.s3m:
+    artist: cthulu
+  '%@-mscc.it':
+    artist: zircus.freak
+  file_id.original.diz.ans:
+    artist: numb
+  ee_gang.it:
+    artist: eerie
+  fd_rd2no.s3m:
+    artist: fritz
+  esq-slcn.xm:
+    artist: esquire
+  ay_bored.it:
+    artist: ay.lektrique
+  file_id.diz:
+    artists:
+    - tzeentch
+    - halaster
+groups:
+- fire
+- mistigris

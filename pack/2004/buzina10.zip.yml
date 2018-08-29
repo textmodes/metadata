@@ -1,0 +1,8 @@
+---
+files:
+  buz-chl.ans:
+    font: cp866-8x16
+  buzina.txt:
+    font: cp866-8x16
+    artist: crasher
+group: buzina.factory

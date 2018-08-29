@@ -1,0 +1,43 @@
+---
+files:
+  cybracd1.ans:
+    artist: cerebrus
+  midnacd3.ans:
+    artist: jed
+  keeb-sd.ans:
+    artist: slam.dunk
+  etpgacd1.ans:
+    artist: blade.runner
+  nwlacid2.ans:
+    artist: jed
+  dragon.ans:
+    artist: blade.runner
+  eitwacd1.ans:
+    artist: slam.dunk
+  aofacid4.ans:
+    artist: darkman
+  flt-acd2.txt:
+    artist: jed
+  mic-acid.ans:
+    artist: slam.dunk
+  fx2acid.ans:
+    artist: tank
+  aofacid2.ans:
+    artist: tank
+  net54acd.ans:
+    artist: blade.runner
+  ch-acid1.ans:
+    artist: cerebrus
+  acid92.ans:
+    artist: rad.man
+  farside.ans:
+    artist: blade.runner
+  dpg2acid.ans:
+    artist: darkman
+  aofacid3.ans:
+    artist: darkman
+  hostile.ans:
+    artist: slam.dunk
+  inn2acid.ans:
+    artist: tank
+group: acid.production

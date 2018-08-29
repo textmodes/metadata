@@ -1,0 +1,76 @@
+---
+files:
+  po-beat.ans:
+    font: topazplus-a500
+    artist: pogue
+  po-ke.ans:
+    font: topazplus-a500
+    artist: pogue
+  mz-imp.ans:
+    font: topazplus-a500
+    artist: maze
+  xz-bloodisland.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-rand.ans:
+    font: topazplus-a1200
+    artists:
+    - griskokare
+    - hellbeard
+  po-beer.ans:
+    font: topazplus-a500
+    artist: pogue
+  po-mnu.ans:
+    font: topazplus-a500
+    artist: pogue
+  po-rmrs.ans:
+    font: topazplus-a500
+    artist: pogue
+  jp!hcd1.ans:
+    artist: jack.phlash
+  mz-piece.ans:
+    font: topazplus-a500
+    artist: maze
+  file_id.diz:
+    font: topazplus-a500
+    artist: trasher
+  xz-kalash4.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-who.ans:
+    font: topazplus-a500
+    artist: pogue
+  impure56.ans:
+    font: topazplus-a500
+    artist: pogue
+  po-impure.ans:
+    font: topazplus-a500
+    artist: pogue
+  ldn-stws.ans:
+    font: topazplus-a500
+    artist: lord.nikon
+  xz-public.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  xz-piranha.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  xz-entropy.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-hellb.ans:
+    font: topazplus-a500
+    artist: pogue
+  impure56rel.ans:
+    font: topazplus-a500
+    artist: ozzeth
+  xz-flower.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-prof.ans:
+    font: topazplus-a500
+    artist: pogue
+  xz-llamas.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+group: impure!ascii.1940

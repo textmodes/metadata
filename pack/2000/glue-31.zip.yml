@@ -1,0 +1,21 @@
+---
+files:
+  zv-col5.ans:
+    artist: zerovision
+  zv-caff.ans:
+    artist: zerovision
+  zv-blind.ans:
+    artist: zerovision
+  22-glue5.ans:
+    artist: catch22
+  tcf-wick.ans:
+    artist: the.creep.fever
+  zv-dark.ans:
+    artist: zerovision
+  zv-angel.ans:
+    artist: zerovision
+  tcf-head.asc:
+    artist: the.creep.fever
+  zv-tg.ans:
+    artist: zerovision
+group: glue

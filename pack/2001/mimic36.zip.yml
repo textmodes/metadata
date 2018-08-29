@@ -1,0 +1,37 @@
+---
+files:
+  h7-ditc.asc:
+    artist: h7
+  smp-mtx2.ans:
+    artist: shrimp
+  smp-mld.ans:
+    artist: shrimp
+  smp-mk.ans:
+    artist: shrimp
+  dwf-fex.txt:
+    artist: dwarf
+  smp-rmrs.ans:
+    artist: shrimp
+  jn-smoke.ans:
+    artist: jashiin
+  dwf-bd.txt:
+    artist: dwarf
+  smp-quiz.ans:
+    artist: shrimp
+  smp-oaia.ans:
+    artist: shrimp
+  dwf-phk.txt:
+    artist: dwarf
+  ko-z-x3.ans:
+    artist: kingpin.octopus
+  bjasc222.ans:
+    artist: black.jack
+  jn-spin7.ans:
+    artist: jashiin
+  ko-cribl.asc:
+    artist: kingpin.octopus
+  jn-ddog.ans:
+    artist: jashiin
+  ko-rpent.asc:
+    artist: kingpin.octopus
+group: mimic

@@ -1,0 +1,94 @@
+---
+files:
+  b4-tc.asc:
+    font: cp437_8x8
+  tl-comp.asc:
+    font: cp437_8x8
+  vid-dpc.asc:
+    font: cp437_8x8
+  tl-c4.asc:
+    font: cp437_8x8
+  trifest.asc:
+    font: cp437_8x8
+  tl-pr.asc:
+    font: cp437_8x8
+  us-acid.asc:
+    font: topazplus_a500
+  tl-wt2.asc:
+    font: cp437_8x8
+  b4-rock.asc:
+    font: cp437_8x8
+  tl-scs.asc:
+    font: cp437_8x8
+  us-clk.asc:
+    font: cp437_8x8
+  us-s2.txt:
+    font: cp437_8x8
+  tl-dkm2.asc:
+    font: cp437_8x8
+  n4-rare.ans:
+    artist: sodium
+  b4-spud.asc:
+    font: cp437_8x8
+  zz-one.asc:
+    font: cp437_8x8
+  zz-poly.txt:
+    font: cp437_8x8
+  us-e21.asc:
+    font: cp437_8x8
+  df-colly.txt:
+    font: cp437_8x8
+  file_id.diz:
+    font: cp437_8x8
+  zz-aln.asc:
+    font: cp437_8x8
+  b4-e21.asc:
+    font: cp437_8x8
+  zz-lastc.txt:
+    font: cp437_8x8
+  b4-skill.asc:
+    font: cp437_8x8
+  us-rmrs.asc:
+    font: cp437_8x8
+  zz-purg.asc:
+    font: cp437_8x8
+  vid-deep.asc:
+    font: cp437_8x8
+  tl-hline.asc:
+    font: cp437_8x8
+  vid-irs.asc:
+    font: cp437_8x8
+  vid-sing.asc:
+    font: cp437_8x8
+  zz-jnt.txt:
+    font: cp437_8x8
+  b4-cl1k.asc:
+    font: cp437_8x8
+  vid-ind.asc:
+    font: cp437_8x8
+  hx-two.ans:
+    font: cp437_8x8
+  n4-prime.ans:
+    artist: sodium
+  us-iq.asc:
+    font: cp437_8x8
+  tl-two.asc:
+    font: cp437_8x8
+  vid-beat.asc:
+    font: cp437_8x8
+  b4-chron.asc:
+    font: cp437_8x8
+  hx-mf.asc:
+    font: cp437_8x8
+  zz-mf.diz:
+    font: cp437_8x8
+  b4-frien.asc:
+    font: cp437_8x8
+  vid-dev.asc:
+    font: cp437_8x8
+  hx-clq.asc:
+    font: cp437_8x8
+  zz-frc.diz:
+    font: cp437_8x8
+  ktr-sk.asc:
+    font: cp437_8x8

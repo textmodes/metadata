@@ -1,0 +1,80 @@
+---
+files:
+  ak-news.ans:
+    artist: abstrakt
+  us-jash.ans:
+    artists:
+    - jashiin
+    - absent.spinsister
+  ns-grav1.asc:
+    artist: ansichrist
+  us-dsk.ans:
+    artists:
+    - absent.spinsister
+    - noches
+  us-grnd.asc:
+    artists:
+    - unseen.fate
+    - absent.spinsister
+    - trank
+  pdz-w.ans:
+    artist: podsi
+  123nfo.ans:
+    artist: abstrakt
+  smp-123_.ans:
+    artist: shrimp
+  ns-haci1.ans:
+    artist: ansichrist
+  ak-hook.ans:
+    artist: abstrakt
+  ske-abst.ans:
+    artist: sketch
+  smp-acid.ans:
+    artist: shrimp
+  ns-123od.ans:
+    artist: ansichrist
+  trip-sem.ans:
+    artist: tripulogic
+  ns-haci2.ans:
+    artist: ansichrist
+  pdz-mmc.ans:
+    artist: podsi
+  pdz-east.ans:
+    artist: podsi
+  123mem.ans:
+    artist: abstrakt
+  pdz-cain.ans:
+    artist: podsi
+  _a-scity.ans:
+    artist: absent.spinsister
+  ak-merry.ans:
+    artist: abstrakt
+  us-zow.asc:
+    artists:
+    - tripulogic
+    - absent.spinsister
+  smp-std.ans:
+    artist: shrimp
+  _a-mz.ans:
+    artist: absent.spinsister
+  gdr-123.ans:
+    artist: gravedancer
+  _a-asci.ans:
+    artist: absent.spinsister
+  ns-123a.asc:
+    artist: ansichrist
+  ns-tl.asc:
+    artist: ansichrist
+  _a-os.ans:
+    artist: absent.spinsister
+  us-1z3.ans:
+    artists:
+    - ansichrist
+    - absent.spinsister
+  _a-rmx.ans:
+    artist: absent.spinsister
+  us-rezin.ans:
+    artists:
+    - absent.spinsister
+    - noches
+group: '123'

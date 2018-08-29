@@ -1,0 +1,38 @@
+---
+files:
+  cl!-mmc.ans:
+    artist: cleaner
+  dev-neur.asc:
+    artist: deviant
+  gdr-mimi.asc:
+    artist: gravedancer
+  ozz-soda.txt:
+    font: topazplus-a500
+    artist: kayozz
+  ozz-erpt.txt:
+    font: topazplus-a500
+    artist: kayozz
+  ozz-nite.txt:
+    font: topazplus-a500
+    artist: kayozz
+  ozz-karm.txt:
+    font: topazplus-a500
+    artist: kayozz
+  ozz-divg.diz:
+    artist: kayozz
+  bjasc119.ans:
+    artist: black.jack
+  dev-lost.asc:
+    artist: deviant
+  k!master.asc:
+    artist: keetar
+  ds-qtm01.asc:
+    artist: dead.soul
+  dev-dial.asc:
+    artist: deviant
+  ds-noct1.asc:
+    artist: dead.soul
+  ozz-merl.txt:
+    font: topazplus-a500
+    artist: kayozz
+group: mimic

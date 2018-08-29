@@ -1,0 +1,33 @@
+---
+files:
+  emk-blue.ans:
+    artist: emok
+  emk-alie.ans:
+    artist: emok
+  iph-%.asc:
+    artist: inphamilair
+  zb!col05.asc:
+    artist: zubfatal
+  ab-my!!!.asc:
+    artist: acid.burn
+  iph-mp3.asc:
+    artist: inphamilair
+  ab-smain.asc:
+    artist: acid.burn
+  dlt-dlr.asc:
+    artist: dalton
+  file_id.diz:
+    font: topazplus_a1200
+  xz-clust.asc:
+    font: topazplus_a500
+    artist: hellbeard
+  xz-wasa.asc:
+    font: topazplus_a500
+    artist: hellbeard
+  dlt-arc.ans:
+    artist: dalton
+  ab-4rc.asc:
+    artist: acid.burn
+  ab-e.asc:
+    artist: acid.burn
+group: alphaforce

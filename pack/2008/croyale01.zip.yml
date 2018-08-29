@@ -1,0 +1,89 @@
+---
+files:
+  sp-aa.asc:
+    artist: spinsane
+  sp-rn.asc:
+    artist: spinsane
+  cpn-ce.asc:
+    artist: cpn
+  cpn-st.asc:
+    artist: cpn
+  cpn-det.asc:
+    artist: cpn
+  sp-docu.asc:
+    artist: spinsane
+  cpn-hd.asc:
+    artist: cpn
+  sp-sdrdvd.asc:
+    artist: spinsane
+  2o-hore.asc:
+    artist: aeroholics
+  cpn-cru.asc:
+    artist: cpn
+  cpn-ec.asc:
+    artist: cpn
+  zmr-jan07.asc:
+    artist: zemra
+  2o-lgc.asc:
+    artist: aeroholics
+  cbn-trwins.asc:
+    artist: cubon
+  2o-cffd.asc:
+    artist: aeroholics
+  2o-pfd.asc:
+    artist: aeroholics
+  cpn-tm.asc:
+    artist: cpn
+  sp-nuke.asc:
+    artist: spinsane
+  zmr-xoba.asc:
+    artist: zemra
+  cbn-saga.asc:
+    artist: cubon
+  zmr-dcl.asc:
+    artist: zemra
+  sp-iht.asc:
+    artist: spinsane
+  2o-fl.asc:
+    artist: aeroholics
+  zmr-gtf.asc:
+    artist: zemra
+  sp-mon.ans:
+    artist: spinsane
+  2o-hdmi.asc:
+    artist: aeroholics
+  2o-bl.asc:
+    artist: aeroholics
+  sp-notv.asc:
+    artist: spinsane
+  2o-tr_pkm.asc:
+    artist: aeroholics
+  cpn-c4.asc:
+    artist: cpn
+  sp-utop.asc:
+    artist: spinsane
+  sp-elf.asc:
+    artist: spinsane
+  sp-mad.asc:
+    artist: spinsane
+  sp-coc.asc:
+    artist: spinsane
+  zmr-tw.asc:
+    artist: zemra
+  sp-ats.asc:
+    artist: spinsane
+  cbn-krs.asc:
+    artist: cubon
+  cbn-x264.asc:
+    artist: cubon
+  sp-lh1.asc:
+    artist: spinsane
+  cpn-sn.asc:
+    artist: cpn
+  2o-ab.asc:
+    artist: aeroholics
+  zmr-hdp.asc:
+    artist: zemra
+  zmr-mtn.asc:
+    artist: zemra
+group: chemical.reaction

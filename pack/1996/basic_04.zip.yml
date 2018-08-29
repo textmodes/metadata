@@ -1,0 +1,83 @@
+---
+files:
+  c4-kts.asc:
+    artist: c4nn
+  c4-bp.asc:
+    artist: c4nn
+  c4-gen.asc:
+    artist: c4nn
+  tmm-scum.asc:
+    artist: the.masked.marauder
+  ep-neo.asc:
+    artist: epidemic
+  tmm-slky.asc:
+    artist: the.masked.marauder
+  fh-jhd.asc:
+    artist: fahrenheit
+  c4-verti.asc:
+    artist: c4nn
+  tmm-phan.asc:
+    artist: the.masked.marauder
+  tmm-dtoc.asc:
+    artist: the.masked.marauder
+  c4-eupho.asc:
+    artist: c4nn
+  ep-enygm.asc:
+    artist: epidemic
+  c4-basic.asc:
+    artist: c4nn
+  ep-kal.asc:
+    artist: epidemic
+  tmm-lgcy.asc:
+    artist: the.masked.marauder
+  kal-stru.asc:
+    artist: kaleidas
+  kal-full.asc:
+    artist: kaleidas
+  tmm-akit.asc:
+    artist: the.masked.marauder
+  dev-apat.diz:
+    artist: devil.messiah
+  kal-drip.asc:
+    artist: kaleidas
+  sw-trank.asc:
+    artist: slick.willard
+  tmm-crnk.asc:
+    artist: the.masked.marauder
+  tmm-p201.asc:
+    artist: the.masked.marauder
+  tmm-dto1.asc:
+    artist: the.masked.marauder
+  ep-echh.asc:
+    artist: epidemic
+  dt-hoo3.asc:
+    artist: defiant
+  ep-cance.asc:
+    artist: epidemic
+  kal-stra.asc:
+    artist: kaleidas
+  ep-nig.asc:
+    artist: epidemic
+  c4-hn!.asc:
+    artist: c4nn
+  kal-scum.asc:
+    artist: kaleidas
+  ep-basi2.asc:
+    artist: epidemic
+  c4-zoo.asc:
+    artist: c4nn
+  tmm-puma.asc:
+    artist: the.masked.marauder
+  tmm-basc.asc:
+    artist: the.masked.marauder
+  tmm-yolk.asc:
+    artist: the.masked.marauder
+  fh-tbd.asc:
+    artist: fahrenheit
+  tmm-d3th.asc:
+    artist: the.masked.marauder
+  tmm-aos1.asc:
+    artist: the.masked.marauder
+  tmm-pong.asc:
+    artist: the.masked.marauder
+group: basic!ascii

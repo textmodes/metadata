@@ -1,0 +1,15 @@
+---
+files:
+  oxide.asc:
+    artist: oxidizer
+  us-blndr.ans:
+    artists:
+    - rust
+    - paratoxique
+  n4-fuck.ans:
+    artist: sodium
+  wa-hulk.ans:
+    artist: warpus
+  tk-hulk.ans:
+    artist: the.knight
+group: the.blender

@@ -1,0 +1,44 @@
+---
+files:
+  ra-leap.ans:
+    artist: r@
+  rlx!grl2.asc:
+    artist: relaxing.lynx
+  snk-inthsk.jpg:
+    artist: snake
+  ra-nosfe.ans:
+    artist: r@
+  rlx!dogm.asc:
+    artist: relaxing.lynx
+  pp-mm.asc:
+    artist: peaceprayer
+  pp-pain.ans:
+    artist: peaceprayer
+  pp-heart.ans:
+    artist: peaceprayer
+  pp-rbt.ans:
+    artist: peaceprayer
+  pp-lucky.ans:
+    font: cp866-8x16
+    artist: peaceprayer
+  rlx!lady.asc:
+    artist: relaxing.lynx
+  chu-sv.lit:
+    font: cp866-8x16
+    artist: chubaka
+  file_id.diz:
+    artist: peaceprayer
+  pp-love.lit:
+    font: cp866-8x16
+    artist: peaceprayer
+  pp-alien.ans:
+    artist: peaceprayer
+  pp-diff.ans:
+    artist: peaceprayer
+  drg-logo.asc:
+    artist: drago
+  drg-univ.asc:
+    artist: drago
+  rebirth.nfo:
+    font: cp866-8x16
+group: rebirth

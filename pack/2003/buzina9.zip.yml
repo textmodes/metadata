@@ -1,0 +1,33 @@
+---
+files:
+  crs-aoa.ans:
+    artist: crasher
+  anec.txt:
+    font: cp866-8x16
+  echo.txt:
+    font: cp866-8x16
+    artist: crasher
+  buzina.txt:
+    font: cp866-8x16
+    artist: crasher
+  crs-svd.ans:
+    artist: crasher
+  crs-nost.asc:
+    artist: crasher
+  crs-blak.ans:
+    artist: crasher
+  crs-peac.asc:
+    artist: crasher
+  crs-rlc.ans:
+    artist: crasher
+  crs-bad.asc:
+    font: cp866-8x16
+    artist: crasher
+  crs-tire.ans:
+    font: cp866-8x16
+    artist: crasher
+  crs-shit.asc:
+    artist: crasher
+  crs-butt.ans:
+    artist: crasher
+group: buzina.factory

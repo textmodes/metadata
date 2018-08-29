@@ -1,0 +1,58 @@
+---
+files:
+  t01-spkd.asc:
+    artist: tribe
+  dd-graf.asc:
+    artist: diamondie
+  an-acid.asc:
+    artist: annie
+  bw-cos.asc:
+    artist: binary.walker
+  bw-logo.ans:
+    artist: binary.walker
+  bw-rwnd.asc:
+    artist: binary.walker
+  bw-u3mon.ans:
+    artist: binary.walker
+  u3-fuck.ans:
+    artist: unseen.fate
+  hx-w33d.ans:
+    font: cp437_8x8
+    artist: haliphax
+  u3-betho.ans:
+    font: cp437_8x8
+    artist: unseen.fate
+  hx-rmrs.asc:
+    font: topazplus-a500
+    artist: haliphax
+  an-dline.asc:
+    artist: annie
+  rm-mc666.asc:
+    artist: rm
+  rm-trebl.asc:
+    artist: rm
+  an-funkp.asc:
+    artist: annie
+  u3-sam.ans:
+    artist: unseen.fate
+  u3-guttr.ans:
+    artist: unseen.fate
+  u3-fatfck.ans:
+    artist: unseen.fate
+  an-cns.diz:
+    artist: annie
+  bw-btm.ans:
+    artist: binary.walker
+  an-2lame.asc:
+    font: topazplus_a500
+    artist: annie
+  hx-snd.diz:
+    font: topazplus-a500
+    artist: haliphax
+  hx-antif.diz:
+    font: topazplus-a500
+    artist: haliphax
+  mkk-isle.asc:
+    font: topazplus_a500
+    artist: mekanik
+group: pen15

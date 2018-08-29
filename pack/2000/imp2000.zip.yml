@@ -1,0 +1,79 @@
+---
+files:
+  dwf-cmm.asc:
+    artist: dwarf
+  po-tee_r.asc:
+    artist: pogue
+  dwf-fabi.asc:
+    artist: dwarf
+  us-imp.asc:
+    artists:
+    - spitfire
+    - pogue
+  po-bitch.asc:
+    artist: pogue
+  xz-main.asc:
+    artist: hellbeard
+  dwf-cd.asc:
+    artist: dwarf
+  spf-mtls.asc:
+    artist: spitfire
+  us-wint.asc:
+    artists:
+    - pogue
+    - hellbeard
+  xz-acid.asc:
+    artist: hellbeard
+  po-hzmt2.asc:
+    artist: pogue
+  file_id.diz:
+    font: topazplus-a500
+  xz-imp2.asc:
+    artist: hellbeard
+  dwf-b1.asc:
+    artist: dwarf
+  dwf-2ooo.asc:
+    artist: dwarf
+  po-bulls.asc:
+    artist: pogue
+  dwf-noch.asc:
+    artist: dwarf
+  spf-lnda.asc:
+    artist: spitfire
+  po-dscen.asc:
+    artist: pogue
+  po-void.asc:
+    artist: pogue
+  po-conun.asc:
+    artist: pogue
+  po-inhal.asc:
+    artist: pogue
+  po-2000.asc:
+    artist: pogue
+  po-axis.asc:
+    artist: pogue
+  po-evol.asc:
+    artist: pogue
+  bfr!imp.asc:
+    artist: befeater
+  po-v2.asc:
+    artist: pogue
+  spf-impr.asc:
+    artist: spitfire
+  us-2000.asc:
+    artists:
+    - pogue
+    - dwarf
+  po-zip.asc:
+    artist: pogue
+  dwf-fuck.asc:
+    artist: dwarf
+  po-y2k.asc:
+    artist: pogue
+  us-thug.asc:
+    artist: spitfire
+  po-inso.asc:
+    artist: pogue
+  dwf-imp.asc:
+    artist: dwarf
+group: impure!ascii.1940

@@ -1,0 +1,33 @@
+---
+files:
+  43-mvs.asc:
+    artist: aesthetic
+  43mkk-mmc.ans:
+    artists:
+    - aesthetic
+    - steve
+  h7-fatha.asc:
+    artist: h7
+  h7-mmc85.txt:
+    font: topazplus-a500
+    artist: h7
+  b5-syd.asc:
+    artist: barium
+  c-utopia.txt:
+    artist: c-jeff
+  c-chaos.ans:
+    artist: c-jeff
+  file_id.diz:
+    artist: h7
+  h7-sushi.asc:
+    artist: h7
+  h7-acces.asc:
+    artist: h7
+  h7-myria.asc:
+    artist: h7
+  rm-user.asc:
+    font: topazplus-a500
+    artist: ricky.martin
+  mkk-rivl.ans:
+    artist: steve
+group: mimic

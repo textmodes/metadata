@@ -1,0 +1,127 @@
+---
+files:
+  rd-gurgl.ans:
+    artist: raider
+  sf-gulp.ans:
+    artist: shaft
+  qs-ione3.ans:
+    artist: quasar
+  or-cs.ans:
+    artist: outraider
+  ph-jazz.ans:
+    artist: phlare
+  dkl-0003.asc:
+    artist: darkleet
+  rd-shade.xb:
+    artist: raider
+  pnk-lqdw.ans:
+    artist: phanatik
+  sf-gulp2.ans:
+    artist: shaft
+  us-tri.ans:
+    artists:
+    - samurai
+    - phlare
+  us-hzd.ans:
+    artist: phlare
+  pnk-anp1.ans:
+    artist: phanatik
+  k-nothin.ans:
+    artist: kelthar
+  ds-tri.ans:
+    artist: dfuse
+  pnk-tri1.ans:
+    artist: phanatik
+  d9_toast.asc:
+    artist: delta.9
+  ds-dp.ans:
+    artist: dfuse
+  rd-core1.xb:
+    artist: raider
+  ph-ns.ans:
+    artist: phlare
+  rd-core.jpg:
+    artist: raider
+  d9_grape.asc:
+    artist: delta.9
+  zyal8er.ans:
+    artists:
+    - raider
+    - phlare
+  rd-clau1.ans:
+    artist: raider
+  ph-hype.ans:
+    artist: phlare
+  rd-droid.ans:
+    artist: raider
+  g-slem.ans:
+    artist: gooe
+  qs-som1.ans:
+    artist: quasar
+  or-abs.ans:
+    artist: outraider
+  us-ione.ans:
+    artists:
+    - raider
+    - phlare
+  qs-abs1.ans:
+    artist: quasar
+  rd-llb.ans:
+    artist: raider
+  d2!awol.asc:
+    artist: d2mac
+  or-hlb.ans:
+    artist: outraider
+  ph-areas.ans:
+    artist: phlare
+  sf-colli.ans:
+    artist: shaft
+  or-tri.ans:
+    artist: outraider
+  rd-fbi!.ans:
+    artist: raider
+  sf-toast.ans:
+    artist: shaft
+  or-g.ans:
+    artist: outraider
+  rd-junk.ans:
+    artist: raider
+  qs-plan1.ans:
+    artist: quasar
+  ph-tri.xb:
+    artist: phlare
+  ds-sni.ans:
+    artist: dfuse
+  d9_deb.asc:
+    artist: delta.9
+  m2-grape.ans:
+    artist: milkmang
+  rd-s!!@.ans:
+    artist: raider
+  rd-boing.ans:
+    artist: raider
+  or-ind.ans:
+    artist: outraider
+  or-plan.ans:
+    artist: outraider
+  or-ione.ans:
+    artist: outraider
+  m2-ascii.ans:
+    artist: milkmang
+  d9_shade.asc:
+    artist: delta.9
+  rd-c0re8.ans:
+    artist: raider
+  qs-pic8.ans:
+    artist: quasar
+  qs-soda1.ans:
+    artist: quasar
+  qs-tst1.ans:
+    artist: quasar
+  ds-stats.ans:
+    artist: dfuse
+  us-one.ans:
+    artists:
+    - gooe
+    - raider
+group: shade

@@ -1,0 +1,15 @@
+---
+files:
+  qp-nerp1.ans:
+    artist: quip
+  qp-iceb1.ans:
+    artist: quip
+  qp-tsl1.ans:
+    artist: quip
+  qp-grad1.ans:
+    artist: quip
+  qp-token.ans:
+    artist: quip
+  qp-scent.ans:
+    artist: quip
+group: function

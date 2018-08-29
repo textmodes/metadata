@@ -1,0 +1,67 @@
+---
+files:
+  4d-legn.ans:
+    artist: access.denied
+  avg-27i.ans:
+    artist: avenging.angel
+  k1-1465.ans:
+    artist: knocturnal
+  we-porcd.ans:
+    artists:
+    - knocturnal
+    - access.denied
+  k1-gand.ans:
+    artist: knocturnal
+  we-death.ans:
+    artists:
+    - knocturnal
+    - avenging.angel
+  1465_report_001.ans:
+    artists:
+    - avenging.angel
+    - luciano
+    - access.denied
+  we-iqtm.ans:
+    artists:
+    - luciano
+    - access.denied
+    - avenging.angel
+  we-iniq3.ans:
+    artists:
+    - avenging.angel
+    - access.denied
+  us-myriad.ans:
+    artists:
+    - h7
+    - knocturnal
+    - avenging.angel
+  4d-lord.ans:
+    artist: access.denied
+  avg-nazi.ans:
+    artist: avenging.angel
+  we-phlc.ans:
+    artists:
+    - avenging.angel
+    - access.denied
+  4d-eob.ans:
+    artist: access.denied
+  4d-viix2.ans:
+    artist: access.denied
+  4d-iniq1.ans:
+    artist: access.denied
+  we-rmad.ans:
+    artists:
+    - access.denied
+    - avenging.angel
+    - knocturnal
+  avg-loser.ans:
+    artist: avenging.angel
+  4d-ds69.ans:
+    artist: access.denied
+  k1-nodrm.ans:
+    artist: knocturnal
+  avg-clown.ans:
+    artist: avenging.angel
+  zo_theo.ans:
+    artist: luciano
+group: '1465'

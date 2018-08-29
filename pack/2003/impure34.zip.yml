@@ -1,0 +1,129 @@
+---
+files:
+  eld!-dwz.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-mas.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-pty.asc:
+    font: topazplus-a1200
+    artist: elend
+  ps-amo.asc:
+    font: topazplus-a500
+    artist: podsi
+  eld!-rei.asc:
+    font: topazplus-a1200
+    artist: elend
+  po-galm.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-rto2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  dc-amnu2.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  po-retr.diz:
+    font: topazplus-a500
+    artist: pogue
+  eld!-ziv.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-wc.asc:
+    font: topazplus-a1200
+    artist: elend
+  xz-art.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-port.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-tx260.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  eld!slut.asc:
+    font: topazplus-a1200
+    artist: elend
+  file_id.diz:
+    font: topazplus-a500
+  eld!-spx.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-uqe.asc:
+    font: topazplus-a1200
+    artist: elend
+  po-moods.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-main.asc:
+    font: topazplus-a1200
+    artist: pogue
+  eld!-prt.asc:
+    font: topazplus-a1200
+    artist: elend
+  ps-cf.asc:
+    font: topazplus-a500
+    artist: podsi
+  eld!-iro.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-vor.asc:
+    font: topazplus-a1200
+    artist: elend
+  dc-blr.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  eld!-mux.asc:
+    font: topazplus-a1200
+    artist: elend
+  po-retr.asc:
+    font: topazplus-a1200
+    artist: pogue
+  eld!-grt.asc:
+    font: topazplus-a1200
+    artist: elend
+  esd-sari.asc:
+    font: topazplus-a1200
+    artist: e_side
+  xz-port.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  ps-imp.asc:
+    font: topazplus-a500
+    artist: podsi
+  esd-plu2.asc:
+    font: topazplus-a1200
+    artist: e_side
+  us-bi.asc:
+    font: topazplus-a500
+  dc-port.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  eld!trsi.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-rit.asc:
+    font: topazplus-a1200
+    artist: elend
+  esd-tjb2.asc:
+    font: topazplus-a1200
+    artist: e_side
+  dc-mod.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  ps-bump.asc:
+    font: topazplus-a500
+    artist: podsi
+  po-rto3.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-rto1.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure34.inf:
+    font: topazplus-a500
+  dc-amnu1.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+group: impure!ascii.1940

@@ -1,0 +1,75 @@
+---
+files:
+  hx-bp.txt:
+    font: topazplus-a500
+    artist: haliphax
+  hx-statd.txt:
+    font: topazplus-a500
+    artist: haliphax
+  hx-bisln.ans:
+    font: topazplus-a500
+    artist: haliphax
+  no-bflag-1.asc:
+    artist: noches
+  no-bflag-2.asc:
+    artist: noches
+  iks-dmv.asc:
+    artist: irokos
+  ko-king.ans:
+    artist: konami
+  h7-blockmenu.asc:
+    artist: h7
+  asx-prup.asc:
+    artist: asphyx
+  ko-gilber.ans:
+    artist: konami
+  zo-gridbreak.ans:
+    artist: luciano
+  jp!is3.ans:
+    artist: jack.phlash
+  h7-fro_ssho.txt:
+    artist: h7
+  asx-shr1.asc:
+    artist: asphyx
+  jp!ngnx1.asc:
+    artist: jack.phlash
+  file_id.diz:
+    font: topazplus-a500
+  jp!lg1.asc:
+    artist: jack.phlash
+  h7-amigalogoz-b3.txt:
+    artist: h7
+  cl!-ecc.ans:
+    artist: cleaner
+  iks-pouettttt.xb:
+    artist: irokos
+  ko-widow.ans:
+    artist: konami
+  k1-haci2.asc:
+    artist: knocturnal
+  k1-sauce.asc:
+    artist: knocturnal
+  cl!-brka.ans:
+    artist: cleaner
+  k1-haci.asc:
+    artist: knocturnal
+  k1-break.asc:
+    artist: knocturnal
+  jp!blrmx.ans:
+    artist: jack.phlash
+  zfr-90d.asc:
+    font: mo-soul
+    artist: zefyros
+  zo-br3ak.ans:
+    artist: luciano
+  34-flag.ans:
+    font: topazplus-a1200
+    artist: spear
+  ko-lwins.ans:
+    artist: konami
+  hx-aa.txt:
+    font: topazplus-a500
+    artist: haliphax
+  h7-trsirocketnfo.txt:
+    artist: h7
+group: break!ascii

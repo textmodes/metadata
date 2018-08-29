@@ -1,0 +1,35 @@
+---
+files:
+  cl.nfo.png:
+    artist: phi0n
+  clue-alt.nfo.png:
+    artists:
+    - phi0n
+    - ph7
+  clue-old.nfo:
+    artists:
+    - phi0n
+    - ph7
+  clue-old-old.nfo.png:
+    artist: ph7
+  cl.nfo:
+    artist: phi0n
+  clue-old-old.nfo:
+    artist: ph7
+  charged.nfo.png:
+    artist: phi0n
+  charged.nfo:
+    artist: phi0n
+  clerks.nfo:
+    artist: phi0n
+  clerks.nfo.png:
+    artist: phi0n
+  clue-alt.nfo:
+    artists:
+    - phi0n
+    - ph7
+  clue-old.nfo.png:
+    artists:
+    - phi0n
+    - ph7
+group: silk

@@ -1,0 +1,34 @@
+---
+files:
+  ko-ass.asc:
+    artist: kingpin.octopus
+  ko-pika.asc:
+    artist: kingpin.octopus
+  ozz-bloo.txt:
+    font: topazplus-a500
+    artist: kayozz
+  ozz-land.txt:
+    font: topazplus-a500
+    artist: kayozz
+  ozz-mimc.txt:
+    font: topazplus-a500
+    artist: kayozz
+  bjasc121.ans:
+    artist: black.jack
+  ozz-wrld.txt:
+    font: topazplus-a500
+    artist: kayozz
+  ko-dan.asc:
+    artist: kingpin.octopus
+  bjasc120.ans:
+    artist: black.jack
+  k!ese.asc:
+    artist: keetar
+  ozz-egot.txt:
+    font: topazplus-a500
+    artist: kayozz
+  ds-awe00.asc:
+    artist: dead.soul
+  k!sinfo.asc:
+    artist: keetar
+group: mimic

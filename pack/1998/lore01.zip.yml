@@ -1,0 +1,65 @@
+---
+files:
+  echo.jpg:
+    artist: maligore
+  us-poo.ans:
+    artists:
+    - luminous
+    - mr..wrong
+    - 4th.disciple
+  sa-mtx.ans:
+    artist: stone.amnesia
+  cs-blnd1.ans:
+    artist: crimsonskye
+  sa-def.ans:
+    artist: stone.amnesia
+  us-vill.ans:
+    artists:
+    - zerovision
+    - taintedx
+  uns-zac2.ans:
+    artist: unsane
+  se-lore.ans:
+    artist: sensei
+  cr-defs.ans:
+    artist: creator
+  uns-zac1.ans:
+    artist: unsane
+  e0-cake.ans:
+    artist: luciano
+  gs-defj1.ans:
+    artist: grindstoned
+  file_id.diz:
+    artists:
+    - stone.amnesia
+    - ellisdee
+  sa-avg.ans:
+    artist: stone.amnesia
+  us-woe.ans:
+    artists:
+    - sensei
+    - taintedx
+    - egoteq
+  lore01.ans:
+    artist: taintedx
+  us-ot.ans:
+    artists:
+    - fire.from.heaven
+    - taintedx
+  sa-lost.ans:
+    artist: stone.amnesia
+  eq-lore0.ans:
+    artist: egoteq
+  e0-orb.ans:
+    artist: luciano
+  cs-goo01.ans:
+    artist: crimsonskye
+  cs-idle1.ans:
+    artist: crimsonskye
+  us-defj1.ans:
+    artists:
+    - lord.scarlet
+    - grindstoned
+  lore01.nfo:
+    artist: taintedx
+group: lore

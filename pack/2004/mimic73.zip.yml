@@ -1,0 +1,41 @@
+---
+files:
+  h7-usele.asc:
+    artist: h7
+  rm-73.asc:
+    artist: ricky.martin
+  h7-bitso.asc:
+    artist: h7
+  dip-symp.asc:
+    artist: dipswitch
+  jn-mmc6y.ans:
+    artist: jashiin
+  smp-mimc.ans:
+    artist: shrimp
+  drj-mmc.ans:
+    artist: ddrj
+  hx-mblk.asc:
+    font: cp437_8x16
+    artist: haliphax
+  wk-73.txt:
+    artist: wisekid
+  drj-duck.ans:
+    artist: ddrj
+  drj-gods.ans:
+    artist: ddrj
+  hx-grn.asc:
+    font: topazplus-a500
+    artist: haliphax
+  t01-hadd.asc:
+    artist: tribe
+  drj-73.ans:
+    artist: ddrj
+  je-moves.txt:
+    artist: c-jeff
+  jn-fathr.ans:
+    artist: jashiin
+  je-qc.txt:
+    artist: c-jeff
+  bjasc271.ans:
+    artist: black.jack
+group: mimic

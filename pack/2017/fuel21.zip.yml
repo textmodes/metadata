@@ -1,0 +1,71 @@
+---
+files:
+  bs-mia.ans:
+    artist: burps
+  n-fuel21.ans:
+    artist: nail
+  tk-samanthafox.ans:
+    artist: the.knight
+  aoh-fuel21.ans:
+    artist: pinguino
+  bs-iptf.ans:
+    artist: burps
+  tk-gatstrikje.ans:
+    artist: the.knight
+  avg-heman.ans:
+    artist: avenging.angel
+  ppe-bikini.ans:
+    artist: propane
+  nf-ape.ans:
+    artist: nail
+  k1-lg21.ans:
+    artist: knocturnal
+  nf-21.ans:
+    artist: nail
+  bs-wss.ans:
+    artist: burps
+  bs-jjf.ans:
+    artist: burps
+  bs-utbf.ans:
+    artist: burps
+  file_id.diz:
+    artist: burps
+  tk-lesbiroxy.ans:
+    artist: the.knight
+  zii-ink2.ans:
+    artist: zeus.ii
+  om-ivanka.ans:
+    artist: otium
+  tk-theowls.ans:
+    artist: the.knight
+  lum-666.ans:
+    artist: luminator
+  bs-oliwia.ans:
+    artist: burps
+  avg-optimus.ans:
+    artist: avenging.angel
+  tk-thenunny.ans:
+    artist: the.knight
+  bs-boss.ans:
+    artist: burps
+  zii-frs2.ans:
+    artist: zeus.ii
+  zii-alco.ans:
+    artist: zeus.ii
+  us-infidel.ans:
+    artists:
+    - knocturnal
+    - the.knight
+  bs-ameth.ans:
+    artist: burps
+  bs-angus.ans:
+    artist: burps
+  misfit-fuel.ans:
+    artist: misfit
+  file_id.asc:
+    artist: burps
+  ppe-elvis.ans:
+    artist: propane
+  tcf-wik2.ans:
+    artist: the.creep.fever
+group: fuel

@@ -1,0 +1,35 @@
+---
+files:
+  tsk-rust.ans:
+    artist: the.silent.killer
+  33-tls2.ans:
+    artist: eerie
+  p1-ei2.ans:
+    artist: prisoner.#1
+  tsk-dm1.ans:
+    artist: the.silent.killer
+  p1-fire3.ans:
+    artist: prisoner.#1
+  p1-mista.ans:
+    artist: prisoner.#1
+  33-reg10.ans:
+    artist: eerie
+  tsk-tg7.ans:
+    artist: the.silent.killer
+  33-appl2.ans:
+    artist: eerie
+  33-md1.ans:
+    artist: eerie
+  tsk-tos1.ans:
+    artist: the.silent.killer
+  33-tund1.ans:
+    artist: eerie
+  p1-bzr.ans:
+    artist: prisoner.#1
+  tsk-asp1.ans:
+    artist: the.silent.killer
+  33-cdi1.ans:
+    artist: eerie
+  p1-fire2.gif:
+    artist: prisoner.#1
+group: fire

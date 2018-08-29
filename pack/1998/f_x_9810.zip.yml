@@ -1,0 +1,13 @@
+---
+files:
+  qp-skate.ans:
+    artist: quip
+  qp-f9810.ans:
+    artist: quip
+  "nit-\u03A6.ans":
+    artist: nitnatsnoc
+  qp-gut.ans:
+    artist: quip
+  nit-().ans:
+    artist: nitnatsnoc
+group: function

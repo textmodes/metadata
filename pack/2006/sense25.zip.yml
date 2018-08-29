@@ -1,0 +1,40 @@
+---
+files:
+  zv-ev3.ans:
+    artist: zerovision
+  avg-srmx.ans:
+    artist: avenging.angel
+  ack-sns1.ans:
+    artist: arrogance
+  43-euph10.ans:
+    artist: aesthetic
+  cl!-sad2.ans:
+    artist: cleaner
+  tcf-tribute.ans:
+    artist: the.creep.fever
+  cl!-elit.ans:
+    artist: cleaner
+  zv-htc2.ans:
+    artist: zerovision
+  svg-2006.ans:
+    artist: svg
+  we-sns25.ans:
+    artists:
+    - ansichrist
+    - avenging.angel
+    - m0lo
+    - zerovision
+    - ansichrist
+    - propane
+    - aesthetic
+  m0-ansi.ans:
+    artist: m0lo
+  m0-mario.ans:
+    artist: m0lo
+  m0-mel.ans:
+    artist: m0lo
+  f5-peer.ans:
+    artist: fusion
+  m0-super.ans:
+    artist: m0lo
+group: sense

@@ -1,0 +1,53 @@
+---
+files:
+  sns-yard.txt:
+    font: topazplus_a1200
+  jp!nrco1.ans:
+    artist: jack.phlash
+  jp!prrmx.asc:
+    artist: jack.phlash
+  sns-fujiology.txt:
+    font: topazplus_a1200
+  emulaatio_by_mjd.nfo:
+    font: topazplus_a1200
+  sns-retropie.txt:
+    font: topazplus_a1200
+  h7-trilobitinfo.asc:
+    artist: h7
+  h7-response.asc:
+    artist: h7
+  sns-airtv.txt:
+    font: topazplus_a1200
+  k1-why.ans:
+    artist: knocturnal
+  h7-xmasasciis.asc:
+    artist: h7
+  h7-dekadenceinfo.asc:
+    artist: h7
+  break_09.mem:
+    artist: knocturnal
+  iks-esg.asc:
+    artist: irokos
+  sns-airline.txt:
+    font: topazplus_a1200
+  h7-byterapersdiz.asc:
+    artist: h7
+  iks-spectre.asc:
+    artist: irokos
+  iks-ricola.asc:
+    artist: irokos
+  hx-bbndr.ans:
+    font: topazplus-a500
+    artist: haliphax
+  xz-plupp3.ans:
+    font: topazplus-a500
+    artist: hellbeard
+  jp!engm1.ans:
+    artist: jack.phlash
+  jp!zill2.asc:
+    artist: jack.phlash
+  break_09.nfo:
+    artist: knocturnal
+  k1-shift.ans:
+    artist: knocturnal
+group: break!ascii

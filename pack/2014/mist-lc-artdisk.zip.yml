@@ -1,0 +1,105 @@
+---
+files:
+  hb-stick.ans:
+    artist: handiboy
+  tz-mist1.ans:
+    artist: tzeentch
+  33-river.html:
+    artist: eerie
+  fl-mist.asc:
+    artist: feral
+  bs-redpe.txt:
+    artist: basic
+  goldview.gif:
+    artist: feral
+  m--dre.ans:
+    artist: muton
+  readme.ans:
+    artist: cthulu
+  33-mist4.gif:
+    artist: eerie
+  rh-tled1.ans:
+    artist: rash
+  cda-09.jpg:
+    artist: zinnia.kray
+  iq-pnr03.ans:
+    artist: inquisitor
+  readme.txt:
+    artist: cthulu
+  yt-tst3.gif:
+    artist: neophyte
+  ffh-abra.ans:
+    artist: fire.from.heaven
+  hf-gleep.ans:
+    artist: happyfish
+  fl-gka.ans:
+    artist: flibbles
+  wd-mist.asc:
+    artist: weird
+  hf-nh.gif:
+    artist: happyfish
+  tc-mist2.gif:
+    artist: tincat
+  33-rust.ans:
+    artists:
+    - cthulu
+    - eerie
+  mz-reg1.ans:
+    artist: whazzit
+  sm-fnd1.ans:
+    artist: solar.menace
+  yt-cizb2.gif:
+    artist: neophyte
+  pv-cci0.ans:
+    artist: pure.voltage
+  cm-mist.ans:
+    artist: crystal.meth
+  icn-0897.gif:
+    artist: iconoclast
+  ds-cht.asc:
+    artist: dark.soul
+  cda-03.jpg:
+    artist: zinnia.kray
+  et-dode.ans:
+    artist: etana
+  33-mist4.html:
+    artist: eerie
+  kithe-14.gif:
+    artists:
+    - tincat
+    - cthulu
+  mc-ls.gif:
+    artist: mordecai
+  p1-fw1.ans:
+    artist: prisoner.#1
+  seroots2.gif:
+    artist: sentience
+  33-river.ans:
+    artist: eerie
+  hb-sperm.ans:
+    artist: handiboy
+  3_atomiq.ans:
+    artist: tricolore
+  icn-0897.asc:
+    artist: iconoclast
+  kithe-14.nfo:
+    artist: cthulu
+  m-eighta.ans:
+    artist: muton
+  se-mist1.ans:
+    artist: sentience
+  chlk_w1.jpg:
+    artist: a.cast.of.thousands
+  te-cizb2.ans:
+    artist: the.extremist
+  tc-blk.ans:
+    artist: tincat
+  sa-ld.gif:
+    artist: shaolin
+  p1-mist.rip:
+    artist: prisoner.#1
+  sa-dg.gif:
+    artist: shaolin
+  tc-mist1.jpg:
+    artist: tincat
+group: mistigris

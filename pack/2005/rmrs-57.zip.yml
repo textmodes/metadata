@@ -1,0 +1,81 @@
+---
+files:
+  cbn-dn.asc:
+    font: topaz-a1200
+    artist: cubon
+  cbn-funkp.asc:
+    font: topaz-a1200
+    artist: cubon
+  hx-punc.asc:
+    font: topazplus-a500
+    artist: haliphax
+  cbn-riot.asc:
+    font: topaz-a1200
+    artist: cubon
+  sp-lts.txt:
+    font: topaz-a1200
+    artist: spinsane
+  cbn-fasciist.xb:
+    artist: cubon
+  hx-r81.asc:
+    font: topazplus-a500
+    artist: haliphax
+  cbn-rmrs.asc:
+    font: topaz-a1200
+    artist: cubon
+  hx-aon2.asc:
+    font: cp437_8x16
+    artist: haliphax
+  us-xenon.asc:
+    artists:
+    - haliphax
+    - spinsane
+  ns-peep.asc:
+    artist: ansichrist
+  jx!grow.ans:
+    artist: joplex
+  cbn-psykle.asc:
+    font: topaz-a1200
+    artist: cubon
+  cbn-edge.asc:
+    font: topaz-a1200
+    artist: cubon
+  rb-ache.txt:
+    font: topaz-a1200
+    artist: raster.burn
+  nt-rca.ans:
+    artist: nightrain
+  nt-atv.asc:
+    artist: nightrain
+  hx-face.asc:
+    font: cp437_8x16
+    artist: haliphax
+  nt-hl.asc:
+    artist: nightrain
+  rb-gyges.txt:
+    font: topaz-a1200
+    artist: raster.burn
+  jx!remorse bendings.jpg:
+    artist: joplex
+  sp-gms.txt:
+    font: topaz-a1200
+    artist: spinsane
+  cbn-pkv.asc:
+    font: topaz-a1200
+    artist: cubon
+  cm-sac.ans:
+    artist: cmang
+  ns-conf.asc:
+    font: topaz-a1200
+    artist: ansichrist
+  rb-pertn.txt:
+    font: topaz-a1200
+    artist: raster.burn
+  nt-fed.asc:
+    artist: nightrain
+  cbn-gbcds.asc:
+    font: topaz-a1200
+    artist: cubon
+  jx!peak.ans:
+    artist: joplex
+group: remorse.1981

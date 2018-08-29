@@ -1,0 +1,49 @@
+---
+files:
+  iph-hype.ans:
+    artist: inphamilair
+  iph-pvod.ans:
+    artist: inphamilair
+  ds-arj.ans:
+    artist: dying.soul
+  xz-area.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  emk-a99.asc:
+    artist: emok
+  zb!pi.asc:
+    artist: zubfatal
+  drn-arc.asc:
+    artist: drain
+  ds-arc2.ans:
+    artist: dying.soul
+  xz-dlr.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  emk-icin.ans:
+    artist: emok
+  iph-dlr.ans:
+    artist: inphamilair
+  zb!dpnet.ans:
+    artist: zubfatal
+  ds-arc.ans:
+    artist: dying.soul
+  us-b2k.ans:
+    artists:
+    - inphamilair
+    - hellbeard
+    - drain
+  zb!8ball.asc:
+    artist: zubfatal
+  dlt-icng.ans:
+    artist: dalton
+  zb!giso.asc:
+    artist: zubfatal
+  zb!gvcd.asc:
+    artist: zubfatal
+  zb-ei-.nfo:
+    artist: zubfatal
+  xz-dlr2.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+group: alphaforce

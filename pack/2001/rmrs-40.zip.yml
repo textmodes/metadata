@@ -1,0 +1,79 @@
+---
+files:
+  er-crsh.asc:
+    font: topaz-a1200
+  dx-a-ud.asc:
+    font: topaz-a1200
+  axb-tru.asc:
+    font: topaz-a1200
+  pg-redoc.asc:
+    font: topaz-a1200
+  axb-rad.asc:
+    font: topaz-a1200
+  er-cdrw2.asc:
+    font: topaz-a1200
+  khz-kar.asc:
+    font: topaz-a1200
+  er-cdrw1.asc:
+    font: topaz-a1200
+  sp-prima.ans:
+    artist: spinsane
+  sp-inso.ans:
+    artist: spinsane
+  pg-ratem.asc:
+    font: topaz-a1200
+  tn-mnumb.asc:
+    font: topaz-a1200
+  ns-r3.ans:
+    artist: ansichrist
+  cm-bx.asc:
+    font: topaz-a1200
+    artist: cmang
+  cl!-mrl.asc:
+    font: topaz-a1200
+    artist: cleaner
+  er-onsun.asc:
+    font: topaz-a1200
+  hp-r81.asc:
+    font: topaz-a1200
+  us-xtc.txt:
+    font: topaz-a1200
+  sp-rap1.asc:
+    font: topaz-a1200
+    artist: spinsane
+  no-celon.ans:
+    artist: noches
+  sp-area.ans:
+    artist: spinsane
+  pg-dst.asc:
+    font: topaz-a1200
+  pg-dgtlg.asc:
+    font: topaz-a1200
+  sp-acey.ans:
+    artist: spinsane
+  no-1981.ans:
+    artist: noches
+  dx-nzi.asc:
+    font: topaz-a1200
+  er-rmrs.asc:
+    font: topaz-a1200
+  er-index.asc:
+    font: topaz-a1200
+  er-tzeen.asc:
+    font: topaz-a1200
+  pg-vcdsu.asc:
+    font: topaz-a1200
+  er-pulse.asc:
+    font: topaz-a1200
+  er-sunp.asc:
+    font: topaz-a1200
+  ns-2hiro.txt:
+    font: topaz-a1200
+    artist: ansichrist
+  tn-kul.asc:
+    font: topaz-a1200
+  pg-elite.asc:
+    font: topaz-a1200
+  er-packs.asc:
+    font: topaz-a1200
+group: remorse.1981

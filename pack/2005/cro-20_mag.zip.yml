@@ -1,0 +1,307 @@
+---
+files:
+  m0-tc.asc:
+    artist: m0lo
+  m0-css.asc:
+    artist: m0lo
+  m0-crn.png:
+    artist: m0lo
+  m0-po.asc:
+    artist: m0lo
+  ayl-trop.asc:
+    artist: aylien
+  rzh-berc.asc:
+    artist: orzech
+  rzh-uw..asc:
+    artist: orzech
+  cpn-tdkn.asc:
+    artist: cpn
+  cpn-tdkn.png:
+    artist: cpn
+  sp-cro.asc:
+    artist: spinsane
+  m0-pslog.png:
+    artist: m0lo
+  rzh-vbz.png:
+    artist: orzech
+  m0-tpn.png:
+    artist: m0lo
+  m0-subz.asc:
+    artist: m0lo
+  m0-pi.png:
+    artist: m0lo
+  m0-crn.asc:
+    artist: m0lo
+  ayl-trop.png:
+    artist: aylien
+  sp-coke.asc:
+    artist: spinsane
+  m0-fs.png:
+    artist: m0lo
+  m0-bidiz.asc:
+    artist: m0lo
+  cbn-mlcl.asc:
+    artist: cubon
+  ayl-ch.asc:
+    artist: aylien
+  m0-csdiz.asc:
+    artist: m0lo
+  m0-mrx.asc:
+    artist: m0lo
+  t!-willy.png:
+    artist: targon
+  m0-bidiz.png:
+    artist: m0lo
+  ayl-nort.asc:
+    artist: aylien
+  sp-coke.png:
+    artist: spinsane
+  rzh-be_s.asc:
+    artist: orzech
+  cpn-amic.png:
+    artist: cpn
+  m0-fs.asc:
+    artist: m0lo
+  rzh-fat.asc:
+    artist: orzech
+  cpn-rebn.png:
+    artist: cpn
+  ayl-mtc.png:
+    artist: aylien
+  m0-bb.asc:
+    artist: m0lo
+  m0-break.asc:
+    artist: m0lo
+  sp-m06.png:
+    artist: spinsane
+  m0-argo.asc:
+    artist: m0lo
+  ayl-ak47.png:
+    artist: aylien
+  ayl-poon.png:
+    artist: aylien
+  m0-po.png:
+    artist: m0lo
+  cpn-fdiz.asc:
+    artist: cpn
+  cpn-silo.asc:
+    artist: cpn
+  ayl-pyt.png:
+    artist: aylien
+  sp-m06.asc:
+    artist: spinsane
+  m0-dex.asc:
+    artist: m0lo
+  m0-eequit.asc:
+    artist: m0lo
+  ayl-hdvd.asc:
+    artist: aylien
+  m0-add.asc:
+    artist: m0lo
+  m0-tum.png:
+    artist: m0lo
+  cpn-f4cg.asc:
+    artist: cpn
+  m0-bin.asc:
+    artist: m0lo
+  rzh-berc.png:
+    artist: orzech
+  m0-eequit.png:
+    artist: m0lo
+  m0-tc.png:
+    artist: m0lo
+  cpn-envy.png:
+    artist: cpn
+  m0-csdiz.png:
+    artist: m0lo
+  ayl-giga.asc:
+    artist: aylien
+  cpn-pgsy.png:
+    artist: cpn
+  m0-tpn.asc:
+    artist: m0lo
+  ayl-giga.png:
+    artist: aylien
+  cpn-envy.asc:
+    artist: cpn
+  ayl-juiz.png:
+    artist: aylien
+  sp-cro.png:
+    artist: spinsane
+  m0-mrx.png:
+    artist: m0lo
+  cpn-logo.png:
+    artist: cpn
+  m0-epd.asc:
+    artist: m0lo
+  cpn-drti.asc:
+    artist: cpn
+  ayl-poon.asc:
+    artist: aylien
+  m0-a.asc:
+    artist: m0lo
+  rzh-sl.asc:
+    artist: orzech
+  rzh-suns.asc:
+    artist: orzech
+  m0-mic.png:
+    artist: m0lo
+  cpn-bucl.asc:
+    artist: cpn
+  cpn-f4cg.png:
+    artist: cpn
+  m0-irrm.png:
+    artist: m0lo
+  ayl-pten.asc:
+    artist: aylien
+  ayl-sfsv.asc:
+    artist: aylien
+  cpn-bucl.png:
+    artist: cpn
+  t!-metall.png:
+    artist: targon
+  m0-argo.png:
+    artist: m0lo
+  cpn-emfo.asc:
+    artist: cpn
+  m0-mic.asc:
+    artist: m0lo
+  ayl-mali.png:
+    artist: aylien
+  cpn-logo.asc:
+    artist: cpn
+  ayl-hdvd.png:
+    artist: aylien
+  ayl-tend.png:
+    artist: aylien
+  m0-jana.ans:
+    artist: m0lo
+  sp-vd.png:
+    artist: spinsane
+  m0-gk.png:
+    artist: m0lo
+  rzh-sl.png:
+    artist: orzech
+  cpn-emfo.png:
+    artist: cpn
+  m0-ee.png:
+    artist: m0lo
+  ayl-hk.png:
+    artist: aylien
+  ayl-khzv.png:
+    artist: aylien
+  m0-bb.png:
+    artist: m0lo
+  m0-tum.asc:
+    artist: m0lo
+  m0-dex.png:
+    artist: m0lo
+  cpn-ktnq.asc:
+    artist: cpn
+  ayl-hk.asc:
+    artist: aylien
+  cpn-amic.asc:
+    artist: cpn
+  cpn-drti.png:
+    artist: cpn
+  m0-epd.png:
+    artist: m0lo
+  cpn-ktnq.png:
+    artist: cpn
+  ayl-mtc.asc:
+    artist: aylien
+  m0-subz.png:
+    artist: m0lo
+  ayl-juiz.asc:
+    artist: aylien
+  m0-break.png:
+    artist: m0lo
+  cpn-rebn.asc:
+    artist: cpn
+  cbn-mlcl.png:
+    artist: cubon
+  m0-cs.asc:
+    artist: m0lo
+  ayl-nort.png:
+    artist: aylien
+  m0-add.png:
+    artist: m0lo
+  m0-sick.png:
+    artist: m0lo
+  m0-cs.png:
+    artist: m0lo
+  rzh-uw.png:
+    artist: orzech
+  ayl-ch.png:
+    artist: aylien
+  m0-bs.png:
+    artist: m0lo
+  cpn-silo.png:
+    artist: cpn
+  m0-bin.png:
+    artist: m0lo
+  m0-sick.asc:
+    artist: m0lo
+  ayl-tend.asc:
+    artist: aylien
+  m0-pslog.asc:
+    artist: m0lo
+  ayl-ak47.asc:
+    artist: aylien
+  rzh-suns.png:
+    artist: orzech
+  m0-irrm.asc:
+    artist: m0lo
+  rzh-berc_short.png:
+    artist: orzech
+  ayl-pyt.asc:
+    artist: aylien
+  rzh-vbz.asc:
+    artist: orzech
+  m0-jana.png:
+    artist: m0lo
+  m0-bs.asc:
+    artist: m0lo
+  m0-tristar.png:
+    artist: m0lo
+  m0-ee.asc:
+    artist: m0lo
+  ayl-sfsv.png:
+    artist: aylien
+  cpn-fdiz.png:
+    artist: cpn
+  rzh-fat.png:
+    artist: orzech
+  m0-1king.asc:
+    artist: m0lo
+  ayl-khzv.asc:
+    artist: aylien
+  m0-r6.asc:
+    artist: m0lo
+  m0-css.png:
+    artist: m0lo
+  ayl-gin.png:
+    artist: aylien
+  sp-vd.asc:
+    artist: spinsane
+  m0-a.png:
+    artist: m0lo
+  m0-pi.asc:
+    artist: m0lo
+  ayl-gin.asc:
+    artist: aylien
+  m0-1king.png:
+    artist: m0lo
+  m0-tristar.asc:
+    artist: m0lo
+  m0-r6.png:
+    artist: m0lo
+  ayl-pten.png:
+    artist: aylien
+  cpn-pgsy.asc:
+    artist: cpn
+  ayl-mali.asc:
+    artist: aylien
+  m0-gk.asc:
+    artist: m0lo
+group: chemical.reaction

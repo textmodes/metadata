@@ -1,0 +1,53 @@
+---
+files:
+  six_pack.doc:
+    artist: the.pope
+  file_id.diz:
+    artists:
+    - cthulu
+    - the.pope
+  six_pack.exe:
+    artist: the.pope
+  p3-triad.s3m:
+    artist: the.pope
+  p3-lasie.s3m:
+    artist: the.pope
+  isinfo20.txt:
+    artist: the.pope
+  p3-sguit.s3m:
+    artist: the.pope
+  p3-vbong.s3m:
+    artist: the.pope
+  isinfo.ans:
+    artists:
+    - the.pope
+    - cthulu
+  p3-snapp.s3m:
+    artist: the.pope
+  loader.doc:
+    artist: nutcracker
+  quiktro.cfg:
+    artist: nutcracker
+  loader.com:
+    artists:
+    - nutcracker
+    - tcw
+  serenity.nfo:
+    artist: candle
+  isinfo31.nfo:
+    artist: the.pope
+  quiktro.1st:
+    artist: nutcracker
+  loader.asm:
+    artists:
+    - nutcracker
+    - tcw
+  dirt_balls.mod:
+    artist: shock.wave
+  quiktro.exe:
+    artist: nutcracker
+  isinfo10.txt:
+    artist: the.pope
+groups:
+- immortal.syndicate
+- mistigris

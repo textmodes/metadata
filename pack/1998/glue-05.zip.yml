@@ -1,0 +1,17 @@
+---
+files:
+  22-col1.ans:
+    artist: catch22
+  22-eplay.ans:
+    artist: catch22
+  22-spoof.ans:
+    artist: catch22
+  22-after.ans:
+    artist: catch22
+  22-hdrs2.ans:
+    artist: catch22
+  22-make.ans:
+    artist: catch22
+  22-statc.ans:
+    artist: catch22
+group: glue

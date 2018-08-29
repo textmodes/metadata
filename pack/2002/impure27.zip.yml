@@ -1,0 +1,179 @@
+---
+files:
+  pix-xmas.asc:
+    font: topazplus-a1200
+    artist: splonk
+  pix-2002.asc:
+    font: topazplus-a1200
+    artist: splonk
+  sk!fight.asc:
+    font: topazplus-a1200
+    artist: simonking
+  sk!ps200.asc:
+    font: topazplus-a1200
+    artist: simonking
+  eld!-id.asc:
+    font: topazplus-a1200
+    artist: elend
+  sk!news.asc:
+    font: topazplus-a1200
+    artist: simonking
+  scr-insi.asc:
+    font: topazplus-a500
+    artist: scour
+  po-scpt.asc:
+    font: topazplus-a1200
+    artist: pogue
+  pix-lebr.asc:
+    font: topazplus-a1200
+    artist: splonk
+  pix-emld.asc:
+    font: topazplus-a1200
+    artist: splonk
+  pix-bi.asc:
+    font: topazplus-a1200
+    artist: splonk
+  eld!-nf.asc:
+    font: topazplus-a1200
+    artist: elend
+  pix-mmbs.asc:
+    font: topazplus-a1200
+    artist: splonk
+  pix-eyes.asc:
+    font: topazplus-a1200
+    artist: splonk
+  sk!tsd.asc:
+    font: topazplus-a1200
+    artist: simonking
+  eld!-chz.asc:
+    font: topazplus-a1200
+    artist: elend
+  pix-chao.asc:
+    font: topazplus-a1200
+    artist: splonk
+  pix-int.asc:
+    font: topazplus-a1200
+    artist: splonk
+  xz-one.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  impure27.mem:
+    font: topazplus-a500
+  eld!-pd.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld-shst.txt:
+    font: topazplus-a1200
+    artist: elend
+  pix-call.asc:
+    font: topazplus-a1200
+    artist: splonk
+  pix-tl.asc:
+    font: topazplus-a1200
+    artist: splonk
+  eld!-elx.asc:
+    font: topazplus-a1200
+    artist: elend
+  us-imp1.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  eld!-wt.asc:
+    font: topazplus-a1200
+    artist: elend
+  pix-brd.asc:
+    font: topazplus-a1200
+    artist: splonk
+  file_id.diz:
+    font: topazplus-a500
+  pix-rels.asc:
+    font: topazplus-a1200
+    artist: splonk
+  po-e02.asc:
+    font: topazplus-a1200
+    artist: pogue
+  eld!-hyd.asc:
+    font: topazplus-a1200
+    artist: elend
+  ab-quilm.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  sk!soa2.asc:
+    font: topazplus-a1200
+    artist: simonking
+  pix-mmb2.asc:
+    font: topazplus-a1200
+    artist: splonk
+  impure27.inf:
+    font: topazplus-a500
+  pix-ysm2.asc:
+    font: topazplus-a1200
+    artist: splonk
+  xz-nerv.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  pix-hny.asc:
+    font: topazplus-a1200
+    artist: splonk
+  ab-kernl.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  pix-wlcm.asc:
+    font: topazplus-a1200
+    artist: splonk
+  sk!mawki.asc:
+    font: topazplus-a1200
+    artist: simonking
+  sk!drago.asc:
+    font: topazplus-a1200
+    artist: simonking
+  sk!crew.asc:
+    font: topazplus-a1200
+    artist: simonking
+  po-asc.asc:
+    font: topazplus-a1200
+    artist: pogue
+  ab-main.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  sk!-asci.asc:
+    font: topazplus-a1200
+    artist: simonking
+  bz-wkd.asc:
+    font: topazplus-a1200
+    artist: blooz
+  sk!greet.asc:
+    font: topazplus-a1200
+    artist: simonking
+  ab-entry.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  sk!kaszt.asc:
+    font: topazplus-a1200
+    artist: simonking
+  eld!-ash.asc:
+    font: topazplus-a1200
+    artist: elend
+  sk!soa.asc:
+    font: topazplus-a1200
+    artist: simonking
+  eld!-nb.asc:
+    font: topazplus-a1200
+    artist: elend
+  ab-login.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  scr-gnt.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-vlr.asc:
+    font: topazplus-a500
+    artist: scour
+  sk!thugl.asc:
+    font: topazplus-a1200
+    artist: simonking
+  po-bi.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

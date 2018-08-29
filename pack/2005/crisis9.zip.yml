@@ -1,0 +1,20 @@
+---
+files:
+  gj-holdup.ans:
+    artist: grymmjack
+  us-dist.ans:
+    artists:
+    - luciano
+    - fatpacifist
+    - kid.frost
+  crinfo9.ans:
+    artist: kid.frost
+  us-synch.ans:
+    artists:
+    - kid.frost
+    - grymmjack
+  us-scar.ans:
+    artists:
+    - avenging.angel
+    - kid.frost
+group: crisis

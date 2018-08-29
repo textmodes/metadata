@@ -1,0 +1,41 @@
+---
+files:
+  rmx-roni.ans:
+    artists:
+    - noches
+    - phz
+  no-lform.txt:
+    font: topaz-a1200
+    artist: noches
+  phz-shit.asc:
+    artist: phz
+  l124-gov.txt:
+    font: topaz-a1200
+    artist: noches
+  rm-danon.asc:
+    font: topaz-a1200
+  no-lure.asc:
+    artist: noches
+  us-czyli.asc:
+    artists:
+    - shiro
+    - noches
+  shi-thin.asc:
+    artist: shiro
+  phz-yo2.asc:
+    artist: phz
+  no-phlui.ans:
+    artist: noches
+  no-filei.asc:
+    artist: noches
+  phz-fmmc.asc:
+    artist: phz
+  file_id.diz:
+    artist: noches
+  r81diz.asc:
+    artist: phz
+  phz-rnfo.asc:
+    artist: phz
+  phz-eats.asc:
+    artist: phz
+group: danone

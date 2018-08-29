@@ -1,0 +1,62 @@
+---
+files:
+  gal1#p&r.ans:
+    artists:
+    - rage
+    - paz
+  cbs2#rag.ans:
+    artist: rage
+  buz1#rag.ans:
+    artist: rage
+  btg2#rag.ans:
+    artist: rage
+  des3#rag.ans:
+    font: cp437-8x8
+    artist: rage
+  aur2#rag.ans:
+    font: cp437-8x8
+  des1#paz.ans:
+    artist: paz
+  des2#paz.ans:
+    artist: paz
+  kur2#rag.ans:
+    artist: rage
+  rab2#p&r.ans:
+    artists:
+    - rage
+    - paz
+  file_id.diz:
+    artist: paz
+  cbs3#paz.ans:
+    artist: paz
+  btg1#rag.ans:
+    artist: rage
+  cbs1#paz.ans:
+    artist: paz
+  des4#rag.ans:
+    artist: rage
+  ordr#rag.ans:
+    font: cp437-8x8
+    artist: rage
+  atl#drft.ans:
+    artist: draft
+  aur1#p&r.ans:
+    artists:
+    - rage
+    - paz
+  cbs4#r&p.ans:
+    artists:
+    - paz
+    - rage
+  gal2#rag.ans:
+    font: cp437-8x8
+    artist: rage
+  rab3#rag.ans:
+    artist: rage
+  kur1#paz.ans:
+    artist: paz
+  rab1#gyz.ans:
+    artist: gyze
+  snic#rag.ans:
+    artist: rage
+group: bytegarden

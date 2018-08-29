@@ -1,0 +1,39 @@
+---
+files:
+  d5-inso.ans:
+    artist: dark.stalker
+  tg!colly.ans:
+    artist: teege
+  tg!thc.ans:
+    artist: teege
+  tg!epoch.ans:
+    artist: teege
+  shy_coly.asc:
+    font: topazplus-a1200
+    artist: shypht
+  tg!tal.ans:
+    artist: teege
+  d3-ansi.ans:
+    artist: dreech
+  tg!rcn.asc:
+    font: topazplus-a1200
+    artist: teege
+  d3-nup.ans:
+    artist: dreech
+  d3-valha.ans:
+    artist: dreech
+  impure01.mem:
+    font: topazplus-a500
+  file_id.diz:
+    font: topazplus-a500
+  tg!cd!@.ans:
+    artist: teege
+  d3-poop.ans:
+    artist: dreech
+  d5-col.ans:
+    artist: dark.stalker
+  d3-login.ans:
+    artist: dreech
+  d5-dp.ans:
+    artist: dark.stalker
+group: impure!ascii.1940

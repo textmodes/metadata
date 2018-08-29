@@ -1,0 +1,36 @@
+---
+files:
+  ozz-plc2.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  db-welch.asc:
+    font: topazplus-a1200
+  imp-sp.txt:
+    font: topazplus-a1200
+  us-vcdm.asc:
+    font: topazplus-a500
+    artists:
+    - bornholme
+    - hellbeard
+  impure46.inf:
+    font: topazplus-a500
+  po-tribe.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-gasf.asc:
+    font: topazplus-a1200
+    artist: pogue
+  file_id.diz:
+    font: topazplus-a500
+  xz-mahon.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  db-gasfa.asc:
+    font: topazplus-a1200
+  po-dbrn.asc:
+    font: topazplus-a1200
+    artist: pogue
+  ozz-plc1.asc:
+    font: topazplus-a500
+    artist: ozzeth
+group: impure!ascii.1940

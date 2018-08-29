@@ -1,0 +1,139 @@
+---
+files:
+  ca-acid.asc:
+    font: topaz-a1200
+  sk-mlfes.asc:
+    font: topaz-a1200
+  as-trn1.asc:
+    font: topaz-a1200
+  hp-nlnd1.asc:
+    font: topaz-a1200
+  sk-sok3.asc:
+    font: topaz-a1200
+  wd-fz.asc:
+    font: topaz-a1200
+    artist: whodini
+  as-tds.asc:
+    font: topaz-a1200
+  hp-hs2.asc:
+    font: topaz-a1200
+  hp-hm1.asc:
+    font: topaz-a1200
+  wd-tea.asc:
+    font: topaz-a1200
+    artist: whodini
+  hp-hs1.asc:
+    font: topaz-a1200
+  hp-bk1.asc:
+    font: topaz-a1200
+  hp-ser1.asc:
+    font: topaz-a1200
+  ot-spa1.asc:
+    font: topaz-a1200
+  wd-md.ans:
+    artist: whodini
+  sk-nam.asc:
+    font: topaz-a1200
+  sp-epic.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sk-soe.asc:
+    font: topaz-a1200
+  hp-atcl1.asc:
+    font: topaz-a1200
+  om-mdl1.asc:
+    font: topaz-a1200
+  as-bk.asc:
+    font: topaz-a1200
+  ot-f.asc:
+    font: topaz-a1200
+  om-unsf1.asc:
+    font: topaz-a1200
+  wd-7c.asc:
+    font: topaz-a1200
+    artist: whodini
+  sk-mltdn.asc:
+    font: topaz-a1200
+  ot-emp1.asc:
+    font: topaz-a1200
+  wd-diz.asc:
+    font: topaz-a1200
+    artist: whodini
+  ec-ultma.asc:
+    font: topaz-a1200
+  om-mal1.asc:
+    font: topaz-a1200
+  ot-log.asc:
+    font: topaz-a1200
+  ot-otp1.asc:
+    font: topaz-a1200
+  ot-eod1.asc:
+    font: topaz-a1200
+  og-uf.asc:
+    font: topaz-a1200
+  hp-bsun1.asc:
+    font: topaz-a1200
+  as-conf.asc:
+    font: topaz-a1200
+  ot-int1.asc:
+    font: topaz-a1200
+  wd-sbz.asc:
+    font: topaz-a1200
+    artist: whodini
+  sk-prstn.asc:
+    font: topaz-a1200
+  mp-bs1.asc:
+    font: topaz-a1200
+  wd-spam.asc:
+    font: topaz-a1200
+    artist: whodini
+  ot-evil1.asc:
+    font: topaz-a1200
+  sp-mist.asc:
+    font: topaz-a1200
+    artist: spinsane
+  hp-mtv81.asc:
+    font: topaz-a1200
+  hp-atcl2.asc:
+    font: topaz-a1200
+  sp-ere.asc:
+    font: topaz-a1200
+    artist: spinsane
+  as-tsn.asc:
+    font: topaz-a1200
+  hp-usf1.asc:
+    font: topaz-a1200
+  hp-ml7.asc:
+    font: topaz-a1200
+  ca-tazm.asc:
+    font: topaz-a1200
+  wd-td.asc:
+    font: topaz-a1200
+    artist: whodini
+  wd-roi.asc:
+    font: topaz-a1200
+    artist: whodini
+  as-cs.asc:
+    font: topaz-a1200
+  om-tds1.asc:
+    font: topaz-a1200
+  hp-lpt1.asc:
+    font: topaz-a1200
+  wd-gp.asc:
+    font: topaz-a1200
+    artist: whodini
+  as-fw.asc:
+    font: topaz-a1200
+  om-trn2.asc:
+    font: topaz-a1200
+  om-tds.asc:
+    font: topaz-a1200
+  wd-d2i.asc:
+    font: topaz-a1200
+    artist: whodini
+  ot-ct1.asc:
+    font: topaz-a1200
+  wd-ths.asc:
+    font: topaz-a1200
+    artist: whodini
+group: remorse.1981

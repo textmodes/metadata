@@ -1,0 +1,42 @@
+---
+files:
+  tcf-001.ans:
+    artist: the.creep.fever
+  h7-netf2.asc:
+    artist: h7
+  h7-canse.asc:
+    artist: h7
+  gdr-mmc.ans:
+    artist: gravedancer
+  je-raww.asc:
+    artist: c-jeff
+  zlf-maus.asc:
+    artist: zlorfik
+  je-askk.asc:
+    artist: c-jeff
+  k!quick.asc:
+    artist: keetar
+  ns-mgraf.ans:
+    artist: noches
+  k!darkd.asc:
+    artist: keetar
+  m0-compo.asc:
+    artist: m0lo
+  rm-mcdiz.asc:
+    artist: ricky.martin
+  je-inate.asc:
+    artist: c-jeff
+  ds!-ill.txt:
+    artist: h7
+  members.ans:
+    artist: c-jeff
+  us-mmc78.ans:
+    artists:
+    - ansichrist
+    - c-jeff
+  us-606.ans:
+    artists:
+    - abstrakt
+    - jashiin
+    - noches
+group: mimic

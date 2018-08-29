@@ -1,0 +1,31 @@
+---
+files:
+  rs-bat.ans:
+    artist: rosetta.stoned
+  rs-blud.ans:
+    artist: rosetta.stoned
+  info.ans:
+    artist: inhans
+  bn-supa.ans:
+    artist: bern
+  us-spr.ans:
+    artists:
+    - rosetta.stoned
+    - sudden.death
+  in-nazi.ans:
+    artist: inhans
+  kp-log.ans:
+    artist: krepanjarchar
+  sd-hulk.ans:
+    artist: sudden.death
+  bn-sadist.ans:
+    artist: bern
+  us-supa!.ans:
+    artist: rosetta.stoned
+  us-skull.ans:
+    artists:
+    - rosetta.stoned
+    - krepanjarchar
+  bn-kd.ans:
+    artist: bern
+group: supergroup

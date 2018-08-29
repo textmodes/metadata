@@ -1,0 +1,79 @@
+---
+files:
+  r-girl2.txt:
+    font: topaz-a1200
+  bzr-span.asc:
+    font: topaz-a1200
+  r-ozz81a.txt:
+    font: topaz-a1200
+  sp-dbx.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sp-girl.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sp-erres.asc:
+    font: topaz-a1200
+    artist: spinsane
+  zs-remx5.ans:
+    artist: zerostar
+  sp-rd32.asc:
+    font: topaz-a1200
+    artist: spinsane
+  us-rmrs.asc:
+    font: topaz-a1200
+  ozz-elem.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  cn-detox.asc:
+    font: topaz-a1200
+  ozz-mfc.diz:
+    artist: ozzeth
+  axb-599a.asc:
+    font: topaz-a1200
+  rmrsdiz.asc:
+    font: topaz-a1200
+  ka-rmrs.asc:
+    font: topaz-a1200
+  sp-psyre.asc:
+    font: topaz-a1200
+    artist: spinsane
+  ozz-remo.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ozz-subl.diz:
+    artist: ozzeth
+  wd-ild.txt:
+    font: topaz-a1200
+    artist: whodini
+  r-tm.txt:
+    font: topaz-a1200
+  ozz-gues.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ozz-nuro.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  r-girl.txt:
+    font: topaz-a1200
+  ozz-sess.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  pm-r81.asc:
+    font: topaz-a1200
+    artist: polymorph
+  zs-elmn5.ans:
+    artist: zerostar
+  ozz-escp.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  bne-rmrs.asc:
+    font: topaz-a1200
+  bne-we.asc:
+    font: topaz-a1200
+  pm-rmrs.asc:
+    font: topaz-a1200
+    artist: polymorph
+  bzr-chef.asc:
+    font: topaz-a1200
+group: remorse.1981

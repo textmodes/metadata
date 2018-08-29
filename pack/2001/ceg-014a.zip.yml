@@ -1,0 +1,29 @@
+---
+files:
+  s&-dwarf.ans:
+    artist: sandman
+  s&-cold.ans:
+    artist: sandman
+  s&-shrm.asc:
+    artist: sandman
+  s&-twlt.asc:
+    artist: sandman
+  s&-romm.asc:
+    artist: sandman
+  s&-ceg.asc:
+    artist: sandman
+  s&-smth.ans:
+    artist: sandman
+  s&-stone.asc:
+    artist: sandman
+  s&-norsp.asc:
+    artist: sandman
+  s&-drug.asc:
+    artist: sandman
+  s&-over.asc:
+    artist: sandman
+  s&-psilo.asc:
+    artist: sandman
+  s&-dead.ans:
+    artist: sandman
+group: chaos.energy.group

@@ -1,0 +1,139 @@
+---
+files:
+  xz-galm.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-flash.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-twr.asc:
+    font: topazplus-a1200
+    artist: pogue
+  cdn-xmas.asc:
+    font: topazplus-a1200
+    artist: curdon
+  ab-res.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  us-flash.asc:
+    font: topazplus-a500
+    artist: acidbrain
+  eld!-ann.asc:
+    font: topazplus-a1200
+    artist: elend
+  shl-dd2.asc:
+    font: topazplus-a1200
+    artist: shadow.lord
+  us-dis2.asc:
+    font: topazplus-a500
+    artist: dead.brain
+  po-bbsli.asc:
+    font: topazplus-a1200
+    artist: pogue
+  file_id.diz:
+    font: topazplus-a500
+  shl-gza.asc:
+    font: topazplus-a1200
+    artist: shadow.lord
+  po-bbsd.asc:
+    font: topazplus-a1200
+    artist: pogue
+  t01-dis.asc:
+    font: topazplus-a1200
+    artist: tribe
+  po-cro.asc:
+    font: topazplus-a1200
+    artist: pogue
+  eld!-clu.asc:
+    font: topazplus-a1200
+    artist: elend
+  shl-dd.asc:
+    font: topazplus-a1200
+    artist: shadow.lord
+  t01-w0.asc:
+    font: topazplus-a1200
+    artist: tribe
+  us-flas2.asc:
+    font: topazplus-a500
+    artists:
+    - tribe
+    - acidbrain
+  ab-ddom.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  dbrn-khz.asc:
+    font: topazplus-a1200
+    artist: dead.brain
+  xz-dd.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  cdn-dis.asc:
+    font: topazplus-a1200
+    artist: curdon
+  po-dis.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-dis3.asc:
+    font: topazplus-a500
+  ab-xmas.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  thuglife.org:
+    font: topazplus_a500
+  po-bbs.asc:
+    font: topazplus-a1200
+    artist: pogue
+  shl-euro.asc:
+    font: topazplus-a1200
+    artist: shadow.lord
+  impure50.inf:
+    font: topazplus-a500
+  eld!-cla.asc:
+    font: topazplus-a1200
+    artist: elend
+  ab-rep.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  eld!-ara.asc:
+    font: topazplus-a1200
+    artist: elend
+  xz-twr.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  shl-face.asc:
+    font: topazplus-a1200
+    artist: shadow.lord
+  us-bi.asc:
+    font: topazplus-a500
+    artists:
+    - tribe
+    - hellbeard
+  us-blood.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - dead.brain
+  cdn-topu.asc:
+    font: topazplus-a1200
+    artist: curdon
+  t01-sha.asc:
+    font: topazplus-a1200
+    artist: tribe
+  shl-lion.asc:
+    font: topazplus-a1200
+    artist: shadow.lord
+  cdn-week.asc:
+    font: topazplus-a1200
+    artist: curdon
+  cdn-call.asc:
+    font: topazplus-a1200
+    artist: curdon
+  us-vid.asc:
+    font: topazplus-a500
+    artists:
+    - dead.brain
+    - hellbeard
+  xz-xmas.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+group: impure!ascii.1940

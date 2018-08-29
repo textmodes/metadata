@@ -1,0 +1,55 @@
+---
+files:
+  po-confs.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-thug.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  xz-main.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  dwf-wck.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-ip.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-sc.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  po-logof.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-dalin.asc:
+    font: topazplus-a1200
+    artist: pogue
+  dwf-bull.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  po-ocii.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-mscan.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-woe.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-nujck.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-fsedt.asc:
+    font: topazplus-a1200
+    artist: pogue
+  file_id.diz:
+    font: topazplus-a500
+  po-mbbs.asc:
+    font: topazplus-a1200
+    artist: pogue
+  imp-014.inf:
+    font: topazplus-a500
+  po-df.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

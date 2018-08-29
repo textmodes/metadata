@@ -1,0 +1,19 @@
+---
+files:
+  zv-xtc.ans:
+    artist: zerovision
+  22-nvr3.ans:
+    artist: catch22
+  zv-str.ans:
+    artist: zerovision
+  zv-medus.ans:
+    artist: zerovision
+  zv-core.ans:
+    artist: zerovision
+  22-nvr4.ans:
+    artist: catch22
+  zv-lp.ans:
+    artist: zerovision
+  zv-colly.ans:
+    artist: zerovision
+group: glue

@@ -1,0 +1,42 @@
+---
+files:
+  nerv-evoke.txt:
+    font: topazplus-a500
+    artist: nerv
+  break_08.asc:
+    artist: knocturnal
+  iks-inque.asc:
+    artist: irokos
+  nerv-farm.txt:
+    font: topazplus-a500
+    artist: nerv
+  hx-rodar.asc:
+    font: topazplus-a500
+    artist: haliphax
+  nerv-skope.txt:
+    artist: nerv
+  nerv-rzr1911.txt:
+    artist: nerv
+  zfr-mono.asc:
+    artist: zefyros
+  sns-effect.txt:
+    font: topazplus-a500
+  iks-kediz.asc:
+    artist: irokos
+  jp!drkn7.ans:
+    artist: jack.phlash
+  iks-lettersgtaidle.asc:
+    artist: irokos
+  bw_b6.asc:
+    artist: binary.walker
+  iks-wus.asc:
+    artist: irokos
+  iks-ke.asc:
+    artist: irokos
+  h7-break8.txt:
+    font: mo_soul
+    artist: h7
+  nerv-ftlrrr.txt:
+    font: topazplus-a500
+    artist: nerv
+group: break!ascii

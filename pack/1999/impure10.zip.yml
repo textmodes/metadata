@@ -1,0 +1,124 @@
+---
+files:
+  us-risc.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  iph-ppl.asc:
+    font: topazplus-a1200
+    artist: inphamilair
+  dwf-ba.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  us-imp.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - wackie
+  us-deli.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  xz-risc.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-cia.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-word.asc:
+    font: topazplus-a500
+    artists:
+    - wackie
+    - pogue
+  po-cmnu.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure10.mem:
+    font: topazplus-a500
+  po-faded.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-deli2.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  xz-leech.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  dwf-del2.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  us-kungf.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  impure10.inf:
+    font: topazplus-a500
+  us-digi.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  wkz-pge.asc:
+    font: topazplus-a1200
+    artist: wackie
+  po-weed.txt:
+    font: topazplus-a1200
+    artist: pogue
+  po-purg2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-rexnf.asc:
+    font: topazplus-a1200
+    artist: pogue
+  file_id.diz:
+    font: topazplus-a500
+  us-riscf.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  po-cycl2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-bull.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  dwf-as.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  xz-woe.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-holo.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  iph-rob.asc:
+    font: topazplus-a1200
+    artist: inphamilair
+  dwf-del1.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  po-delix.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-ck.asc:
+    font: topazplus-a500
+    artists:
+    - keetar
+    - wackie
+  xz-zippe.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-delmn.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+group: impure!ascii.1940

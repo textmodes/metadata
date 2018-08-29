@@ -1,0 +1,36 @@
+---
+files:
+  day_01.ans:
+    artist: crasher
+  readme.1st:
+    font: cp866-8x16
+  hui.txt:
+    font: cp866-8x16
+  betrayme.asc:
+    font: cp866-8x16
+  day_04.ans:
+    artist: crasher
+  buzina.txt:
+    font: cp866-8x16
+  another.txt:
+    font: cp866-8x16
+  day_07.asc:
+    artists:
+    - keeper
+    - crasher
+  ponyat.txt:
+    font: cp866-8x16
+  day_05.ans:
+    font: cp866-8x16
+  night_06.ans:
+    artists:
+    - crasher
+    - shanti
+  trespass.asc:
+    font: cp866-8x16
+    artist: 0xel
+  day_02.ans:
+    artist: crasher
+  ((((((((.))):
+    font: cp866-8x16
+group: buzina.factory

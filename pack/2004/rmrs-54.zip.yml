@@ -1,0 +1,210 @@
+---
+files:
+  sp-scam.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sd_scour.txt:
+    font: topaz-a1200
+  scr-pilg.asc:
+    font: topazplus-a500
+    artist: scour
+  py-sands.txt:
+    font: topaz-a1200
+  dbrn-nd.asc:
+    font: topaz-a1200
+    artist: dead.brain
+  sd_nons.txt:
+    font: topaz-a1200
+  sd_hb.txt:
+    font: topaz-a1200
+  sp-mmc00.asc:
+    font: topaz-a1200
+    artist: spinsane
+  bh-minicolly.txt:
+    font: cp437_8x16
+  sd_enrmp.txt:
+    font: topaz-a1200
+  dt-gay.asc:
+    font: topaz-a1200
+  file_id.diz:
+    font: topazplus_a500
+  ax-cool.asc:
+    font: cp437_8x16
+  hx-may.asc:
+    font: cp437_8x16
+    artist: haliphax
+  sd_sd.txt:
+    font: topaz-a1200
+  dark-adv.txt:
+    font: topaz-a1200
+  ret-rmrs.asc:
+    font: topaz-a1200
+  us-bar.asc:
+    font: topaz-a1200
+  us-p00.asc:
+    font: topaz-a1200
+  axb-tnc.asc:
+    font: topaz-a1200
+  asx-mx.asc:
+    font: cp437_8x16
+  ti-ice.asc:
+    font: cp437_8x16
+  sp-tlnfo.asc:
+    font: cp437_8x16
+    artist: spinsane
+  sp-mad.asc:
+    font: cp437_8x16
+    artist: spinsane
+  sd_duckb.txt:
+    font: topaz-a1200
+  sd_dmg.txt:
+    font: topaz-a1200
+  rm-nddiz.asc:
+    font: topaz-a1200
+  sd_scour5.txt:
+    font: topaz-a1200
+  axb-gizm.asc:
+    font: cp437_8x16
+  us-ks.asc:
+    font: topaz-a1200
+  p-mad.asc:
+    font: topaz-a1200
+  pix-oran.asc:
+    font: topaz-a1200
+    artist: splonk
+  us-nsers.asc:
+    font: topaz-a1200
+  sp-more_pussy.jpg:
+    artist: spinsane
+  sd_scour3.txt:
+    font: topaz-a1200
+  sd_scour4.txt:
+    font: topaz-a1200
+  sp-o.txt:
+    font: topaz-a1200
+    artist: spinsane
+  sp-fp111.asc:
+    font: topaz-a1200
+    artist: spinsane
+  asx-pc2.diz:
+    font: topazplus_a500
+  sd_scour2.txt:
+    font: topaz-a1200
+  sd_wpx3.txt:
+    font: topaz-a1200
+  er-ertel.ans:
+    font: topazplus_a500
+  sd_wpx.txt:
+    font: topaz-a1200
+  sp-ffant.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sp-spliff.asc:
+    font: topaz-a1200
+    artist: spinsane
+  er-amix.asc:
+    font: topaz-a1200
+  y-logo.png:
+    artist: yce
+  hx-nks3.asc:
+    font: topazplus-a500
+    artist: haliphax
+  mx-rad.asc:
+    font: topaz-a1200
+  sd_wpx4.txt:
+    font: topaz-a1200
+  hx-ks.asc:
+    font: topazplus-a500
+    artist: haliphax
+  sp-lps1.txt:
+    font: topaz-a1200
+    artist: spinsane
+  to-neuro.asc:
+    font: topaz-a1200
+  hx-dr.asc:
+    font: cp437_8x16
+    artist: haliphax
+  scr-bdks.asc:
+    font: topazplus-a500
+    artist: scour
+  hx-ks2.asc:
+    font: topazplus-a500
+    artist: haliphax
+  43-nrmx.asc:
+    font: cp437_8x16
+    artist: aesthetic
+  bash.org.txt:
+    font: topaz-a1200
+  sp-dtmc.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sp-wave9.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sd_wpx2.txt:
+    font: topaz-a1200
+  sd_m.txt:
+    font: topaz-a1200
+  brm-rad.asc:
+    font: cp437_8x16
+  us-edb.asc:
+    font: topaz-a1200
+  m0lo-rmrs.asc:
+    font: topaz-a1200
+  us-sour.asc:
+    font: topaz-a1200
+  scr-mac.nfo.txt:
+    font: topazplus-a500
+    artist: scour
+  us-pen15.asc:
+    font: cp437_8x16
+  hx-spin.asc:
+    font: topazplus-a500
+    artist: haliphax
+  sp-phrk.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sd_mono.txt:
+    font: topaz-a1200
+  no-pe.ans:
+    artist: noches
+  no-love.ans:
+    artist: noches
+  sp-rebel.txt:
+    font: topaz-a1200
+    artist: spinsane
+  hx-ksblk.asc:
+    font: cp437_8x16
+    artist: haliphax
+  sp-icet.asc:
+    font: topaz-a1200
+    artist: spinsane
+  us-slack.asc:
+    font: topaz-a1200
+  scr-mac.asc:
+    font: cp437_8x16
+    artist: scour
+  pix-asci.asc:
+    font: topaz-a1200
+    artist: splonk
+  brm-hood.asc:
+    font: topaz-a1200
+  pix-xiq.asc:
+    font: topaz-a1200
+    artist: splonk
+  sp-irce.txt:
+    font: topaz-a1200
+    artist: spinsane
+  sp-mmchb.asc:
+    font: cp437_8x16
+    artist: spinsane
+  hx-bio.txt:
+    font: topazplus-a500
+    artist: haliphax
+  hx-robot.asc:
+    font: cp437_8x16
+    artist: haliphax
+  sp-tmms.asc:
+    font: topaz-a1200
+    artist: spinsane
+group: remorse.1981

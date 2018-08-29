@@ -1,0 +1,256 @@
+---
+files:
+  nn-xtc.diz:
+    artist: necronite
+  hp-tst2.asc:
+    font: topaz-a1200
+  mp-soe2.asc:
+    font: topaz-a1200
+  wd-rmse.asc:
+    font: topaz-a1200
+    artist: whodini
+  wd-trepo.asc:
+    font: topaz-a1200
+    artist: whodini
+  ct-bv1.asc:
+    font: topaz-a1200
+    artist: cthulu
+  om-vktr1.asc:
+    font: topaz-a1200
+    artist: otium
+  nm-jay.asc:
+    font: topaz-a1200
+    artist: necromancer
+  nm-mikey.asc:
+    font: topaz-a1200
+    artist: necromancer
+  hp-ji1.asc:
+    font: topaz-a1200
+  wd-ice.asc:
+    font: topaz-a1200
+    artist: whodini
+  ct-soe.asc:
+    font: topaz-a1200
+    artist: cthulu
+  ct-sod.asc:
+    font: topaz-a1200
+    artist: cthulu
+  hp-melt1.asc:
+    font: topaz-a1200
+  ct-soe3.asc:
+    font: topaz-a1200
+    artist: cthulu
+  ks-hsl02.asc:
+    font: topaz-a1200
+    artist: kspiff
+  hp-tst1.asc:
+    font: topaz-a1200
+  nm-satan.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-mlt.ans:
+    artist: cthulu
+  wd-tod.asc:
+    font: topaz-a1200
+    artist: whodini
+  wd-mysti.asc:
+    font: topaz-a1200
+    artist: whodini
+  nt-gang.ans:
+    artist: nightrain
+  ks-hsl03.asc:
+    font: topaz-a1200
+    artist: kspiff
+  nm-ed.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ks-hsl04.asc:
+    font: topaz-a1200
+    artist: kspiff
+  wd-wm.asc:
+    font: topaz-a1200
+    artist: whodini
+  nn-rmrse.asc:
+    font: topaz-a1200
+    artist: necronite
+  ct-duck.asc:
+    font: topaz-a1200
+    artist: cthulu
+  hp-wd1.asc:
+    font: topaz-a1200
+  nm-uid2.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-shv.asc:
+    font: topaz-a1200
+    artist: cthulu
+  nm-kevin.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-bs.asc:
+    font: topaz-a1200
+    artist: cthulu
+  nt-nexus.ans:
+    artist: nightrain
+  nm-sin.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-kts1.ans:
+    artist: cthulu
+  ct-tsn.ans:
+    artist: cthulu
+  hp-ml1.asc:
+    font: topaz-a1200
+  ks-prl01.asc:
+    font: topaz-a1200
+    artist: kspiff
+  wd-cop.asc:
+    font: topaz-a1200
+    artist: whodini
+  be-nthre.ans:
+    artist: beasty
+  nm-razr2.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-ei.ans:
+    artist: cthulu
+  ct-cci.diz:
+    artist: cthulu
+  nm-sa.asc:
+    font: topaz-a1200
+    artist: necromancer
+  t2-raz.asc:
+    font: topaz-a1200
+  wd-tid.asc:
+    font: topaz-a1200
+    artist: whodini
+  wd-shock.asc:
+    font: topaz-a1200
+    artist: whodini
+  om-mltd1.ans:
+    artist: otium
+  nm-rmrs1.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-img.ans:
+    artist: cthulu
+  om-ephr1.asc:
+    font: topaz-a1200
+    artist: otium
+  hp-ss1.asc:
+    font: topaz-a1200
+  t2-rem1.asc:
+    font: topaz-a1200
+  nt-soe.ans:
+    artist: nightrain
+  nn-md.ans:
+    artist: necronite
+  ct-bv1.ans:
+    artist: cthulu
+  ct-tp1.asc:
+    font: topaz-a1200
+    artist: cthulu
+  hp-tec1.asc:
+    font: topaz-a1200
+  ks-hsl01.asc:
+    font: topaz-a1200
+    artist: kspiff
+  hp-ml2.asc:
+    font: topaz-a1200
+  wd-diz.asc:
+    font: topaz-a1200
+    artist: whodini
+  ks-djs01.asc:
+    font: topaz-a1200
+    artist: kspiff
+  ct-img.diz:
+    artist: cthulu
+  wd-ice2.asc:
+    font: topaz-a1200
+    artist: whodini
+  ct-imag1.ans:
+    artist: cthulu
+  pd-melt!.asc:
+    font: topaz-a1200
+  nm-rmrse.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-rooli.asc:
+    font: topaz-a1200
+    artist: cthulu
+  mt-rmrs.asc:
+    font: topaz-a1200
+    artist: martz
+  nm-hack.asc:
+    font: topaz-a1200
+    artist: necromancer
+  wd-acid.asc:
+    font: topaz-a1200
+    artist: whodini
+  ct-ser.asc:
+    font: topaz-a1200
+    artist: cthulu
+  nm-me.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-har.asc:
+    font: topaz-a1200
+    artist: cthulu
+  nn-union.asc:
+    font: topaz-a1200
+    artist: necronite
+  ct-pimp.asc:
+    font: cp437_8x8
+    artist: cthulu
+  om-tf1.asc:
+    font: topaz-a1200
+    artist: otium
+  ct-djs.asc:
+    font: topaz-a1200
+    artist: cthulu
+  ct-kts2.asc:
+    font: topaz-a1200
+    artist: cthulu
+  og-rmrs.asc:
+    font: topaz-a1200
+  nm-rmrs.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ct-euph.asc:
+    font: topaz-a1200
+    artist: cthulu
+  om-rgnc1.asc:
+    font: topaz-a1200
+    artist: otium
+  nn-sanc.asc:
+    font: topaz-a1200
+    artist: necronite
+  ct-db.asc:
+    font: topaz-a1200
+    artist: cthulu
+  wd-union.asc:
+    font: topaz-a1200
+    artist: whodini
+  om-fah1.ans:
+    artist: otium
+  nm-agora.asc:
+    font: topaz-a1200
+    artist: necromancer
+  wd-eleut.asc:
+    font: topaz-a1200
+    artist: whodini
+  hp-ml3.asc:
+    font: topaz-a1200
+  be-acdiz.asc:
+    font: topaz-a1200
+    artist: beasty
+  nm-trn1.asc:
+    font: topaz-a1200
+    artist: necromancer
+  wd-zh.asc:
+    font: topaz-a1200
+    artist: whodini
+  nm-sotn.asc:
+    font: topaz-a1200
+    artist: necromancer
+group: remorse.1981

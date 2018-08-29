@@ -1,0 +1,55 @@
+---
+files:
+  k1-impy.asc:
+    artist: knocturnal
+  cl!-shms.ans:
+    font: topazplus_a500
+    artist: cleaner
+  h7-fruitynfo.txt:
+    font: cp437_8x16
+    artist: h7
+  iks-tsx.asc:
+    artist: irokos
+  jp!wnmt1.asc:
+    artist: jack.phlash
+  file_id.diz:
+    font: topazplus_a1200
+  hx-x84.txt:
+    font: topazplus_a500
+    artist: haliphax
+  h7-conspiracy.asc:
+    artist: h7
+  jp!czt1.asc:
+    artist: jack.phlash
+  jp!79cn.ans:
+    artist: jack.phlash
+  h7-gagarin.asc:
+    artist: h7
+  hx-rumor.ans:
+    artist: haliphax
+  k1-b7.asc:
+    artist: knocturnal
+  hx-x84.ans:
+    artist: haliphax
+  jp!tbck1.asc:
+    artist: jack.phlash
+  jp!tbck2.ans:
+    artist: jack.phlash
+  h7-bloodisland.txt:
+    font: mo_soul
+    artist: h7
+  iks-cia.asc:
+    artist: irokos
+  h7-deadpool.asc:
+    artist: h7
+  h7-intothevoid.asc:
+    artist: h7
+  break_07.mem:
+    artist: knocturnal
+  cl!-bchs.txt:
+    artist: cleaner
+  h7-font.asc:
+    artist: h7
+  h7-break07.ans:
+    artist: h7
+group: break!ascii

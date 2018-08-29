@@ -1,0 +1,110 @@
+---
+files:
+  vol-pk^.txt:
+    font: topaz-a1200
+  md-ad.asc:
+    font: topaz-a1200
+  43-olive.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  dx-rmk.asc:
+    font: topaz-a1200
+  43-lmnt.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  us-rmrs.txt:
+    font: topaz-a1200
+  er-volat.asc:
+    font: topaz-a1200
+  tn-rns01.asc:
+    font: topaz-a1200
+  43-solo.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  s6k-acid.asc:
+    font: topaz-a1200
+  43-legac.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  er-pari.asc:
+    font: topaz-a1200
+  ml-pari.asc:
+    font: topaz-a1200
+  s6k-db.asc:
+    font: topaz-a1200
+  mid-1234.asc:
+    font: topaz-a1200
+  er-rms2k.asc:
+    font: topaz-a1200
+  mkd-r38.asc:
+    font: topaz-a1200
+  r-angel.txt:
+    font: topaz-a1200
+  s6k-rev.asc:
+    font: topaz-a1200
+  s6k-col.asc:
+    font: topaz-a1200
+  r-matey.txt:
+    font: topaz-a1200
+  s6k-adiz.asc:
+    font: topaz-a1200
+  cm-bx.asc:
+    font: topaz-a1200
+    artist: cmang
+  nm-smgma.asc:
+    font: topaz-a1200
+    artist: necromancer
+  er-stand.asc:
+    font: topaz-a1200
+  er-shiz.asc:
+    font: topaz-a1200
+  43-sys2.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  43-home.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  er-colly.asc:
+    font: topaz-a1200
+  er-fwc.asc:
+    font: topaz-a1200
+  43-mimic.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  er-ghstl.asc:
+    font: topaz-a1200
+  bne!gree.txt:
+    font: topaz-a1200
+  tn-okast.asc:
+    font: topaz-a1200
+  tn-atl.asc:
+    font: topaz-a1200
+  mid-9012.asc:
+    font: topaz-a1200
+  po-risc.asc:
+    font: topaz-a1200
+  mid-5678.asc:
+    font: topaz-a1200
+  43-sys2c.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  s6k-apc.asc:
+    font: topaz-a1200
+  vol-bnv.txt:
+    font: topaz-a1200
+  ml-emib.asc:
+    font: topaz-a1200
+  er-mhdrm.asc:
+    font: topaz-a1200
+  nm-mntl.asc:
+    font: topaz-a1200
+    artist: necromancer
+  s6k-ta.asc:
+    font: topaz-a1200
+  bne!cone1.txt:
+    font: topaz-a1200
+  to-remor.asc:
+    font: topaz-a1200
+  tn-imper.asc:
+    font: topaz-a1200
+group: remorse.1981

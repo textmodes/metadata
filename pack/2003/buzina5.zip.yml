@@ -1,0 +1,37 @@
+---
+files:
+  crs-zeit.ans:
+    artist: crasher
+  crs-rul.asc:
+    artist: crasher
+  ps.asc:
+    font: cp866-8x16
+  crs-cats.asc:
+    artist: crasher
+  buzina.asc:
+    font: cp866-8x16
+    artist: crasher
+  crs-pow.ans:
+    artists:
+    - 0xel
+    - crasher
+  crs-geo.ans:
+    artist: crasher
+  crs-gogo.jpg:
+    artist: crasher
+  crs-puzzle.txt:
+    font: cp866-8x16
+    artists:
+    - lip
+    - crasher
+  crs-god.asc:
+    artists:
+    - keeper
+    - crasher
+  crs-pil.ans:
+    artist: crasher
+  crs-jam.ans:
+    artist: crasher
+  crs-road.ans:
+    artist: crasher
+group: buzina.factory

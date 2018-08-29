@@ -1,0 +1,85 @@
+---
+files:
+  xz-bye.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  impure55rel.ans:
+    font: topazplus-a1200
+    artist: ozzeth
+  po-2o15.ans:
+    font: topazplus-a1200
+    artist: pogue
+  sk!n-deadline.ans:
+    font: topazplus-a1200
+    artist: sk!n
+  ldn-spcl.ans:
+    font: topazplus-a1200
+    artist: lord.nikon
+  ldn-uzis.ans:
+    font: topazplus-a1200
+    artist: lord.nikon
+  sk!n-desire.ans:
+    font: topazplus-a1200
+    artist: sk!n
+  jp!cwrd1.ans:
+    font: topazplus-a1200
+    artist: jack.phlash
+  xz-os.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  sk!n-resistance.ans:
+    font: topazplus-a1200
+    artist: sk!n
+  po-santa01.ans:
+    font: topazplus-a1200
+    artist: pogue
+  jp!actv1.ans:
+    font: topazplus-a1200
+    artist: jack.phlash
+  sk!n-abstrakt.ans:
+    font: topazplus-a1200
+    artist: sk!n
+  xz-fire.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  impure55.ans:
+    font: topazplus-a1200
+    artist: pogue
+  file_id.diz:
+    font: topazplus-a500
+    artist: pogue
+  us-vote.ans:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  xz-imp.ans:
+    font: topazplus_a500
+    artist: hellbeard
+  jp!prga7.ans:
+    font: topazplus-a1200
+    artist: jack.phlash
+  xz-who.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-piranha.ans:
+    font: topazplus-a500
+    artists:
+    - scour
+    - hellbeard
+  po-imp55.ans:
+    font: topazplus-a1200
+    artist: pogue
+  ldn-chns.ans:
+    font: topazplus-a1200
+    artist: lord.nikon
+  ldn-seas.ans:
+    font: topazplus-a1200
+    artist: lord.nikon
+  sk-impure.asc:
+    font: topazplus-a1200
+    artist: skope
+  ldn-alrp.ans:
+    font: topazplus-a1200
+    artist: lord.nikon
+group: impure!ascii.1940

@@ -1,0 +1,39 @@
+---
+files:
+  cg-tn_welcome.asc:
+    artist: cablegod
+  cg-bb-ftp_welcome.asc:
+    artist: cablegod
+  mono_eetzbeetz.gif:
+    artist: monolith
+  mono_grabbot.gif:
+    artist: monolith
+  mono_hed2.gif:
+    artist: monolith
+  cg-genesis_nfo.asc:
+    artist: cablegod
+  znt-mind.asc:
+    artist: zeneth
+  cg-atl_logout.asc:
+    artist: cablegod
+  cg-atlvcd_welcome.asc:
+    artist: cablegod
+  cg-enc_welcome.asc:
+    artist: cablegod
+  mono_hed1.gif:
+    artist: monolith
+  t!-gmf.gif:
+    artist: targon
+  cg-atlvcd_logout.asc:
+    artist: cablegod
+  cg-ood_welcome_addon.asc:
+    artist: cablegod
+  znt-ocid.asc:
+    artist: zeneth
+  t!-mars.gif:
+    artist: targon
+  mono_vlms.jpg:
+    artist: monolith
+  cg-pwh_welcome.asc:
+    artist: cablegod
+group: chemical.reaction

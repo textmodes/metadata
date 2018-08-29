@@ -1,0 +1,45 @@
+---
+files:
+  us-rev.ans:
+    artists:
+    - aesthetic
+    - cain
+  43-jaspe.ans:
+    artist: aesthetic
+  po-'''''.ans:
+    artist: portia
+  43-obese.asc:
+    artist: aesthetic
+  43-sane.asc:
+    artist: aesthetic
+  43-angel.ans:
+    artist: aesthetic
+  po-rap32.ans:
+    artist: portia
+  43-rough.ans:
+    artist: aesthetic
+  avg-sect.ans:
+    artist: avenging.angel
+  43-jasp3.ans:
+    artist: aesthetic
+  43-thug.ans:
+    artist: aesthetic
+  we-j2.ans:
+    artists:
+    - avenging.angel
+    - aesthetic
+  43-oasis.ans:
+    artist: aesthetic
+  43-osc3.asc:
+    artist: aesthetic
+  43-olgn.ans:
+    artist: aesthetic
+  43-idle.ans:
+    artist: aesthetic
+  43-plur.ans:
+    artist: aesthetic
+  po-ja5p.ans:
+    artist: portia
+  po-_inf.ans:
+    artist: portia
+group: jasper

@@ -1,0 +1,62 @@
+---
+files:
+  mz-mees.ans:
+    font: cp437-8x8
+    artist: maze
+  impure57.ans:
+    artist: pogue
+  us-bim.ans:
+    artists:
+    - griskokare
+    - hellbeard
+  ldn-spock.ans:
+    artist: lord.nikon
+  ldn-vandalism.ans:
+    artist: lord.nikon
+  grk-bull.ans:
+    artist: griskokare
+  grk-2k15.ans:
+    artist: griskokare
+  ldn-impure.ans:
+    artist: lord.nikon
+  grk-news.ans:
+    artist: griskokare
+  file_id.diz:
+    artist: pogue
+  grk-bflg.ans:
+    artist: griskokare
+  grx-flute.ans:
+    artist: grmmxi
+  grk-immr.ans:
+    artist: griskokare
+  grk-vote.ans:
+    artist: griskokare
+  xz-gomesos.ans:
+    artist: hellbeard
+  grk-ulst.ans:
+    artist: griskokare
+  po-trin.ans:
+    artist: pogue
+  grk-chat.ans:
+    artist: griskokare
+  po-shr.ans:
+    artist: pogue
+  xz-pacha.ans:
+    artist: hellbeard
+  grk-time.ans:
+    artist: griskokare
+  ldn-buddha.ans:
+    artist: lord.nikon
+  po-ms.ans:
+    artist: pogue
+  xz-devotion.ans:
+    artist: hellbeard
+  grk-comp.nfo:
+    artist: griskokare
+  us-text.ans:
+    artists:
+    - griskokare
+    - hellbeard
+  xz-shrooms.ans:
+    artist: hellbeard
+group: impure!ascii.1940

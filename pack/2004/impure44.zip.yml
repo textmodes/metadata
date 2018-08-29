@@ -1,0 +1,88 @@
+---
+files:
+  shl-imp.asc:
+    font: topazplus-a1200
+    artist: shadow.lord
+  shl-5am.asc:
+    font: topazplus-a1200
+    artist: shadow.lord
+  us-ngc.asc:
+    font: topazplus-a500
+    artists:
+    - acidbrain
+    - pogue
+  po-hqsc.asc:
+    font: topazplus-a1200
+    artist: pogue
+  imp-wms.txt:
+    font: topazplus-a1200
+    artist: pogue
+  us-xbox.asc:
+    font: topazplus-a500
+    artists:
+    - acidbrain
+    - pogue
+  eld!-inn.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!roam.asc:
+    font: topazplus-a1200
+    artist: elend
+  us-sclr.asc:
+    artists:
+    - podsi
+    - steve
+    - pogue
+    - podsi
+  sk!shado.asc:
+    font: topazplus-a1200
+    artist: simonking
+  ab-datur.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  us-unn.asc:
+    font: topazplus-a500
+    artists:
+    - acidbrain
+    - pogue
+  dbrn-ami.asc:
+    font: topazplus-a1200
+    artist: dead.brain
+  da-bldis.asc:
+    font: topazplus-a1200
+    artist: devil.angel
+  eld!sal1.asc:
+    font: topazplus-a1200
+    artist: elend
+  file_id.diz:
+    font: topazplus-a500
+  us-respx.asc:
+    font: topazplus-a500
+    artists:
+    - scour
+    - pogue
+  dbrn-dh.asc:
+    font: topazplus-a1200
+    artist: dead.brain
+  impure44.inf:
+    font: topazplus-a500
+  us-sodom.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  xz-imp.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  dt-imp.asc:
+    font: topazplus-a1200
+    artists:
+    - pogue
+    - darktrooper
+  us-pouet.asc:
+    font: topazplus-a500
+    artist: acidbrain
+  po-mmc.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

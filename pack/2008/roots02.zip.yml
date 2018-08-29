@@ -1,0 +1,56 @@
+---
+files:
+  avg-dem1.ans:
+    artist: avenging.angel
+  roots02.nfo:
+    artists:
+    - lazarus
+    - retribution
+  jp-phar3.asc:
+    artist: jack.phlash
+  jp-ds2.ans:
+    artist: jack.phlash
+  tif-wd.ans:
+    artist: tifoadam
+  kf-roots.ans:
+    artist: kid.frost
+  roots02.mem:
+    artists:
+    - lazarus
+    - retribution
+  us-vrtgo.ans:
+    artists:
+    - ceelow
+    - teflon
+  70-epic.ans:
+    artist: tombin
+  tif-tif.ans:
+    artist: tifoadam
+  cw-ct2.ans:
+    artist: ceelow
+  file_id.diz:
+    artists:
+    - lazarus
+    - retribution
+  jp-tala2.ans:
+    artist: jack.phlash
+  jp-vtx7.asc:
+    artist: jack.phlash
+  us-dist.ans:
+    artists:
+    - kid.frost
+    - avenging.angel
+    - kungpow.pork
+  us-cent.ans:
+    artists:
+    - tombin
+    - avenging.angel
+  us-skill.ans:
+    artists:
+    - avenging.angel
+    - ceelow
+  us-roots.ans:
+    artists:
+    - tombin
+    - avenging.angel
+group: roots

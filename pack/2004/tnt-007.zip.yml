@@ -1,0 +1,16 @@
+---
+files:
+  u3-sam.ans:
+    artist: unseen.fate
+  mkk-enzo.ans:
+    artist: mekanik
+  mkk-evol.ans:
+    artist: mekanik
+  mkk-zv.ans:
+    artist: mekanik
+  hx-rmrs.ans:
+    font: cp437_8x16
+    artist: haliphax
+  mkk-cfsn.ans:
+    artist: mekanik
+group: the.next.testament

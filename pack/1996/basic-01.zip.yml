@@ -1,0 +1,75 @@
+---
+files:
+  sw-yoyo.asc:
+    artist: slick.willard
+  sw-crkr.asc:
+    artist: slick.willard
+  ep-acido.asc:
+    artist: epidemic
+  kal-lsd.asc:
+    artist: kaleidas
+  ep-lno.asc:
+    artist: epidemic
+  ho!death.asc:
+    artist: holocaust
+  kal-ba02.asc:
+    artist: kaleidas
+  ep-blast.asc:
+    artist: epidemic
+  bm-succ.asc:
+    artist: blindman
+  ho!basik.asc:
+    artist: holocaust
+  ep-delz2.asc:
+    artist: epidemic
+  hw-ao1.asc:
+    artist: hollow
+  bm-uc.asc:
+    artist: blindman
+  ho!acid.asc:
+    artist: holocaust
+  hw-rgr1.asc:
+    artist: hollow
+  tmm-bas1.asc:
+    artist: the.masked.marauder
+  file_id.diz:
+    artist: epidemic
+  tmm-stc1.asc:
+    artist: the.masked.marauder
+  we-nex21.asc:
+    artists:
+    - epidemic
+    - hollow
+  kal-c902.asc:
+    artist: kaleidas
+  welcome.an2:
+    artist: corpulent.cow
+  tt-death.asc:
+    artist: trinitron
+  ho^ack.asc:
+    artist: holocaust
+  hw-oasis.asc:
+    artist: hollow
+  tmm-htm1.asc:
+    artist: the.masked.marauder
+  ho!hoth.asc:
+    artist: holocaust
+  bm-acol1.asc:
+    artist: blindman
+  kal-dogm.asc:
+    artist: kaleidas
+  dp-basc.asc:
+    artist: despair
+  bm-numb.asc:
+    artist: blindman
+  bm-set7.asc:
+    artist: blindman
+  ho!st^dr.asc:
+    artist: holocaust
+  tmm-brn1.asc:
+    artist: the.masked.marauder
+  kal-phcy.asc:
+    artist: kaleidas
+  ep-hell.asc:
+    artist: epidemic
+group: basic!ascii

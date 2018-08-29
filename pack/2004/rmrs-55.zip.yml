@@ -1,0 +1,241 @@
+---
+files:
+  hx-funkp.ans:
+    font: topazplus-a500
+    artist: haliphax
+  hx-alf.asc:
+    font: cp437_8x16
+    artist: haliphax
+  wh0-haciend.txt:
+    font: topaz-a1200
+  scr-realm.nfo:
+    font: topazplus-a500
+    artist: scour
+  sd-wam.txt:
+    font: topaz-a1200
+  fs-tp2.asc:
+    font: cp437_8x16
+    artist: f0st
+  nt-remo.asc:
+    artist: nightrain
+  sp-goog.asc:
+    font: topaz-a1200
+    artist: spinsane
+  wh0-shockg.txt:
+    font: topaz-a1200
+  z0o-h8zine.asc:
+    font: cp437_8x16
+  hp-gml1.asc:
+    font: topaz-a1200
+  sd-lp.txt:
+    font: topaz-a1200
+  dbrn-evoke.txt:
+    font: topaz-a1200
+    artist: dead.brain
+  ch-mycel2.asc:
+    font: cp437_8x16
+  wh0-psites.txt:
+    font: topaz-a1200
+  sp-scr1.asc:
+    font: topaz-a1200
+    artist: spinsane
+  hp-er1.asc:
+    font: topaz-a1200
+  cru-irck.txt:
+    font: topaz-a1200
+    artist: crusader
+  wh0-3.txt:
+    font: topaz-a1200
+  sp-cbmt.txt:
+    font: topaz-a1200
+    artist: spinsane
+  y-arts.asc:
+    font: cp437_8x16
+    artist: yce
+  hx-usmen.ans:
+    font: topazplus-a500
+    artist: haliphax
+  fs-tp1.asc:
+    font: cp437_8x16
+    artist: f0st
+  wh0-rmrb.txt:
+    font: topaz-a1200
+  cru-ircg.txt:
+    font: topaz-a1200
+    artist: crusader
+  us-ks.asc:
+    font: topaz-a1200
+  sd-scr.txt:
+    font: topaz-a1200
+  scr-wtm.nfo:
+    font: topazplus-a500
+    artist: scour
+  sch-mimic.asc:
+    font: cp437_8x16
+  cru-ircf.txt:
+    font: topaz-a1200
+    artist: crusader
+  y-acid2k4.asc:
+    font: topaz-a1200
+    artist: yce
+  m0-rmrs.asc:
+    font: cp437_8x16
+    artist: m0lo
+  scru-firstb.asc:
+    font: topaz-a1200
+  y-dvt.asc:
+    font: cp437_8x16
+    artist: yce
+  43-1981.asc:
+    font: topaz-a1200
+    artist: aesthetic
+  z0o-fe.asc:
+    font: cp437_8x16
+  ns-hsa.nfo:
+    artist: ansichrist
+  hx-1981.xb:
+    font: topazplus-a500
+    artist: haliphax
+  hx-orw.asc:
+    artist: haliphax
+  y-ignite.asc:
+    font: cp437_8x16
+    artist: yce
+  wh0-rmra.txt:
+    font: topaz-a1200
+  asx-rts.txt:
+    font: cp437_8x16
+  sp-srch.asc:
+    font: topaz-a1200
+    artist: spinsane
+  scru-rmrs.asc:
+    font: topaz-a1200
+  y-cana.asc:
+    font: cp437_8x16
+    artist: yce
+  us-f27.txt:
+    font: topaz-a1200
+  sd-rld.txt:
+    font: topaz-a1200
+  cru-ami.txt:
+    font: topaz-a1200
+    artist: crusader
+  wh0-hiro.txt:
+    font: topaz-a1200
+  pgm04-results-v110.txt:
+    font: topaz-a1200
+  ns-sirp.asc:
+    font: topaz-a1200
+    artist: ansichrist
+  sd-fwa.txt:
+    font: topaz-a1200
+  scr-tda.nfo:
+    font: cp437_8x16
+    artist: scour
+  ch-dice.asc:
+    font: topaz-a1200
+  hx-mp.ans:
+    font: topazplus-a500
+    artist: haliphax
+  file_id.diz:
+    font: topazplus_a500
+  wh0-rmrc.txt:
+    font: topaz-a1200
+  ns-abyss_altzone04.jpg:
+    artist: ansichrist
+  y-dvt.jpg:
+    artist: yce
+  brm-bzr.asc:
+    font: topaz-a1200
+  brm-shit.asc:
+    font: cp437_8x16
+  hp-bdk1.asc:
+    font: topaz-a1200
+  scr-creds.asc:
+    font: topazplus-a500
+    artist: scour
+  y-dvt.png:
+    artist: yce
+  wh0-amy.txt:
+    font: topaz-a1200
+  hx-cmhdr.asc:
+    font: cp437_8x16
+    artist: haliphax
+  us-h8zine.asc:
+    font: topaz-a1200
+  cru-sss.txt:
+    font: topaz-a1200
+    artist: crusader
+  sp-bs.txt:
+    font: topaz-a1200
+    artist: spinsane
+  wh0-ack.txt:
+    font: topaz-a1200
+  brm-egot.asc:
+    font: topaz-a1200
+  hx-h8col.asc:
+    artist: haliphax
+  brm-rmrs.asc:
+    font: topaz-a1200
+  sp-wkly.asc:
+    font: topaz-a1200
+    artist: spinsane
+  fs-ntr.asc:
+    font: cp437_8x16
+    artist: f0st
+  pb-chalz.asc:
+    font: cp437_8x16
+  cru-ripl.txt:
+    font: topaz-a1200
+    artist: crusader
+  er-oxy2.asc:
+    font: topaz-a1200
+  hx-1line.asc:
+    font: topazplus-a500
+    artist: haliphax
+  4th-rmrs.asc:
+    font: cp437_8x16
+    artist: 4th.disciple
+  cru-cotm.txt:
+    font: topaz-a1200
+    artist: crusader
+  wh0-tzeen.txt:
+    font: topaz-a1200
+  hx-glade.asc:
+    font: topazplus-a500
+    artist: haliphax
+  brm-rmr2.asc:
+    font: topaz-a1200
+  sc-acid.asc:
+    font: cp437_8x16
+  wh0-jone.txt:
+    font: topaz-a1200
+  y-rd2.asc:
+    font: cp437_8x16
+    artist: yce
+  nt-devin.asc:
+    artist: nightrain
+  hp-ns1.asc:
+    font: topaz-a1200
+  fs-upc.asc:
+    font: cp437_8x16
+    artist: f0st
+  r-s1994.txt:
+    font: topaz-a1200
+  scr-cons.nfo:
+    font: topazplus-a500
+    artist: scour
+  sd-acid.txt:
+    font: topaz-a1200
+  radman_air_sickness_bag.jpg:
+    artist: rad.man
+  hx-mjunk.asc:
+    font: topazplus-a500
+    artist: haliphax
+  cru-rolf.txt:
+    font: topaz-a1200
+    artist: crusader
+  hx-phx.asc:
+    font: topazplus-a500
+    artist: haliphax
+group: remorse.1981

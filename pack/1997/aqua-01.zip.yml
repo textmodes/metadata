@@ -1,0 +1,25 @@
+---
+files:
+  in-dd.ans:
+    artist: insert
+  wd-head1.ans:
+    artist: woodoo
+  rr-fire2.asc:
+    artist: riddler
+  lum-hngr.asc:
+    artist: luminator
+  in-creep.ans:
+    artist: insert
+  wd-kannu.ans:
+    artist: woodoo
+  h7-aq001.asc:
+    artist: h7
+  in-aqua.asc:
+    artist: insert
+  wd-aqua2.ans:
+    artist: woodoo
+  rr-aqua.asc:
+    artist: riddler
+  wd-aqua1.asc:
+    artist: woodoo
+group: aqua.ascii

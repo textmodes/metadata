@@ -1,0 +1,69 @@
+---
+files:
+  avg-owned.ans:
+    artist: avenging.angel
+  us-world.ans:
+    artists:
+    - aesthetic
+    - ansichrist
+    - avenging.angel
+  us-alov.ans:
+    artists:
+    - noches
+    - avenging.angel
+  us-rmrs1.ans:
+    artists:
+    - cryogenic
+    - avenging.angel
+  avg-pc1.ans:
+    artist: avenging.angel
+  k1-sense.ans:
+    artist: knocturnal
+  43-e251.ans:
+    artist: aesthetic
+  us-spleen.ans:
+    artists:
+    - avenging.angel
+    - knocturnal
+  avg-27ic1.ans:
+    artist: avenging.angel
+  us-dsorro.ans:
+    artists:
+    - aesthetic
+    - avenging.angel
+    - grymmjack
+  43-alove.ans:
+    artist: aesthetic
+  cg_pic.ans:
+    artist: cryogenic
+  cg_sc.ans:
+    artist: cryogenic
+  avg-250wide.bin:
+    artist: avenging.angel
+  smi-ar.ans:
+    artist: samurai
+  cg_real.ans:
+    artist: cryogenic
+  us-drugz.ans:
+    artists:
+    - avenging.angel
+    - aesthetic
+  avg-sen27.ans:
+    artist: avenging.angel
+  us-nsigma.ans:
+    artists:
+    - knocturnal
+    - aesthetic
+  us-join.ans:
+    artists:
+    - retribution
+    - aesthetic
+    - avenging.angel
+  us-27tri.ans:
+    artists:
+    - aesthetic
+    - the.creep.fever
+    - avenging.angel
+  43-nooz.ans:
+    artist: aesthetic
+group: sense

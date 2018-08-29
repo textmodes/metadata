@@ -1,0 +1,39 @@
+---
+files:
+  c-rockstar.asc:
+    artist: caciq
+  aclv4.asc:
+    font: topaz-a1200
+  o-rpm.asc:
+    artist: orzech
+  o-omni.asc:
+    artist: orzech
+  h-fys.nfo:
+    artist: handyjoe
+  o-nmd2.asc:
+    artist: orzech
+  c-osc.asc:
+    artist: caciq
+  c-apc.asc:
+    artist: caciq
+  h-wra.nfo:
+    artist: handyjoe
+  c-eternals.asc:
+    artist: caciq
+  h-darklady.nfo:
+    artist: handyjoe
+  h-wr.nfo:
+    artist: handyjoe
+  c-bossld.asc:
+    artist: caciq
+  h-brute3.asc:
+    artist: handyjoe
+  o-ett.asc:
+    artist: orzech
+  o-underhell.asc:
+    artist: orzech
+  c-logos.asc:
+    artist: caciq
+  o-sibv.asc:
+    artist: orzech
+group: apocalypse

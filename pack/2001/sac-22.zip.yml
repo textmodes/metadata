@@ -1,0 +1,57 @@
+---
+files:
+  frx-ris3.asc:
+    artist: ferrex
+  scr-tpy.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-ecko.nfo:
+    font: topazplus-a500
+    artist: scour
+  scr-rmt.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-asgd.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-emx.asc:
+    font: topazplus-a500
+    artist: scour
+  frx-rbs1.asc:
+    artist: ferrex
+  frx-sac8.asc:
+    artist: ferrex
+  frx-crn5.asc:
+    artist: ferrex
+  scr-npt.nfo:
+    font: topazplus-a500
+    artist: scour
+  frx-me01.asc:
+    artist: ferrex
+  frx-udr1.asc:
+    artist: ferrex
+  frx-cpy1.asc:
+    artist: ferrex
+  frx-tn01.asc:
+    artist: ferrex
+  frx-knf1.asc:
+    artist: ferrex
+  frx-mt01.asc:
+    artist: ferrex
+  frx-ego2.asc:
+    artist: ferrex
+  scr-epsxe.nfo:
+    font: topazplus-a500
+    artist: scour
+  frx-tile.jpg:
+    artist: ferrex
+  frx-ut01.asc:
+    artist: ferrex
+  frx-tle2.jpg:
+    artist: ferrex
+  frx-nvr1.asc:
+    artist: ferrex
+  scr-fty.asc:
+    font: topazplus-a500
+    artist: scour
+group: superior.art.creations

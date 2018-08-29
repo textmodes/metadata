@@ -1,0 +1,23 @@
+---
+files:
+  $h-gal05.ans:
+    artist: shinigami
+  $h-poem3.ans:
+    artist: shinigami
+  $h-hg.ans:
+    artist: shinigami
+  $h-gal06.ans:
+    artist: shinigami
+  burning.ans:
+    artist: widowmaker
+  $h-tntmm.ans:
+    artist: shinigami
+  tz-pat2.ans:
+    artist: typezero
+  file_id.diz:
+    artist: shinigami
+  us-tntmm.ans:
+    artists:
+    - shinigami
+    - chemosh
+group: axxs

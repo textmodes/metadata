@@ -1,0 +1,44 @@
+---
+files:
+  bym-bism.ans:
+    artist: big.yellow.man
+  sadist.nfo:
+    artist: sephiroth
+  k!pega.ans:
+    artist: keetar
+  lm-back.ans:
+    artist: lichmist
+  vrg-0306.ans:
+    artist: vargr
+  vrg-0406.ans:
+    artist: vargr
+  bym-mded.ans:
+    artist: big.yellow.man
+  vrg-0506.ans:
+    artist: vargr
+  fo-mon~1.asc:
+    font: cp437-8x16
+  sadmem.ans:
+    artists:
+    - vargr
+    - sephiroth
+    - big.yellow.man
+  hz-elek2.ans:
+    artist: heinzon
+  file_id.diz:
+    artist: keetar
+  k!nattle.jpg:
+    artist: keetar
+  lm-spit.ans:
+    artist: lichmist
+  sph_dead.ans:
+    artist: sephiroth
+  b5-sdist.asc:
+    artist: barium
+  us-j22.ans:
+    artists:
+    - sephiroth
+    - the.creep.fever
+  s1-8bit.ans:
+    artist: somberlain
+group: sadist

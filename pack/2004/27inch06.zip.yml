@@ -1,0 +1,82 @@
+---
+files:
+  zo-hacn.ans:
+    artist: luciano
+  cl!-phar.ans:
+    artist: cleaner
+  zo-nons.ans:
+    artist: luciano
+  k1-rough.ans:
+    artist: knocturnal
+  sp-utv1.ans:
+    artist: spear
+  we-phar.ans:
+    artists:
+    - knocturnal
+    - luciano
+    - access.denied
+  4d-euph.ans:
+    artist: access.denied
+  k1-nsns2.ans:
+    artist: knocturnal
+  27inch.mem:
+    artist: luciano
+  zo-dark.ans:
+    artist: luciano
+  k1-ozone.ans:
+    artist: knocturnal
+  k1-phar3.ans:
+    artist: knocturnal
+  us-pstat.ans:
+    artists:
+    - access.denied
+    - knocturnal
+  k1-pdcyd.ans:
+    artist: knocturnal
+  k1-phar2.ans:
+    artist: knocturnal
+  sp-evil1.ans:
+    artist: spear
+  sm-rrx2.ans:
+    artist: smoke
+  4d-phar1.ans:
+    artist: access.denied
+  we-sword.ans:
+    artists:
+    - luciano
+    - knocturnal
+    - avenging.angel
+  4d-911.ans:
+    artist: access.denied
+  k1-k1999.ans:
+    artist: knocturnal
+  k1-avg.ans:
+    artist: knocturnal
+  k1-satan.ans:
+    artist: knocturnal
+  we-drink.ans:
+    artists:
+    - knocturnal
+    - luciano
+    - avenging.angel
+  we-fish.ans:
+    artists:
+    - spear
+    - luciano
+    - knocturnal
+    - avenging.angel
+  we-trn.ans:
+    artists:
+    - knocturnal
+    - luciano
+  h7-megam.ans:
+    artist: h7
+  27inch.nfo:
+    artists:
+    - luciano
+    - knocturnal
+  rz_-phar.ans:
+    artist: rzicus
+  h7-pharc.ans:
+    artist: h7
+group: 27.inch

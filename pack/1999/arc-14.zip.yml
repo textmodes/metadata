@@ -1,0 +1,40 @@
+---
+files:
+  xz-main.ans:
+    artist: hellbeard
+  dlt-rbot.ans:
+    artist: dalton
+  xz-bengt.ans:
+    artist: hellbeard
+  dlt-rat.ans:
+    artist: dalton
+  xz-vod.asc:
+    artist: hellbeard
+  zb!gnrtn.asc:
+    artist: zubfatal
+  iph!emk!.asc:
+    artist: inphamilair
+  us-new.asc:
+    artists:
+    - hellbeard
+  xz-m2.asc:
+    artist: hellbeard
+  iph!ktr!.asc:
+    artist: inphamilair
+  zb!dsdnf.asc:
+    artist: zubfatal
+  xz-phase.asc:
+    artist: hellbeard
+  xz-colly.asc:
+    artist: hellbeard
+  xz-risc.asc:
+    artist: hellbeard
+  xz-purge.asc:
+    artist: hellbeard
+  nd-heat.asc:
+    artist: naadah
+  zb!poop.asc:
+    artist: zubfatal
+  zb!bodge.asc:
+    artist: zubfatal
+group: alphaforce

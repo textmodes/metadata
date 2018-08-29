@@ -1,0 +1,79 @@
+---
+files:
+  sk!n-impure54.ans:
+    font: topazplus-a1200
+    artist: sk!n
+  us-americalatina.ans:
+    font: topazplus-a500
+    artist: hellbeard
+  sk!n-gargoyle.ans:
+    font: topazplus-a1200
+    artist: sk!n
+  mz-lc.ans:
+    font: topazplus-a1200
+    artist: maze
+  ldn-blood.ans:
+    font: topazplus-a1200
+    artist: lord.nikon
+  po-i5th.ans:
+    font: topazplus-a1200
+    artist: pogue
+  xz-zero2.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  xz-tulou.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  grk-pgu.ans:
+    font: topazplus-a1200
+    artist: griskokare
+  xz-dvn.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  file_id.diz:
+    font: topazplus-a500
+  xz-linux.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  xz-seawolf.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  jp!dmin3.asc:
+    font: topazplus-a1200
+    artist: jack.phlash
+  impure54.ans:
+    font: topazplus-a1200
+    artists:
+    - pogue
+    - hellbeard
+  po-ixzip.ans:
+    font: topazplus-a1200
+    artist: pogue
+  po-iasc.ans:
+    font: topazplus-a1200
+    artist: pogue
+  xz-legend.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  mz-massive.asc:
+    font: topazplus-a1200
+    artist: maze
+  ldn-dent.ans:
+    font: topazplus-a1200
+    artist: lord.nikon
+  mz-mononoke.ans:
+    font: topazplus-a1200
+    artist: maze
+  xz-disorder.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  cdn-bakfylla.ans:
+    font: topazplus-a500
+    artist: curdon
+  xz-shrooms.ans:
+    font: topazplus-a1200
+    artist: hellbeard
+  mz-1984-crew.ans:
+    font: topazplus-a1200
+    artist: maze
+group: impure!ascii.1940

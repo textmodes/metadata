@@ -1,0 +1,33 @@
+---
+files:
+  whale3.ans:
+    artist: spiny
+  blender.sup.ans:
+    artists:
+    - hennifer
+    - cthulu
+    - warpus
+  blender.hof.ans:
+    artists:
+    - cthulu
+    - warpus
+    - hennifer
+  mfs-blen2018.bin:
+    artist: mel.farr.suppastar
+  blender.2018.ans:
+    artists:
+    - warpus
+    - hennifer
+    - cthulu
+  blender.nfo.ans:
+    artists:
+    - cthulu
+    - warpus
+    - hennifer
+  tk-blender2018.ans:
+    artist: the.knight
+  pg_spacewhale.ans:
+    artist: pinguino
+  bs-blndr2018.ans:
+    artist: burps
+group: the.blender

@@ -1,0 +1,27 @@
+---
+files:
+  in-dog.ans:
+    artist: inhans
+  bn-spr.ans:
+    artist: bern
+  lod-spd.ans:
+    artist: legion.of.doom
+  us-str2.ans:
+    artists:
+    - rosetta.stoned
+    - sudden.death
+  rs-star.ans:
+    artist: rosetta.stoned
+  kp-supar.ans:
+    artist: krepanjarchar
+  us-promo.ans:
+    artists:
+    - sudden.death
+    - rosetta.stoned
+  info2.ans:
+    artist: inhans
+  rs-ausg.ans:
+    artist: rosetta.stoned
+  rs-strb.ans:
+    artist: rosetta.stoned
+group: supergroup

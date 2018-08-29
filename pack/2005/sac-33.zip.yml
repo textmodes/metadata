@@ -1,0 +1,300 @@
+---
+files:
+  asx-ilp.nfo:
+    artist: asphyx
+  cdr-sweatshop.asc:
+    artist: crusader
+  asx-dsm2.diz:
+    artist: asphyx
+  asx-l33t-final.png:
+    artist: asphyx
+  flames-hoodlum.jpg:
+    artist: flames
+  fs-ins.asc:
+    artist: f0st
+  w0-ctrn.asc:
+    artist: webpige0
+  w0-iso.asc:
+    artist: webpige0
+  asx-atoy.txt:
+    artist: asphyx
+  dip-dezo.nfo:
+    artist: dipswitch
+  dn-engiz.txt:
+    artist: don
+  dip-cons.asc:
+    artist: dipswitch
+  asx-svn2.txt:
+    artist: asphyx
+  w0-aiu.ans:
+    artist: webpige0
+  dn-tvnl.txt:
+    artist: don
+  b5-oxd.asc:
+    artist: barium
+  s!+nr-kotn.txt:
+    font: topaz-a1200
+    artists:
+    - scour
+    - nerv
+  b5-fslo.asc:
+    artist: barium
+  b5-csene.asc:
+    artist: barium
+  w0-tlv.asc:
+    artist: webpige0
+  dip-neur.diz:
+    artist: dipswitch
+  w0-utr2.asc:
+    artist: webpige0
+  cdr-koxbox.asc:
+    artist: crusader
+  w0-sf.asc:
+    artist: webpige0
+  dn-misur.txt:
+    artist: don
+  don-xtr.asc:
+    artist: don
+  s!-bud.asc:
+    font: topaz-a1200
+    artist: scour
+  nr-tud.txt:
+    artist: nerv
+  w0-avatar_logo_1.png:
+    artist: webpige0
+  w0-npt.asc:
+    artist: webpige0
+  s!+dn-ea.txt:
+    font: topaz-a1200
+    artists:
+    - scour
+    - don
+  don-dra.asc:
+    artist: don
+  ix-paradox.nfo:
+    artist: ixlover
+  cdr-reed.diz:
+    artist: crusader
+  dip-atoy.asc:
+    artist: dipswitch
+  w0-drgd.asc:
+    artist: webpige0
+  nr-nightmare.txt:
+    artist: nerv
+  asx-herbulot.png:
+    artist: asphyx
+  fs-dm2.asc:
+    artist: f0st
+  asx-troll-final.png:
+    artist: asphyx
+  b5-mao.asc:
+    artist: barium
+  asx-nervbd.jpg:
+    artist: asphyx
+  nr-wtf.ans:
+    artist: nerv
+  w0-sht.asc:
+    artist: webpige0
+  b5-lron.bin:
+    artist: barium
+  asx-sven.txt:
+    artist: asphyx
+  w0-cg.asc:
+    artist: webpige0
+  asx-bme4.txt:
+    artist: asphyx
+  asx-warlords-logo.png:
+    artist: asphyx
+  w0-stli.asc:
+    artist: webpige0
+  b5-atds.asc:
+    artist: barium
+  w0-def.asc:
+    artist: webpige0
+  w0-hanime.png:
+    artist: webpige0
+  asx-female_troll-final-2.jpg:
+    artist: asphyx
+  w0-xored_3.png:
+    artist: webpige0
+  w0-bahi.gif:
+    artist: webpige0
+  w0-dvdr.asc:
+    artist: webpige0
+  b5-mntfu.asc:
+    artist: barium
+  asx-rvn.txt:
+    artist: asphyx
+  cdr-powerserv.asc:
+    artist: crusader
+  w0-hds.asc:
+    artist: webpige0
+  asx-madhat-final.jpg:
+    artist: asphyx
+  asx-glk.nfo:
+    artist: asphyx
+  w0-tpg.asc:
+    artist: webpige0
+  w0-vys.asc:
+    artist: webpige0
+  w0-opil.asc:
+    artist: webpige0
+  w0-mid.asc:
+    artist: webpige0
+  w0-sheep_3.png:
+    artist: webpige0
+  w0-xored_2b.png:
+    artist: webpige0
+  fs-tpa.asc:
+    artist: f0st
+  s!+b5+ix-m.nfo:
+    artists:
+    - scour
+    - barium
+    - ixlover
+  w0-roya.asc:
+    artist: webpige0
+  sp-tess.txt:
+    font: topaz-a1200
+    artist: spinsane
+  w0-ages_funnycolours.png:
+    artist: webpige0
+  w0-scd.asc:
+    artist: webpige0
+  pdz+w0-rf.asc:
+    artists:
+    - podsi
+    - webpige0
+  sp-tij.txt:
+    font: topaz-a1200
+    artist: spinsane
+  w0-orn.png:
+    artist: webpige0
+  s!-trd.diz:
+    artist: scour
+  s!-typh.asc:
+    font: topaz-a1200
+    artist: scour
+  b5-csen1.asc:
+    artist: barium
+  w0.nfo:
+    artist: webpige0
+  w0-gaha.asc:
+    artist: webpige0
+  w0-nty.asc:
+    artist: webpige0
+  w0-harlemworld.png:
+    artist: webpige0
+  w0-phusion.png:
+    artist: webpige0
+  b5-aero.asc:
+    artist: barium
+  asx-def13.txt:
+    artist: asphyx
+  w0-homer.asc:
+    artist: webpige0
+  w0-apache_2.png:
+    artist: webpige0
+  fs-rules.asc:
+    artist: f0st
+  w0-ages_6b.png:
+    artist: webpige0
+  fs-pyg.asc:
+    artist: f0st
+  asx-dvd.nfo:
+    artist: asphyx
+  nr-espen.png:
+    artist: nerv
+  w0-seau.asc:
+    artist: webpige0
+  asx-mimo.nfo:
+    artist: asphyx
+  dip-neur.asc:
+    artist: dipswitch
+  s!-gate.asc:
+    font: topaz-a1200
+    artist: scour
+  b5-fyllh.asc:
+    artist: barium
+  b5-mflo.asc:
+    artist: barium
+  s!-mv2.asc:
+    font: topaz-a1200
+    artist: scour
+  w0-ages_7_codename_poopypants.png:
+    artist: webpige0
+  asx-bme.txt:
+    artist: asphyx
+  asx-dsm.nfo:
+    artist: asphyx
+  w0-brzi_small.png:
+    artist: webpige0
+  w0-drg.asc:
+    artist: webpige0
+  w0-oni.asc:
+    artist: webpige0
+  dip-jfk.nfo:
+    artist: dipswitch
+  don-sqe.asc:
+    artist: don
+  b5-svn.asc:
+    artist: barium
+  nr-boss.txt:
+    artist: nerv
+  w0-avatar_intro_1.png:
+    artist: webpige0
+  w0-echelon_1.png:
+    artist: webpige0
+  fs-dm1.asc:
+    artist: f0st
+  b5-fls.asc:
+    artist: barium
+  nr-nightmare.asc:
+    artist: nerv
+  dip-dsco.asc:
+    artist: dipswitch
+  nr-sac.asc:
+    artist: nerv
+  w0-kmd.asc:
+    artist: webpige0
+  b5-msa.asc:
+    artist: barium
+  w0-diil_r.asc:
+    artist: webpige0
+  w0-chic.asc:
+    artist: webpige0
+  ix-pdxnfo.nfo:
+    artist: ixlover
+  s!-xored.nfo:
+    artist: scour
+  cdr-sceneiors.asc:
+    artist: crusader
+  w0-diil.asc:
+    artist: webpige0
+  dn-sac.txt:
+    artist: don
+  w0-txk.asc:
+    artist: webpige0
+  w0-avatar_intro_2.png:
+    artist: webpige0
+  cdr-darkus.asc:
+    artist: crusader
+  s!-mv.asc:
+    font: topaz-a1200
+    artist: scour
+  dn-dark.txt:
+    artist: don
+  w0-ctrd.asc:
+    artist: webpige0
+  asx-bmf.txt:
+    artist: asphyx
+  s!+cdr-sac.asc:
+    font: topaz-a1200
+    artist: scour
+  b5-ecg.asc:
+    artist: barium
+  fs-nl.asc:
+    artist: f0st
+  w0-rituel.png:
+    artist: webpige0
+group: superior.art.creations

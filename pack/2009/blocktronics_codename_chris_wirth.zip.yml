@@ -1,0 +1,168 @@
+---
+files:
+  txt-16c.ans:
+    artist: textmode.exorcist
+  goo-blockbrains.ans:
+    artist: mypal.goo
+  we-freecoke.ans:
+    artists:
+    - kid.frost
+    - the.creep.fever
+  ns-void.ans:
+    artist: ansichrist
+  70-ansi.ans:
+    artist: tombin
+  we-sparta.ans:
+    artists:
+    - big.yellow.man
+    - luciano
+  we-fredkokaine.ans:
+    artists:
+    - luciano
+    - avenging.angel
+    - spear
+  we-entropy.ans:
+    artists:
+    - luciano
+    - the.creep.fever
+    - avenging.angel
+  zv-masq.ans:
+    artist: zerovision
+  cm-villan.asc:
+    artist: cmang
+  ns-thetelephoneboot.ans:
+    artist: ansichrist
+  ob-mario.ans:
+    artist: ober
+  we-id.ans:
+    artists:
+    - avenging.angel
+    - retribution
+  bym-outofit.ans:
+    artist: big.yellow.man
+  we-enthral.ans:
+    artists:
+    - avenging.angel
+    - luciano
+  tcf-htc.ans:
+    artist: the.creep.fever
+  cs-capslogo.ans:
+    artist: caps-one
+  we-awetronics.ans:
+    artists:
+    - luciano
+    - avenging.angel
+  bym-ngl.ans:
+    artist: big.yellow.man
+  we-hotchick.ans:
+    artists:
+    - cmang
+    - aesthetic
+  we-bunny.ans:
+    artists:
+    - luciano
+    - ober
+  ns-blocktronics.ans:
+    artist: ansichrist
+  we-btnique.ans:
+    artists:
+    - avenging.angel
+    - noches
+  we-thevoid.ans:
+    artists:
+    - grindstoned
+    - luciano
+  ns-ansilove.ans:
+    artist: ansichrist
+  zv-greyvoid.ans:
+    artist: zerovision
+  jp!-mythology.ans:
+    artist: jack.phlash
+  we-the409-67.ans:
+    artists:
+    - big.yellow.man
+    - pook
+  zo-acid.ans:
+    artist: luciano
+  we-viewtronics.ans:
+    artists:
+    - avenging.angel
+    - luciano
+  tna-7diz.ans:
+    artist: taintedx
+  tcf-tcf.ans:
+    artist: the.creep.fever
+  tna-asm2000.ans:
+    artist: taintedx
+  zv-clutch.ans:
+    artist: zerovision
+  cm-freebsd.ans:
+    artist: cmang
+  we-barrytronics.ans:
+    artists:
+    - avenging.angel
+    - luciano
+  ret-ansi.ans:
+    artist: retribution
+  ns-distortion.ans:
+    artist: ansichrist
+  avg-luvchris.ans:
+    artist: avenging.angel
+  avg-evoke.ans:
+    artist: avenging.angel
+  zo-blockheroes.ans:
+    artist: luciano
+  zo-fitc.ans:
+    artist: luciano
+  we-ent.ans:
+    artists:
+    - avenging.angel
+    - aesthetic
+  zv-fonthow2.ans:
+    artist: zerovision
+  we-lud.ans:
+    artists:
+    - luciano
+    - grindstoned
+  we-myth.ans:
+    artists:
+    - avenging.angel
+    - grindstoned
+  70-sense.ans:
+    artist: tombin
+  we-67.ans:
+    artists:
+    - avenging.angel
+    - knocturnal
+  ret-htc.ans:
+    artist: retribution
+  we-massivejoint.ans:
+    artists:
+    - lord.scarlet
+    - taintedx
+  ret-revolt.ans:
+    artist: retribution
+  we-radman.ans:
+    artists:
+    - zerovision
+    - luciano
+  zo-konami.ans:
+    artist: luciano
+  _blocknews2.ans:
+    artists:
+    - avenging.angel
+    - luciano
+  we-satantronics.ans:
+    artists:
+    - grindstoned
+    - luciano
+    - avenging.angel
+  ret-entropy.ans:
+    artist: retribution
+  zv-colly.ans:
+    artist: zerovision
+  goo-1king.ans:
+    artist: mypal.goo
+  avg-sense3d.ans:
+    artist: avenging.angel
+group: blocktronics

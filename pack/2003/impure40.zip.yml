@@ -1,0 +1,71 @@
+---
+files:
+  ab-if.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  us-pods2.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - podsi
+  us-rmrs.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  imp-fs.txt:
+    font: topazplus-a1200
+  po-prfct.txt:
+    font: topazplus-a1200
+    artist: pogue
+  eld!-hjb.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-piz.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-spe.asc:
+    font: topazplus-a1200
+    artist: elend
+  impure40.inf:
+    font: topazplus-a500
+  ab-mst.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  xz-aisli.txt:
+    font: topazplus-a1200
+    artist: hellbeard
+  eld!-2w.asc:
+    font: topazplus-a1200
+    artist: elend
+  file_id.diz:
+    font: topazplus-a500
+  eld!-zel.asc:
+    font: topazplus-a1200
+    artist: elend
+  us-podsi.asc:
+    font: topazplus-a500
+    artists:
+    - elend
+    - pogue
+  ps-perf.asc:
+    font: topazplus-a500
+    artist: podsi
+  eld!-sup.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-mas.asc:
+    font: topazplus-a1200
+    artist: elend
+  po-xzip.asc:
+    font: topazplus-a1200
+    artist: pogue
+  eld!-roa.asc:
+    font: topazplus-a1200
+    artist: elend
+  us-imp.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+group: impure!ascii.1940

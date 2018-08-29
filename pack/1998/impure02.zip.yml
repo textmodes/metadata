@@ -1,0 +1,25 @@
+---
+files:
+  esc-indi.imp:
+    artist: esc
+  drm-iq1.imp:
+    artist: d0rm
+  pgu!tal.imp:
+    artist: pogue
+  hc-woez.imp:
+    artist: hex.corrupt
+  dd-obses.imp:
+    artist: dopedemon
+  shy-epoc.imp:
+    artist: shypht
+  shy-epo2.imp:
+    artist: shypht
+  qx-colly.imp:
+    artist: quix
+  file_id.diz:
+    font: topazplus-a500
+  qx_cstcm.imp:
+    artist: quix
+  esc-teeh.imp:
+    artist: esc
+group: impure!ascii.1940

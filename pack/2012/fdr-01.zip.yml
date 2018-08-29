@@ -1,0 +1,44 @@
+---
+files:
+  cl!-fdr.ans:
+    artist: cleaner
+  cl!-goto.ans:
+    artist: cleaner
+  cl!-bic.ans:
+    artist: cleaner
+  syl-k7.ans:
+    artist: sylvao
+  cl!-hori.ans:
+    artist: cleaner
+  us-trs12.ans:
+    artists:
+    - cleaner
+    - sylvao
+  syl-evke.ans:
+    artist: sylvao
+  fdr-01.mem:
+    artist: fire.dream
+  us-evo11.ans:
+    artists:
+    - sylvao
+    - sylvao
+    - cleaner
+  cl!-hb.ans:
+    artist: cleaner
+  cl!-go10.ans:
+    artist: cleaner
+  syl-nyan.ans:
+    artist: sylvao
+  syl-sntx.ans:
+    artist: sylvao
+  syl-noel.ans:
+    artist: sylvao
+  syl-trck.ans:
+    artist: sylvao
+  syl-strt.ans:
+    artist: sylvao
+  syl-xmas.ans:
+    artist: sylvao
+  syl-mega.ans:
+    artist: sylvao
+group: fire.dream

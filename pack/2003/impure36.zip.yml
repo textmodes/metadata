@@ -1,0 +1,105 @@
+---
+files:
+  da-zsdei.asc:
+    font: topazplus-a1200
+    artist: devil.angel
+  eld!isak.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-asl.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-eoe.asc:
+    font: topazplus-a1200
+    artist: elend
+  ozz-mimc.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ps-lelo.asc:
+    font: topazplus-a500
+    artist: podsi
+  ozz-drey.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-arn.asc:
+    font: topazplus-a1200
+    artist: elend
+  ps-opt.asc:
+    font: topazplus-a500
+    artist: podsi
+  xz-black.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  eld!pain.asc:
+    font: topazplus-a1200
+    artist: elend
+  ps-asp.asc:
+    font: topazplus-a500
+    artist: podsi
+  eld!-muv.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-bnd.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-bpt.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-uk.asc:
+    font: topazplus-a1200
+    artist: elend
+  file_id.diz:
+    font: topazplus-a500
+  eld!-ptb.asc:
+    font: topazplus-a1200
+    artist: elend
+  impure36.inf:
+    font: topazplus-a500
+  eld!-dmg.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-pop.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-dig.asc:
+    font: topazplus-a1200
+    artist: elend
+  ozz-blod.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  us-medus.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - griskokare
+  po-subc.asc:
+    font: topazplus-a1200
+    artist: pogue
+  da-ic.asc:
+    font: topazplus-a1200
+    artist: devil.angel
+  ozz-blim.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-tru.asc:
+    font: topazplus-a1200
+    artist: elend
+  ozz-amo.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ps-fbr.asc:
+    font: topazplus-a500
+    artist: podsi
+  da-tlk.asc:
+    font: topazplus-a1200
+    artist: devil.angel
+  ozz-amo2.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-eye.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld!-mup.asc:
+    font: topazplus-a1200
+    artist: elend
+group: impure!ascii.1940

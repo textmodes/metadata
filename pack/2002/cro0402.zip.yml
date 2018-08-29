@@ -1,0 +1,57 @@
+---
+files:
+  ol-bvcyp_header.asc:
+    artist: olli
+  ol-cky_nfo.asc:
+    artist: olli
+  ol-dia_nfo.asc:
+    artist: olli
+  ol-variance_nfo.asc:
+    artist: olli
+  ol-dyd_header.asc:
+    artist: olli
+  ol-c4_welcome.asc:
+    artist: olli
+  ol-nbd_header.asc:
+    artist: olli
+  ol-cky_welcome.asc:
+    artist: olli
+  ol-labyrinth_welcome.asc:
+    artist: olli
+  mono_ship.gif:
+    artist: monolith
+  ol-palazzo_welcome.asc:
+    artist: olli
+  ol-o11_welcome.asc:
+    artist: olli
+  ol-arrakis_welcome.asc:
+    artist: olli
+  ol-highlands_welcome.asc:
+    artist: olli
+  b!-t!-cro.gif:
+    artist: bate
+  t!-tlogo.gif:
+    artist: targon
+  ol-ae_welcome.asc:
+    artist: olli
+  cg-ssh_welcome.asc:
+    artist: cablegod
+  ol-tgsc_nfo.asc:
+    artist: olli
+  ol-renegade_nfo.asc:
+    artist: olli
+  ol-nasi_welcome.asc:
+    artist: olli
+  mono_smack.gif:
+    artist: monolith
+  ol-ti_welcome.asc:
+    artist: olli
+  ol-php_welcome.asc:
+    artist: olli
+  mono_cow.gif:
+    artist: monolith
+  ol-gds_nfo.asc:
+    artist: olli
+  ol-mmp_nfo.asc:
+    artist: olli
+group: chemical.reaction

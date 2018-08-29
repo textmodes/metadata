@@ -1,0 +1,27 @@
+---
+files:
+  pos!sinn.asc:
+    artist: poise
+  h7-ageem.asc:
+    artist: h7
+  pos!expo.asc:
+    artist: poise
+  us-amiga.asc:
+    font: topazplus_a500
+  twr!insd.asc:
+    artist: twister
+  twr!dnb.asc:
+    artist: twister
+  pos!ds.asc:
+    artist: poise
+  file_id.diz:
+    font: topazplus_a500
+  twr!bthb.asc:
+    artist: twister
+  twr!c64.asc:
+    artist: twister
+  pos!hcnd.ans:
+    artist: poise
+  twr!ipal.asc:
+    artist: twister
+group: innate

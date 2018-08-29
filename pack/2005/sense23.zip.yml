@@ -1,0 +1,25 @@
+---
+files:
+  m0-roo.ans:
+    artist: m0lo
+  avg-lud1.ans:
+    artist: avenging.angel
+  43-east.ans:
+    artist: aesthetic
+  news.ans:
+    artist: aesthetic
+  avg-sod.ans:
+    artist: avenging.angel
+  zv-cyb.ans:
+    artist: zerovision
+  ppe-sns.ans:
+    artist: propane
+  us-lud.ans:
+    artists:
+    - klumzee
+    - aesthetic
+  cl!-al03.ans:
+    artist: cleaner
+  members.ans:
+    artist: taintedx
+group: sense

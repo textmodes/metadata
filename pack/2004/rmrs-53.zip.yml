@@ -1,0 +1,109 @@
+---
+files:
+  sp-rwjd.asc:
+    font: topaz-a1200
+    artist: spinsane
+  us-rush.asc:
+    font: cp437_8x16
+  er-malt.asc:
+    font: topaz-a1200
+  p-rmr.asc:
+    font: cp437_8x16
+  y-fa.asc:
+    font: cp437_8x16
+    artist: yce
+  bh-wps.txt:
+    font: cp437_8x16
+  ax_evil.txt:
+    font: topaz-a1200
+  er-slack.asc:
+    font: topaz-a1200
+  aa-voidz.asc:
+    font: topaz-a1200
+  y-foc.asc:
+    font: cp437_8x16
+    artist: yce
+  ax_rump.txt:
+    font: topaz-a1200
+  us-3t.asc:
+    font: topaz-a1200
+  ns-arts.asc:
+    font: topaz-a1200
+    artist: ansichrist
+  asx-gun.txt:
+    font: cp437_8x16
+  asx-rar1.txt:
+    font: cp437_8x16
+  us-hare.asc:
+    font: topaz-a1200
+  file_id.diz:
+    font: cp437_8x16
+  asx-bw.txt:
+    font: cp437_8x16
+  sp-caw.asc:
+    font: topaz-a1200
+    artist: spinsane
+  no-spins.txt:
+    font: topaz-a1200
+    artist: noches
+  us-saf.asc:
+    font: topaz-a1200
+  us-moon.asc:
+    font: topaz-a1200
+  sp-o1z.txt:
+    font: topaz-a1200
+    artist: spinsane
+  y-lord.asc:
+    font: cp437_8x16
+    artist: yce
+  sp-utv.asc:
+    font: topaz-a1200
+    artist: spinsane
+  er-arts.asc:
+    font: topaz-a1200
+  db-nightcat.txt:
+    font: topaz-a1200
+  no-fukkg.txt:
+    font: topaz-a1200
+    artist: noches
+  quotes.txt:
+    font: topaz-a1200
+  y-ad.asc:
+    font: cp437_8x16
+    artist: yce
+  mo-lite.asc:
+    font: cp437_8x16
+  db-arts.txt:
+    font: topaz-a1200
+  us-slack.asc:
+    font: topaz-a1200
+  db-ricky.txt:
+    font: topaz-a1200
+  ax_bird.txt:
+    font: cp437_8x16
+  db-televizor.txt:
+    font: topaz-a1200
+  radman_at_a_demo_party.jpg:
+    artist: rad.man
+  no-ddoma.txt:
+    font: topaz-a1200
+    artist: noches
+  no-cloud.txt:
+    font: topaz-a1200
+    artist: noches
+  us-ambio.txt:
+    font: topaz-a1200
+  asx-bbc1.txt:
+    font: cp437_8x16
+  asx-bbc2.txt:
+    font: cp437_8x16
+  z0o-fmr.asc:
+    font: cp437_8x16
+  no-delay.txt:
+    font: topaz-a1200
+    artist: noches
+  asx-mgt.txt:
+    font: cp437_8x16
+  asx-rar2.txt:
+    font: topaz-a1200
+group: remorse.1981

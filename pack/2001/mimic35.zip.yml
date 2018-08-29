@@ -1,0 +1,24 @@
+---
+files:
+  pix!mmcg.asc:
+    font: topazplus-a500
+    artist: splonk
+  jn-ornam.ans:
+    artist: jashiin
+  bjasc219.ans:
+    artist: black.jack
+  k!pronb2.txt:
+    artist: keetar
+  ko-swars.ans:
+    artist: kingpin.octopus
+  ko-rando.ans:
+    artist: kingpin.octopus
+  ko-vcs.asc:
+    artist: kingpin.octopus
+  bjasc220.ans:
+    artist: black.jack
+  bjasc221.ans:
+    artist: black.jack
+  h7-pvail.asc:
+    artist: h7
+group: mimic

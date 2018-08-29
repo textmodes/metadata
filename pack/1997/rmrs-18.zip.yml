@@ -1,0 +1,93 @@
+---
+files:
+  r-libert.txt:
+    font: topaz-a1200
+  tum-acid.asc:
+    font: topaz-a1200
+  hp-band1.txt:
+    font: topaz-a1200
+  9l-hzrd.asc:
+    font: topaz-a1200
+  ds-coly3.asc:
+    font: topaz-a1200
+  nn-ele.asc:
+    font: topaz-a1200
+    artist: necronite
+  r-mnfgt.txt:
+    font: topaz-a1200
+  om-oso.asc:
+    font: topaz-a1200
+  2n-son.asc:
+    font: topaz-a1200
+  ds-drm1.asc:
+    font: topaz-a1200
+  om-bb.asc:
+    font: topaz-a1200
+  fr-pic.asc:
+    font: topaz-a1200
+  fr-enm.asc:
+    font: topaz-a1200
+  2n-vin.asc:
+    font: topaz-a1200
+  c4-spins.asc:
+    font: topaz-a1200
+    artist: cannabis
+  by-dment.asc:
+    font: topaz-a1200
+  cm-r81.asc:
+    font: topaz-a1200
+    artist: cmang
+  tum-cci.asc:
+    font: topaz-a1200
+  sp-wcsig.asc:
+    font: topaz-a1200
+    artist: spinsane
+  vol-rmrs.asc:
+    font: topaz-a1200
+  bj-asc95.ans:
+    artist: black.jack
+  nn-acid.asc:
+    font: topaz-a1200
+    artist: necronite
+  nm-rmrs.asc:
+    font: topaz-a1200
+    artist: necromancer
+  c4-fall.asc:
+    font: topaz-a1200
+    artist: cannabis
+  nn-rmrs.ans:
+    artist: necronite
+  def-spf2.asc:
+    font: topaz-a1200
+  c4-tyrn.asc:
+    font: topaz-a1200
+    artist: cannabis
+  s1-1981.asc:
+    font: topaz-a1200
+  sp-dps.ans:
+    artist: spinsane
+  om-rmrs.asc:
+    font: topaz-a1200
+  axb-reec.asc:
+    font: topaz-a1200
+  us-alien.asc:
+    font: topaz-a1200
+  def-spf1.asc:
+    font: topaz-a1200
+  r3v-pit2.asc:
+    font: topaz-a1200
+  r3v-rmrs.asc:
+    font: topaz-a1200
+  s1-rmrs.asc:
+    font: topaz-a1200
+  ack-81.asc:
+    font: topaz-a1200
+  def-toil.asc:
+    font: topaz-a1200
+  c4-cain.asc:
+    font: topaz-a1200
+    artist: cannabis
+  nm-sub.asc:
+    font: topaz-a1200
+    artist: necromancer
+group: remorse.1981

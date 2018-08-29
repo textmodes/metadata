@@ -1,0 +1,35 @@
+---
+files:
+  zv-degen.ans:
+    artist: zerovision
+  e0-poff.ans:
+    artist: luciano
+  smp-oct.ans:
+    artist: shrimp
+  22-glue2.ans:
+    artist: catch22
+  zv-sbd.ans:
+    artist: zerovision
+  e0-carna.ans:
+    artist: luciano
+  22-b00ze.ans:
+    artist: catch22
+  e0-scrlz.ans:
+    artist: luciano
+  zv-cr.ans:
+    artist: zerovision
+  k1-glue2.ans:
+    artist: knocturnal
+  zv-ra.ans:
+    artist: zerovision
+  smp-bi.ans:
+    artist: shrimp
+  cph-bzlg.ans:
+    artist: cyberpunch
+  cph-gl.ans:
+    artist: cyberpunch
+  e0-glue.ans:
+    artist: luciano
+  smp-awe2.ans:
+    artist: shrimp
+group: glue

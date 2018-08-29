@@ -1,0 +1,43 @@
+---
+files:
+  tif-ent.ans:
+    artist: tifoadam
+  jp-eob.ans:
+    artist: jack.phlash
+  cw-cntst.ans:
+    artist: ceelow
+  us-ansi.ans:
+    artist: the.world
+  kf-vortx.ans:
+    artist: kid.frost
+  ret-rts.ans:
+    artist: retribution
+  kf-sat9.ans:
+    artist: kid.frost
+  cw-s7.ans:
+    artist: ceelow
+  us-utc.ans:
+    artists:
+    - kid.frost
+    - retribution
+    - kid.frost
+  ret-rain.ans:
+    artist: retribution
+  roots01.mem:
+    artist: roots
+  jp-roots.asc:
+    artist: jack.phlash
+  us-slurg.ans:
+    artists:
+    - teflon
+    - ceelow
+  us-roots.ans:
+    artists:
+    - ceelow
+    - retribution
+  us-sense.ans:
+    artists:
+    - retribution
+    - ceelow
+    - teflon
+group: roots

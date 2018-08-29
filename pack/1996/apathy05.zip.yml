@@ -1,0 +1,29 @@
+---
+files:
+  ix-acid1.ans:
+    artist: illusion.x
+  mt-gum1.ans:
+    artist: misfit
+  ix-mtrx.ans:
+    artist: illusion.x
+  ix-unde.ans:
+    artist: illusion.x
+  ix-apthy.ans:
+    artist: illusion.x
+  mt-krapp.ans:
+    artist: misfit
+  mt-pin1.ans:
+    artist: misfit
+  mt-ernie.ans:
+    artist: misfit
+  ix-ker.ans:
+    artist: illusion.x
+  mt-reg1.ans:
+    artist: misfit
+  mt-combo.ans:
+    artist: misfit
+  ix-tint.ans:
+    artist: illusion.x
+  mt-yodel.ans:
+    artist: misfit
+group: apathy

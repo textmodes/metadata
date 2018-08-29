@@ -1,0 +1,167 @@
+---
+files:
+  spf-idrk.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  po-vod5.asc:
+    font: topazplus-a1200
+    artist: pogue
+  fz-koak.asc:
+    font: topazplus-a1200
+    artist: fonzie
+  dwf-logo.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-imp.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  us-imp.asc:
+    font: topazplus-a500
+    artists:
+    - spitfire
+    - hellbeard
+  spf-zoop.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  spf-woez.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  iph-ulx.ans:
+    artist: inphamilair
+  po-bear.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-week2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  fz-drg.asc:
+    font: topazplus-a1200
+    artist: fonzie
+  dwf-nas.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-tdws.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  spf-woe_.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  iph-cvod.ans:
+    artist: inphamilair
+  po-euph.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-weekt.asc:
+    font: topazplus-a1200
+    artist: pogue
+  ns-imp2.asc:
+    font: topazplus-a1200
+    artist: ansichrist
+  spf-trax.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  xz-route.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  ns-imp1.asc:
+    font: topazplus-a1200
+    artist: ansichrist
+  dwf-purg.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-sauc.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  xz-craft.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-vod6.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-t507.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  po-news.asc:
+    font: topazplus-a1200
+    artist: pogue
+  spf-krke.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  dwf-man.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-pv.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  po-imp.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-dlrx.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  dwf-mp3.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  impure08.mem:
+    font: topazplus-a500
+  fz-jooz.asc:
+    font: topazplus-a1200
+    artist: fonzie
+  po-users.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-m2.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  file_id.diz:
+    font: topazplus-a500
+  iph-rx6.ans:
+    artist: inphamilair
+  xz-mess.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  ns-imp3.asc:
+    font: topazplus-a1200
+    artist: ansichrist
+  dwf-mang.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  us-imp2.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  iph-nu.ans:
+    artist: inphamilair
+  spf-impr.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  spf-nasn.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  spf-mmic.asc:
+    font: topazplus-a1200
+    artist: spitfire
+  po-deeps.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-imp3.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - dwarf
+    - pogue
+  dwf-acid.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  xz-emok.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  impure08.inf:
+    font: topazplus-a500
+  po-del3.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

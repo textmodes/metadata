@@ -1,0 +1,37 @@
+---
+files:
+  file_id.diz:
+    artist: paz
+  kur2#paz.ans:
+    artist: paz
+  btg1#rag.ans:
+    artist: rage
+  buzz#p&r.ans:
+    artists:
+    - rage
+    - paz
+  fexp#paz.ans:
+    artist: paz
+  atls#p&r.ans:
+    artists:
+    - rage
+    - paz
+  cbs1#p&r.ans:
+    artists:
+    - paz
+    - rage
+  mor2#rag.ans:
+    artist: rage
+  kur1#rag.ans:
+    artist: rage
+  cbs3#p&r.ans:
+    artists:
+    - rage
+    - paz
+  kur3#rag.ans:
+    artist: rage
+  cbra#p&r.ans:
+    artists:
+    - paz
+    - rage
+group: bytegarden

@@ -1,0 +1,85 @@
+---
+files:
+  us-scr.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  ab-side.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  imp-psyc.txt:
+    font: topazplus-a1200
+    artist: pogue
+  ab-prvl.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  us-romu.asc:
+    font: topazplus-a500
+    artists:
+    - acidbrain
+    - splonk
+  us-tle.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  zi-tosh.asc:
+    font: topazplus-a1200
+    artist: zimmer
+  xz-ska.txt:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-fairl.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-main.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-feedb.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure22.mem:
+    font: topazplus-a500
+  ab-spral.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  file_id.diz:
+    font: topazplus-a500
+    artist: pogue
+  us-tir.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  us-lo1.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - scour
+  ab-psc3d.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  ab-isha8.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  ab-splnk.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  scr-nbng.txt:
+    font: topazplus-a500
+    artist: scour
+  ab-diag.txt:
+    font: topazplus-a1200
+    artist: acidbrain
+  us-amns.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - splonk
+  po-mind.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure22.inf:
+    font: topazplus-a500
+group: impure!ascii.1940

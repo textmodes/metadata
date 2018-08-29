@@ -1,0 +1,119 @@
+---
+files:
+  y-phlu.asc:
+    font: topaz-a1200
+    artist: yce
+  asx-fam2.txt:
+    font: topaz-a1200
+  scr-tyd.asc:
+    font: topazplus-a500
+    artist: scour
+  inf-lw2.asc:
+    font: topaz-a1200
+  ldn-rmrs.txt:
+    font: topaz-a1200
+    artist: lord.nikon
+  scr-sp.nfo:
+    font: topazplus-a500
+    artist: scour
+  sp-tef.asc:
+    font: topaz-a1200
+    artist: spinsane
+  zh-rmrs.asc:
+    font: topaz-a1200
+  sp-2c.txt:
+    font: topaz-a1200
+    artist: spinsane
+  nt-raz.asc:
+    font: topazplus_a500
+    artist: nightrain
+  ax_diz.txt:
+    font: topaz-a1200
+  mo-emp.asc:
+    font: cp437_8x16
+  scr-m7.nfo:
+    font: topazplus-a500
+    artist: scour
+  asx-gas.txt:
+    font: topaz-a1200
+  dang-x3.asc:
+    font: topaz-a1200
+  scr-uw.nfo:
+    font: topazplus-a500
+    artist: scour
+  ax_necri.txt:
+    font: topaz-a1200
+  asx-sl.txt:
+    font: topaz-a1200
+  scr-scr.nfo:
+    font: topazplus-a500
+    artist: scour
+  07-hvk2.asc:
+    font: topaz-a1200
+  us-cypr.asc:
+    font: topaz-a1200
+  bh-oni.txt:
+    font: topaz-a1200
+  scr-sc0ur.nfo:
+    font: topazplus-a500
+    artist: scour
+  sp-h0g.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sp-mdiz.asc:
+    font: topaz-a1200
+    artist: spinsane
+  07-spsn.asc:
+    font: topaz-a1200
+  crb_rms.txt:
+    font: topaz-a1200
+  ns-boy.ans:
+    artist: ansichrist
+  y-vpi.asc:
+    font: topaz-a1200
+    artist: yce
+  asx-nwo.txt:
+    font: topaz-a1200
+  asx-rmrs.txt:
+    font: topaz-a1200
+  bh-tmb.txt:
+    font: topaz-a1200
+  rm-lag.asc:
+    font: topaz-a1200
+  scr-unn.asc:
+    font: topazplus-a500
+    artist: scour
+  high-hal.asc:
+    font: topaz-a1200
+  ax_futu.txt:
+    font: topaz-a1200
+  bh-rmrs.txt:
+    font: topaz-a1200
+  pm-123.asc:
+    font: topaz-a1200
+    artist: polymorph
+  y-cau.asc:
+    font: topaz-a1200
+    artist: yce
+  asx-v0lk.txt:
+    font: topaz-a1200
+  dx-strak.asc:
+    font: topaz-a1200
+  pdz-rp.txt:
+    font: topaz-a1200
+    artist: podsi
+  07-anth.asc:
+    font: topaz-a1200
+  scr-scf.nfo:
+    font: topazplus-a500
+    artist: scour
+  asx-fam1.txt:
+    font: topaz-a1200
+  rm-dup.asc:
+    font: topaz-a1200
+  sp-trsi.txt:
+    font: topaz-a1200
+    artist: spinsane
+  nt-diz.asc:
+    artist: nightrain
+group: remorse.1981

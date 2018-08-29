@@ -1,0 +1,25 @@
+---
+files:
+  h7-aq003.asc:
+    artist: h7
+  rr-alr.asc:
+    artist: riddler
+  ntr-nc.ans:
+    artist: neurotrance
+  ntr-stat.ans:
+    artist: neurotrance
+  ntr-man.ans:
+    artist: neurotrance
+  rr-aqua2.asc:
+    artist: riddler
+  ntr-man.asc:
+    artist: neurotrance
+  rr-ah.asc:
+    artist: riddler
+  rr-echo.asc:
+    artist: riddler
+  lum-hgar.ans:
+    artist: luminator
+  in-fish.asc:
+    artist: insert
+group: aqua.ascii

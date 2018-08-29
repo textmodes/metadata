@@ -1,0 +1,28 @@
+---
+files:
+  bizzyfunk.log.txt:
+    artist: bizzyfunk
+  blender.sup.ans:
+    artists:
+    - warpus
+    - hennifer
+    - cthulu
+  blender.hof.ans:
+    artists:
+    - cthulu
+    - warpus
+    - hennifer
+  tada.jpg:
+    artist: spinsane
+  n-blnd61.ans:
+    artist: nail
+  hennifer_-_v2.txt:
+    artist: hennifer
+  blender.nfo.ans:
+    artists:
+    - warpus
+    - cthulu
+    - hennifer
+  mfsb2015.txt:
+    artist: mel.farr.suppastar
+group: the.blender

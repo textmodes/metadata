@@ -1,0 +1,59 @@
+---
+files:
+  noof-sh.asc:
+    artist: noof
+  eld-5711.asc:
+    font: topazplus-a1200
+    artist: elend
+  t01-dlan.asc:
+    font: topazplus-a1200
+    artist: tribe
+  imp-8yl.txt:
+    font: topazplus-a1200
+    artist: pogue
+  cyb-imp.asc:
+    font: topazplus-a1200
+    artist: cyberboy
+  eld-hw.asc:
+    font: topazplus-a1200
+    artist: elend
+  t01-otr.asc:
+    font: topazplus-a1200
+    artist: tribe
+  xz-sine.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  impure52.inf:
+    font: topazplus-a500
+  eld-ali.asc:
+    font: topazplus-a1200
+    artist: elend
+  us-nasu.asc:
+    font: topazplus-a500
+    artists:
+    - tribe
+    - pogue
+  file_id.diz:
+    font: topazplus-a500
+  noof-g.asc:
+    artist: noof
+  d0b-beno.asc:
+    font: topazplus-a1200
+    artist: griskokare
+  eld-sam.asc:
+    font: topazplus-a1200
+    artist: elend
+  eld-taun.asc:
+    font: topazplus-a1200
+    artist: elend
+  po-noof.asc:
+    font: topazplus-a1200
+    artists:
+    - noof
+    - pogue
+  us-steve.asc:
+    font: topazplus-a500
+    artists:
+    - tribe
+    - pogue
+group: impure!ascii.1940

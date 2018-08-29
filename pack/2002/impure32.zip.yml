@@ -1,0 +1,92 @@
+---
+files:
+  ps-mugga.asc:
+    font: topazplus-a500
+    artist: podsi
+  da@impc.asc:
+    font: topazplus-a1200
+    artist: devil.angel
+  ps-pogue.asc:
+    font: topazplus-a500
+    artist: podsi
+  ps-oprah.asc:
+    font: topazplus-a500
+    artist: podsi
+  ozz-ozz2.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  xz-loung.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  ozz-kaim.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  impure32.inf:
+    font: topazplus-a500
+  ps-elend.asc:
+    font: topazplus-a500
+    artist: podsi
+  sk!chips.asc:
+    font: topazplus-a1200
+    artist: simonking
+  file_id.diz:
+    font: topazplus-a500
+  sk!hugi.asc:
+    font: topazplus-a1200
+    artist: simonking
+  jp-pls1.asc:
+    font: topazplus-a1200
+    artist: jack.phlash
+  dc-imp2.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  sk!mercu.asc:
+    font: topazplus-a1200
+    artist: simonking
+  ozz-imp9.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ozz-self.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  sk!ch_di.asc:
+    font: topazplus-a1200
+    artist: simonking
+  po-acid.diz:
+    font: topazplus-a500
+    artist: pogue
+  ps-imp.asc:
+    font: topazplus-a500
+    artist: podsi
+  eld-chab.txt:
+    font: topazplus-a1200
+    artist: elend
+  dc-lng.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  us-whal.asc:
+    font: topazplus-a500
+    artists:
+    - ozzeth
+    - splonk
+  ozz-pico.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ps-plg.asc:
+    font: topazplus-a500
+    artist: podsi
+  xz-spy.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  ps-mnf.asc:
+    font: topazplus-a500
+    artist: podsi
+  xz-fto.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  ozz-shao.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  impure32.mem:
+    font: topazplus-a500
+group: impure!ascii.1940

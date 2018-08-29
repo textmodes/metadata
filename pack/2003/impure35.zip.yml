@@ -1,0 +1,62 @@
+---
+files:
+  eld-egz.txt:
+    font: topazplus-a1200
+    artist: elend
+  da-zsdei.asc:
+    font: topazplus-a1200
+    artist: devil.angel
+  po-sit.asc:
+    font: topazplus-a1200
+    artist: pogue
+  scr-retr.asc:
+    font: topazplus-a500
+    artist: scour
+  po-rmrs.asc:
+    font: topazplus-a1200
+    artist: pogue
+  ps-sns.asc:
+    font: topazplus-a500
+    artist: podsi
+  xz-fire.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-gg.asc:
+    font: topazplus-a500
+    artists:
+    - scour
+    - pogue
+  po-eld.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-bisho.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - griskokare
+  sk!lqs.asc:
+    font: topazplus-a1200
+    artist: simonking
+  file_id.diz:
+    font: topazplus-a500
+  impure35.inf:
+    font: topazplus-a500
+  sk!ixmas.asc:
+    font: topazplus-a1200
+    artist: simonking
+  po-hell.asc:
+    font: topazplus-a1200
+    artist: pogue
+  sk!htb.asc:
+    font: topazplus-a1200
+    artist: simonking
+  sk!unloc.asc:
+    font: topazplus-a1200
+    artist: simonking
+  scr-msgs.asc:
+    font: topazplus-a500
+    artist: scour
+  ps-rtr.asc:
+    font: topazplus-a500
+    artist: podsi
+group: impure!ascii.1940

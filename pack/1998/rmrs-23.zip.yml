@@ -1,0 +1,61 @@
+---
+files:
+  tum-r81.asc:
+    font: topaz-a1200
+  wr-imag.txt:
+    font: topaz-a1200
+  sp-oz.ans:
+    artist: spinsane
+  j1-singe.asc:
+    font: topaz-a1200
+  cm-flas2.asc:
+    font: topaz-a1200
+    artist: cmang
+  junior.txt:
+    font: topaz-a1200
+  wr-ugh.txt:
+    font: topaz-a1200
+  kal-rmrs.asc:
+    font: topaz-a1200
+    artist: kaleidas
+  cm-rmrs.asc:
+    font: topaz-a1200
+    artist: cmang
+  wr-idm.txt:
+    font: topaz-a1200
+  cm-cyb.asc:
+    font: topaz-a1200
+    artist: cmang
+  tum-dod.asc:
+    font: topaz-a1200
+  bj-asc99.ans:
+    artist: black.jack
+  mk-two.asc:
+    font: topaz-a1200
+  cm-7san.asc:
+    font: topaz-a1200
+    artist: cmang
+  hp-class.asc:
+    font: topaz-a1200
+  mk-mass.asc:
+    font: topaz-a1200
+  cm-brad.asc:
+    font: topaz-a1200
+    artist: cmang
+  us-haze.asc:
+    font: topaz-a1200
+  9l-rmrs1.asc:
+    font: topaz-a1200
+  mk-kt.asc:
+    font: topaz-a1200
+  r-dbd.txt:
+    font: topaz-a1200
+  nm-ode.asc:
+    font: topaz-a1200
+    artist: necromancer
+  nm-rmrs.gif:
+    artist: necromancer
+  cm-cyam.asc:
+    font: topaz-a1200
+    artist: cmang
+group: remorse.1981

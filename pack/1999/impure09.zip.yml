@@ -1,0 +1,94 @@
+---
+files:
+  po-inv2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-sack.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - dwarf
+  xz-imp2.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-imp.asc:
+    font: topazplus-a500
+    artist: dwarf
+  po-skunk.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-mello.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  iph-a6.asc:
+    font: topazplus-a1200
+    artist: inphamilair
+  po-thug.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure09.mem:
+    font: topazplus-a500
+  po-purge.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure09.inf:
+    font: topazplus-a500
+  iph-goi.asc:
+    font: topazplus-a1200
+    artist: inphamilair
+  dwf-peak.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-pv.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  file_id.diz:
+    font: topazplus-a500
+  iph-cd.asc:
+    font: topazplus-a1200
+    artist: inphamilair
+  xz-onel.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-inv.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  dwf-ttda.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  po-staff.asc:
+    font: topazplus-a1200
+    artist: pogue
+  dwf-tekk.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-ntrl.asc:
+    font: topazplus-a1200
+    artist: dwarf
+  po-galz.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-doors.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-srl.asc:
+    font: topazplus-a500
+    artist: dwarf
+  xz-gbye.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-begin.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-droid.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-ul.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  xz-phase.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+group: impure!ascii.1940

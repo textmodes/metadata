@@ -1,0 +1,115 @@
+---
+files:
+  dionysia.mod:
+    artist: marauder
+  se-seren.mod:
+    artist: sentience
+  visitrs.mod:
+    artist: jazz
+  radioex2.mod:
+    artist: luminance
+  codeine.mod:
+    artist: voi
+  journey.mod:
+    artist: luminance
+  futurechakra.mod:
+    artist: sentience
+  notlh's.mod:
+    artist: jazz
+  numbr14.mod:
+    artists:
+    - sentience
+    - marauder
+    - sentience
+  synesthe.mod:
+    artist: marauder
+  a-rave.mod:
+    artist: marauder
+  vinyl_1.mod:
+    artist: marauder
+  digital_.mod:
+    artist: jazz
+  whatislove.mod:
+    artist: marauder
+  mystic_v.mod:
+    artist: darren.grant
+  modulus3-tribal.mod:
+    artist: marauder
+  gemini-i.mod:
+    artist: jazz
+  clckdrms.mod:
+    artist: darren.grant
+  naked(a_.mod:
+    artist: jazz
+  ex-acid.mod:
+    artist: luminance
+  oracle.mod:
+    artist: marauder
+  file_id.diz:
+    artist: sentience
+  welcometothefuture.mod:
+    artist: luminance
+  walker.mod:
+    artist: darren.grant
+  modulectrix.mod:
+    artist: marauder
+  pandemix.mod:
+    artists:
+    - marauder
+    - marauder
+    - luminance
+  cofw.mod:
+    artist: jazz
+  finalex.mod:
+    artist: luminance
+  pandemic.mod:
+    artist: marauder
+  o.mod:
+    artist: fingers
+  tripthis.mod:
+    artist: luminance
+  incognit.mod:
+    artist: darren.grant
+  euphonix.nfo.txt:
+    artist: cthulu
+  modulus.mod:
+    artist: marauder
+  runaway.mod:
+    artist: marauder
+  hoipolloi.mod:
+    artist: marauder
+  tnitc.mod:
+    artist: luminance
+  elvisded.mod:
+    artist: lofwyr
+  rv95epnx.mod:
+    artist: marauder
+  1by1.mod:
+    artist: luminance
+  inherit.mod:
+    artist: jazz
+  modulus2.mod:
+    artist: marauder
+  brainblu.mod:
+    artist: lofwyr
+  entropy.mod:
+    artist: sentience
+  akirave2.mod:
+    artist: marauder
+  glassi.mod:
+    artist: voi
+  notlh_mx.mod:
+    artist: sidewinder
+  altitude.mod:
+    artist: luminance
+  domin8r.mod:
+    artist: luminance
+  5th_dim.mod:
+    artist: lofwyr
+  decay.mod:
+    artist: luminance
+  narcosis.mod:
+    artist: marauder
+groups:
+- mistigris
+- euphonix

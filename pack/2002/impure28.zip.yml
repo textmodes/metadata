@@ -1,0 +1,89 @@
+---
+files:
+  ozz-sunf.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  po-scr.asc:
+    font: topazplus-a1200
+    artist: pogue
+  scr-rms7.asc:
+    font: topazplus-a500
+    artist: scour
+  xz-index.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  impure28.mem:
+    font: topazplus-a500
+  ozz-veek.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  impure28.inf:
+    font: topazplus-a500
+  ozz-spk.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ozz-arl1.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  file_id.diz:
+    font: topazplus-a500
+  ozz-arl2.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-ozz.asc:
+    font: topazplus-a1200
+    artist: elend
+  sk!mm.asc:
+    font: topazplus-a1200
+    artist: simonking
+  scr-rms3.asc:
+    font: topazplus-a500
+    artist: scour
+  ozz-lbdt.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  pix-ab1.asc:
+    font: topazplus-a1200
+    artist: splonk
+  sk!moonl.asc:
+    font: topazplus-a1200
+    artist: simonking
+  ozz-ilic.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  pix-spnk.asc:
+    font: topazplus-a1200
+    artist: splonk
+  po-dore.asc:
+    font: topazplus-a1200
+    artist: pogue
+  eld!-ao.asc:
+    font: topazplus-a1200
+    artist: elend
+  ozz-xcao.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-dl.asc:
+    font: topazplus-a1200
+    artist: elend
+  ozz!imp.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  sk!hcc.asc:
+    font: topazplus-a1200
+    artist: simonking
+  ozz-andr.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ozz-brb.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  pix-dmda.asc:
+    font: topazplus-a1200
+    artist: splonk
+  us-ami.asc:
+    font: topazplus-a500
+    artists:
+    - splonk
+    - ozzeth
+group: impure!ascii.1940

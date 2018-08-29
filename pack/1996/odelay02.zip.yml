@@ -1,0 +1,61 @@
+---
+files:
+  ao-mngo1.asc:
+    artist: amoeba
+  l5-crust.asc:
+    artist: loser
+  rgm-icet.asc:
+    artist: raver.going.mad
+  kl-tntwn.asc:
+    artist: kleenex
+  sh-od1.asc:
+    artist: storm.hacker
+  l5-oasis.asc:
+    artist: loser
+  l5-toons.asc:
+    artist: loser
+  kl-dose.asc:
+    artist: kleenex
+  ao-pstl1.asc:
+    artist: amoeba
+  bh-odose.asc:
+    artist: bad.habit
+  l5-wumag.asc:
+    artist: loser
+  l5-jazz1.asc:
+    artist: loser
+  sh-rcn.asc:
+    artist: storm.hacker
+  us-bdrck.asc:
+    artists:
+    - loser
+    - redrum
+  kl-dyna.asc:
+    artist: kleenex
+  l5-asaga.asc:
+    artist: loser
+  l5-bout1.asc:
+    artist: loser
+  l5-ztnce.asc:
+    artist: loser
+  kl-blw1.asc:
+    artist: kleenex
+  l5-kannk.asc:
+    artist: loser
+  l5-csync.asc:
+    artist: loser
+  k1-ode1.asc:
+    artist: kanabalistik
+  kl-mngo.asc:
+    artist: kleenex
+  sh-fung.asc:
+    artist: storm.hacker
+  k1-pln.asc:
+    artist: kanabalistik
+  sh-odlay.asc:
+    artist: storm.hacker
+  ao-rdium.asc:
+    artist: amoeba
+  sh-tmn.asc:
+    artist: storm.hacker
+group: odelay

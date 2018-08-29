@@ -1,0 +1,304 @@
+---
+files:
+  bj-asc71.ans:
+    artist: black.jack
+  bjasc146.ans:
+    artist: black.jack
+  bj-asc51.ans:
+    artist: black.jack
+  bj-asc40.ans:
+    artist: black.jack
+  bj-asc74.ans:
+    artist: black.jack
+  bjasc109.ans:
+    artist: black.jack
+  bjasc134.ans:
+    artist: black.jack
+  bj-asc19.ans:
+    artist: black.jack
+  bj-asc37.ans:
+    artist: black.jack
+  bj-asc81.ans:
+    artist: black.jack
+  bj-asc77.ans:
+    artist: black.jack
+  bj-asc79.ans:
+    artist: black.jack
+  bjasc106.ans:
+    artist: black.jack
+  bjasc150.ans:
+    artist: black.jack
+  bjasc121.ans:
+    artist: black.jack
+  bj-asc75.ans:
+    artist: black.jack
+  bj-asc95.ans:
+    artist: black.jack
+  bj-asc16.ans:
+    artist: black.jack
+  bj-asc88.ans:
+    artist: black.jack
+  bj-asc41.ans:
+    artist: black.jack
+  bj-asc7.ans:
+    artist: black.jack
+  bj-asc42.ans:
+    artist: black.jack
+  bj-asc32.ans:
+    artist: black.jack
+  bj-asc30.ans:
+    artist: black.jack
+  bj-asc23.ans:
+    artist: black.jack
+  bjasc131.ans:
+    artist: black.jack
+  bj-asc38.ans:
+    artist: black.jack
+  bjasc120.ans:
+    artist: black.jack
+  bjasc129.ans:
+    artist: black.jack
+  bjasc135.ans:
+    artist: black.jack
+  bjasc139.ans:
+    artist: black.jack
+  bj-asc43.ans:
+    artist: black.jack
+  bjasc149.ans:
+    artist: black.jack
+  bj-asc90.ans:
+    artist: black.jack
+  bj-asc48.ans:
+    artist: black.jack
+  bj-asc85.ans:
+    artist: black.jack
+  bj-asc93.ans:
+    artist: black.jack
+  bj-asc86.ans:
+    artist: black.jack
+  bj-asc97.ans:
+    artist: black.jack
+  bj-asc63.ans:
+    artist: black.jack
+  bj-asc17.ans:
+    artist: black.jack
+  bj-asc66.ans:
+    artist: black.jack
+  bjasc125.ans:
+    artist: black.jack
+  bj-asc4.ans:
+    artist: black.jack
+  bj-asc33.ans:
+    artist: black.jack
+  bj-asc98.ans:
+    artist: black.jack
+  bj-asc26.ans:
+    artist: black.jack
+  bjasc114.ans:
+    artist: black.jack
+  bj-asc22.ans:
+    artist: black.jack
+  bj-asc11.ans:
+    artist: black.jack
+  bjasc128.ans:
+    artist: black.jack
+  bj-asc5.ans:
+    artist: black.jack
+  bj-asc83.ans:
+    artist: black.jack
+  bj-asc54.ans:
+    artist: black.jack
+  bj-asc56.ans:
+    artist: black.jack
+  bj-asc9.ans:
+    artist: black.jack
+  bjasc104.ans:
+    artist: black.jack
+  bj-asc67.ans:
+    artist: black.jack
+  bj-asc0.ans:
+    artist: black.jack
+  bj-asc64.ans:
+    artist: black.jack
+  bj-asc58.ans:
+    artist: black.jack
+  bj-asc53.ans:
+    artist: black.jack
+  bj-asc68.ans:
+    artist: black.jack
+  bjasc118.ans:
+    artist: black.jack
+  bjasc124.ans:
+    artist: black.jack
+  bjasc112.ans:
+    artist: black.jack
+  bj-asc13.ans:
+    artist: black.jack
+  bjasc115.ans:
+    artist: black.jack
+  bj-asc65.ans:
+    artist: black.jack
+  bj-asc2.ans:
+    artist: black.jack
+  bj-asc78.ans:
+    artist: black.jack
+  bj-asc36.ans:
+    artist: black.jack
+  bjasc110.ans:
+    artist: black.jack
+  bj-asc47.ans:
+    artist: black.jack
+  bjasc145.ans:
+    artist: black.jack
+  bj-asc52.ans:
+    artist: black.jack
+  bj-asc46.ans:
+    artist: black.jack
+  bj-asc57.ans:
+    artist: black.jack
+  bjasc140.ans:
+    artist: black.jack
+  bj-asc94.ans:
+    artist: black.jack
+  bj-asc34.ans:
+    artist: black.jack
+  bjasc119.ans:
+    artist: black.jack
+  bjasc108.ans:
+    artist: black.jack
+  bjasc101.ans:
+    artist: black.jack
+  bjasc137.ans:
+    artist: black.jack
+  bj-asc72.ans:
+    artist: black.jack
+  bjasc100.ans:
+    artist: black.jack
+  bj-asc50.ans:
+    artist: black.jack
+  bj-asc69.ans:
+    artist: black.jack
+  bj-asc21.ans:
+    artist: black.jack
+  bj-asc96.ans:
+    artist: black.jack
+  bjasc103.ans:
+    artist: black.jack
+  bj-asc89.ans:
+    artist: black.jack
+  bjasc116.ans:
+    artist: black.jack
+  bj-asc99.ans:
+    artist: black.jack
+  bjasc141.ans:
+    artist: black.jack
+  bj-asc44.ans:
+    artist: black.jack
+  bjasc142.ans:
+    artist: black.jack
+  bjasc132.ans:
+    artist: black.jack
+  bjasc130.ans:
+    artist: black.jack
+  bj-asc87.ans:
+    artist: black.jack
+  bjasc123.ans:
+    artist: black.jack
+  bj-asc31.ans:
+    artist: black.jack
+  bjasc138.ans:
+    artist: black.jack
+  bj-asc20.ans:
+    artist: black.jack
+  bj-asc29.ans:
+    artist: black.jack
+  bj-asc35.ans:
+    artist: black.jack
+  bjasc127.ans:
+    artist: black.jack
+  bj-asc39.ans:
+    artist: black.jack
+  bj-asc73.ans:
+    artist: black.jack
+  bjasc143.ans:
+    artist: black.jack
+  bj-asc8.ans:
+    artist: black.jack
+  bj-asc49.ans:
+    artist: black.jack
+  bj-asc92.ans:
+    artist: black.jack
+  bjasc148.ans:
+    artist: black.jack
+  bj-asc76.ans:
+    artist: black.jack
+  bjasc105.ans:
+    artist: black.jack
+  bj-asc61.ans:
+    artist: black.jack
+  bjasc117.ans:
+    artist: black.jack
+  bj-asc60.ans:
+    artist: black.jack
+  bj-asc25.ans:
+    artist: black.jack
+  bj-asc27.ans:
+    artist: black.jack
+  bjasc133.ans:
+    artist: black.jack
+  bjasc126.ans:
+    artist: black.jack
+  bj-asc14.ans:
+    artist: black.jack
+  bjasc122.ans:
+    artist: black.jack
+  bjasc111.ans:
+    artist: black.jack
+  bj-asc28.ans:
+    artist: black.jack
+  bjasc144.ans:
+    artist: black.jack
+  bj-asc6.ans:
+    artist: black.jack
+  bj-asc91.ans:
+    artist: black.jack
+  bj-asc80.ans:
+    artist: black.jack
+  bj-asc84.ans:
+    artist: black.jack
+  bj-asc70.ans:
+    artist: black.jack
+  bj-asc55.ans:
+    artist: black.jack
+  bj-asc62.ans:
+    artist: black.jack
+  bj-asc18.ans:
+    artist: black.jack
+  bj-asc59.ans:
+    artist: black.jack
+  bj-asc24.ans:
+    artist: black.jack
+  bj-asc12.ans:
+    artist: black.jack
+  bj-asc1.ans:
+    artist: black.jack
+  bjasc107.ans:
+    artist: black.jack
+  bj-asc3.ans:
+    artist: black.jack
+  bjasc102.ans:
+    artist: black.jack
+  bjasc113.ans:
+    artist: black.jack
+  bj-asc15.ans:
+    artist: black.jack
+  bjasc136.ans:
+    artist: black.jack
+  bj-asc82.ans:
+    artist: black.jack
+  bj-asc10.ans:
+    artist: black.jack
+  bjasc147.ans:
+    artist: black.jack
+  bj-asc45.ans:
+    artist: black.jack

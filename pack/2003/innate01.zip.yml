@@ -1,0 +1,105 @@
+---
+files:
+  twr!krs.asc:
+    font: topazplus_a500
+    artist: twister
+  tg!-poi.asc:
+    font: topazplus_a500
+  uif-dzio.asc:
+    font: topazplus_a500
+    artist: uifique
+  tg!-sec.asc:
+    font: topazplus_a500
+  pos!asl.asc:
+    font: topazplus_a500
+    artist: poise
+  an-venom.asc:
+    font: topazplus_a500
+  an-mattc.asc:
+    font: topazplus_a500
+  twr!symp.asc:
+    font: topazplus_a500
+    artist: twister
+  an-uniq2.asc:
+    font: topazplus_a500
+  twr!nahk.asc:
+    font: topazplus_a500
+    artist: twister
+  krs_bdiz.asc:
+    font: topazplus_a500
+  an-dualc.asc:
+    font: topazplus_a500
+  krs_nah.asc:
+    font: topazplus_a500
+  twr!twr.asc:
+    font: topazplus_a500
+    artist: twister
+  uif-sr.asc:
+    font: topazplus_a1200
+    artist: uifique
+  an-innat.asc:
+    font: topazplus_a500
+  pos!open.asc:
+    font: topazplus_a500
+    artist: poise
+  twr!diz.asc:
+    font: topazplus_a500
+    artist: twister
+  tg!-inn.asc:
+    font: topazplus_a500
+  file_id.diz:
+    font: topazplus_a500
+  $zw!ssb.asc:
+    artist: zwagier
+  pos!dks.asc:
+    font: topazplus_a500
+    artist: poise
+  thuglife.org:
+    font: topazplus_a500
+    artist: pogue
+  an-glut.asc:
+    font: topazplus_a500
+  pos!zero.asc:
+    font: topazplus_a500
+    artist: poise
+  twr!inn.asc:
+    font: topazplus_a500
+    artist: twister
+  pos!didk.asc:
+    font: topazplus_a500
+    artist: poise
+  twr!cafe.asc:
+    font: topazplus_a500
+    artist: twister
+  uif-szmt.asc:
+    font: topaz_a1200
+    artist: uifique
+  $zw!dorg.asc:
+    artist: zwagier
+  $zw!mobb.asc:
+    artist: zwagier
+  uif-dyst.asc:
+    font: topazplus_a500
+    artist: uifique
+  tg!-with.asc:
+    font: topazplus_a500
+  pos!irrt.asc:
+    font: topazplus_a500
+    artist: poise
+  us-inn.asc:
+    font: topazplus_a1200
+  krs_nahk.asc:
+    font: topazplus_a500
+  $zw!sws.asc:
+    artist: zwagier
+  an-pheav.asc:
+    font: topazplus_a500
+  krs_diz.asc:
+    font: topazplus_a500
+  twr!with.asc:
+    font: topazplus_a500
+    artist: twister
+  pos!toxc.asc:
+    font: topazplus_a500
+    artist: poise
+group: innate

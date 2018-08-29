@@ -1,0 +1,69 @@
+---
+files:
+  h7-bj.asc:
+    artist: h7
+  jn-q7.ans:
+    artist: jashiin
+  us-sac06.ans:
+    artist: c-jeff
+  no-sense.asc:
+    artist: noches
+  h7-mfx.asc:
+    artist: h7
+  h7-mfx2.asc:
+    font: topazplus-a500
+    artist: h7
+  mkk-moly.ans:
+    artist: steve
+  us-shit.ans:
+    artists:
+    - access.denied
+    - c-jeff
+  rm-hots.asc:
+    font: topazplus-a500
+    artist: ricky.martin
+  tf-mimic.asc:
+    font: topazplus-a500
+    artist: the.creep.fever
+  jn-milk.ans:
+    font: topazplus-a500
+    artist: jashiin
+  file_id.diz:
+    artists:
+    - c-jeff
+    - h7
+  nrv-spln.asc:
+    font: topazplus-a500
+    artist: nerv
+  no-burn1.asc:
+    artist: noches
+  c-jeff.asc:
+    artist: barium
+  h7-reqs5.asc:
+    font: topazplus-a500
+    artist: h7
+  bne_tpg.txt:
+    font: topazplus-a500
+    artist: brane
+  us-dikom.ans:
+    artists:
+    - mekanik
+    - maybach
+    - c-jeff
+  members.ans:
+    artist: h7
+  jn-mmc.txt:
+    artist: jashiin
+  h7-nasu.asc:
+    artist: h7
+  h7-sen30.asc:
+    artist: h7
+  jn-milk.gif:
+    artist: jashiin
+  mkk-lest.ans:
+    artist: steve
+  jn-line2.ans:
+    artist: jashiin
+  jn-mmc.bin:
+    artist: jashiin
+group: mimic

@@ -1,0 +1,123 @@
+---
+files:
+  zp-promo.ans:
+    artist: zippy
+  tz-pool1.ans:
+    artist: tzeentch
+  d-pan.ans:
+    artist: deathrai
+  eye-cake.ans:
+    artist: eyeball
+  bm-jvd.asc:
+    artist: blazemore
+  reg-jive.asc:
+    artist: regulator
+  bm-zer~1.jpg:
+    artist: blazemore
+  zp-hate.ans:
+    artist: zippy
+  r!a5bwd.ans:
+    artist: the.riddler
+  eye-nth.ans:
+    artist: eyeball
+  nt-sodf.ans:
+    artist: nightrain
+  reg-eq.asc:
+    artist: regulator
+  eye-nr~1.ans:
+    artist: eyeball
+  nt-tmenu.ans:
+    artist: nightrain
+  d-n0.ans:
+    artist: deathrai
+  cm-jiv.asc:
+    artist: computerman
+  zp-acon0.ans:
+    artist: zippy
+  zp-rcn.ans:
+    artist: zippy
+  ht-ofice.jpg:
+    artist: heat
+  mp-zero.ans:
+    artist: mephitopeles
+  zp-chat.ans:
+    artist: zippy
+  bm-us.ans:
+    artist: blazemore
+  r!death.ans:
+    artist: the.riddler
+  nt-jivel.ans:
+    artist: nightrain
+  cg-nrx.ans:
+    artist: coolguy
+  vg-oz21.jpg:
+    artist: visigoth
+  bm-jdz2.asc:
+    artist: blazemore
+  r!colly.ans:
+    artist: the.riddler
+  bm-varia.ans:
+    artist: blazemore
+  nt-aci.ans:
+    artist: nightrain
+  eye-thor.ans:
+    artist: eyeball
+  eye-ji~1.ans:
+    artist: eyeball
+  eye-pro.ans:
+    artist: eyeball
+  d-an-con.ans:
+    artist: deathrai
+  d-sodsk.ans:
+    artist: deathrai
+  gi-super.ans:
+    artist: giger
+  tz-shads.ans:
+    artist: tzeentch
+  r!r6wds.ans:
+    artist: the.riddler
+  r!btrw.ans:
+    artist: the.riddler
+  nt-cirun.ans:
+    artist: nightrain
+  zp-cher.jpg:
+    artist: zippy
+  reg-ungl.asc:
+    artist: regulator
+  bm-mp.asc:
+    artist: blazemore
+  gi-set.ans:
+    artist: giger
+  us-senil.ans:
+    artists:
+    - the.riddler
+    - wolverine
+  jd-acid.ans:
+    artist: jandor
+  mp-zero3.ans:
+    artist: mephitopeles
+  vg-ody~1.jpg:
+    artist: visigoth
+  nt-solac.ans:
+    artist: nightrain
+  bm-lead.ans:
+    artist: blazemore
+  nt-zero.ans:
+    artist: nightrain
+  r!killa.ans:
+    artist: the.riddler
+  zp-sod0a.ans:
+    artist: zippy
+  zp-web.jpg:
+    artist: zippy
+  zp-foo.jpg:
+    artist: zippy
+  mp-sodh.ans:
+    artist: mephitopeles
+  reg-diz.asc:
+    artist: regulator
+  mp-zero2.ans:
+    artist: mephitopeles
+  ht-book.jpg:
+    artist: heat
+group: jive

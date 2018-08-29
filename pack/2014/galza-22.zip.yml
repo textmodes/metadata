@@ -1,0 +1,52 @@
+---
+files:
+  om-onoda.png:
+    artist: otium
+  om-skrolli.ans:
+    artist: otium
+  om-hestpony.ans:
+    artist: otium
+  om-hestpony.png:
+    artist: otium
+  om-onoda.ans:
+    artist: otium
+  us-bureaucracy.ans:
+    artists:
+    - otium
+    - cthulu
+  om-skrolli.png:
+    artist: otium
+  us-orwell.ans:
+    artists:
+    - otium
+    - cthulu
+  om-rietveld.ans:
+    artist: otium
+  us-masks.ans:
+    artists:
+    - otium
+    - cthulu
+  us-egypt.ans:
+    artists:
+    - otium
+    - cthulu
+  us-path.ans:
+    artists:
+    - otium
+    - cthulu
+  om-redhut.ans:
+    artist: otium
+  om-redhut.png:
+    artist: otium
+  om-rietveld.png:
+    artist: otium
+  us-path-ru.ans:
+    artists:
+    - otium
+    - cthulu
+    - shere
+  us-collateral.ans:
+    artists:
+    - otium
+    - cthulu
+group: galza.ascii.art

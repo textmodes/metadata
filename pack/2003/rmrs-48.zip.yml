@@ -1,0 +1,93 @@
+---
+files:
+  ack-no1.asc:
+    font: topaz-a1200
+  asx-acd3.asc:
+    font: topaz-a1200
+  tl-grav.asc:
+    font: topaz-a1200
+  tl-mmc.asc:
+    font: topaz-a1200
+  tsh-vind.asc:
+    font: topaz-a1200
+  tl-brmnu.asc:
+    font: topaz-a1200
+  wh0-psy.asc:
+    font: topaz-a1200
+  cdr-ph.asc:
+    font: topaz-a1200
+  ax_kapt.asc:
+    font: topaz-a1200
+  ax_lekst.asc:
+    font: topaz-a1200
+  ax_rmrz.asc:
+    font: topaz-a1200
+  inf-sd2.asc:
+    font: topaz-a1200
+  dip-fake.asc:
+    font: topaz-a1200
+  vlr-kane.asc:
+    font: topaz-a1200
+  ax_colly.txt:
+    font: topaz-a1200
+  po-rmrs.asc:
+    font: topaz-a1200
+  tl-ek.asc:
+    font: topaz-a1200
+  tl-los.asc:
+    font: topaz-a1200
+  ax_a4l.asc:
+    font: topaz-a1200
+  wh0-rtm.asc:
+    font: topaz-a1200
+  da-in203.txt:
+    font: topaz-a1200
+  tl-dry.asc:
+    font: topaz-a1200
+  sk-acid1.asc:
+    font: topaz-a1200
+  axb-acd9.asc:
+    font: topaz-a1200
+  tl-acid1.asc:
+    font: topaz-a1200
+  tl-acid2.asc:
+    font: topaz-a1200
+  cdr-acid.asc:
+    font: topaz-a1200
+  dip-badl.asc:
+    font: topaz-a1200
+  st-fit.asc:
+    font: topaz-a1200
+  asx-acd1.asc:
+    font: topaz-a1200
+  tsh-atpk.asc:
+    font: topaz-a1200
+  tl-ti.asc:
+    font: topaz-a1200
+  asx-acd2.asc:
+    font: topaz-a1200
+  h7-etech.asc:
+    font: topaz-a1200
+    artist: h7
+  sp-im00.asc:
+    font: topaz-a1200
+    artist: spinsane
+  ax_rcb.asc:
+    font: topaz-a1200
+  po-acid.asc:
+    font: topaz-a1200
+  st-sat.asc:
+    font: topaz-a1200
+  cdr-rms.asc:
+    font: topaz-a1200
+  xyz-acidappgen-artist-ascii_artist.app.txt:
+    font: topaz-a1200
+  st-mkd.asc:
+    font: topaz-a1200
+  dip-zsaa.asc:
+    font: topaz-a1200
+  sk-acid2.asc:
+    font: topaz-a1200
+  cd-acidz.asc:
+    font: topaz-a1200
+group: remorse.1981

@@ -1,0 +1,60 @@
+---
+files:
+  impure17.mem:
+    font: topazplus-a500
+  po-the.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-requi.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-ami.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  bfr-odsc.txt:
+    font: topazplus-a1200
+    artist: befeater
+  po-cloud.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-diy.asc:
+    font: topazplus-a1200
+    artist: pogue
+  m0d-nght.asc:
+    font: topazplus-a1200
+    artist: griskokare
+  impure17.inf:
+    font: topazplus-a500
+  xz-imp.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-em.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-lake4.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  bfr-nn.asc:
+    font: topazplus-a1200
+    artist: befeater
+  m0d-jap.asc:
+    font: topazplus-a1200
+    artist: griskokare
+  file_id.diz:
+    font: topazplus-a500
+  xz-oxy.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-wfc.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-imper.asc:
+    font: topazplus-a1200
+    artist: pogue
+  m0d-andr.asc:
+    font: topazplus-a1200
+    artist: griskokare
+  po-sub.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

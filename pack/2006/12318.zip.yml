@@ -1,0 +1,49 @@
+---
+files:
+  _a-dxs04.asc:
+    artist: absent.spinsister
+  pdz-hac.asc:
+    artist: podsi
+  pm-123.asc:
+    artist: polymorph
+  ak-eof.ans:
+    artist: absent.spinsister
+  ak-sars.ans:
+    artist: absent.spinsister
+  xz-com.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  _a-dxs03.asc:
+    artist: absent.spinsister
+  3spinsis.ans:
+    artist: absent.spinsister
+  _a-dxs02.asc:
+    artist: absent.spinsister
+  us-dmp.ans:
+    artists:
+    - absent.spinsister
+    - tripulogic
+  pdzw0-p.ans:
+    artists:
+    - podsi
+    - webpige0
+  us-fuck.ans:
+    artists:
+    - tripulogic
+    - absent.spinsister
+  _a-dxs01.asc:
+    artist: absent.spinsister
+  pdz-gid.asc:
+    artist: podsi
+  jn-12321.asc:
+    artist: jashiin
+  pos_123.asc:
+    artist: poise
+  pdzw0-s.ans:
+    artists:
+    - webpige0
+    - podsi
+    - webpige0
+  _a-tag.ans:
+    artist: absent.spinsister
+group: '123'

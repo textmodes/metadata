@@ -1,0 +1,46 @@
+---
+files:
+  xz-impure.ans:
+    artist: hellbeard
+  ldn-itrn.ans:
+    artist: lord.nikon
+  grk-lstc.ans:
+    artist: griskokare
+  grk-whos.ans:
+    artist: griskokare
+  grk-1lin.ans:
+    artist: griskokare
+  xz-raindeer.ans:
+    artist: hellbeard
+  xz-vikingstudies.ans:
+    artist: hellbeard
+  xz-jarabetapatio.ans:
+    artist: hellbeard
+  impure61.ans:
+    artist: lord.nikon
+  grk-pdrk.ans:
+    artist: griskokare
+  ldn-caml.ans:
+    artist: lord.nikon
+  grk-accs.ans:
+    artist: griskokare
+  vnm-cata.ans:
+    artist: venam
+  file_id.diz:
+    font: topazplus_a500
+    artist: griskokare
+  us-drum.asc:
+    artists:
+    - hellbeard
+    - griskokare
+  vnm-new.ans:
+    artist: venam
+  xz-viking.ans:
+    artist: hellbeard
+  vnm-chro.ans:
+    artist: venam
+  vnm-lan.ans:
+    artist: venam
+  xz-bella.ans:
+    artist: hellbeard
+group: impure!ascii.1940

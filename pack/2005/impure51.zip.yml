@@ -1,0 +1,67 @@
+---
+files:
+  d0b-blch.asc:
+    font: topazplus-a1200
+    artist: griskokare
+  nf-how.asc:
+    artist: noof
+  po-east.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-imp.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  xz-com.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-hellb.asc:
+    font: topazplus-a1200
+    artist: pogue
+  nf-belpu.asc:
+    artist: noof
+  po-funkp.asc:
+    font: topazplus-a1200
+    artist: pogue
+  t01-supa.asc:
+    font: topazplus-a1200
+    artist: tribe
+  nf-imp2.asc:
+    artist: noof
+  d0b-ophd.asc:
+    font: topazplus-a1200
+    artist: griskokare
+  impure51.inf:
+    font: topazplus-a500
+  file_id.diz:
+    font: topazplus-a500
+  po-imp.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-haci.asc:
+    font: topazplus-a1200
+    artist: pogue
+  nf-voll.asc:
+    artist: noof
+  t01-bd.asc:
+    font: topazplus-a1200
+    artist: tribe
+  xz-imp.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-noof.asc:
+    font: topazplus-a1200
+    artist: pogue
+  t01-endo.asc:
+    font: topazplus-a1200
+    artist: tribe
+  po-qwk.asc:
+    font: topazplus-a1200
+    artist: pogue
+  nf-ops2.asc:
+    artist: noof
+  po-help.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

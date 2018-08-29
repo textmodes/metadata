@@ -1,0 +1,53 @@
+---
+files:
+  om-ian.asc:
+    artist: otium
+  om-jan.asc:
+    artist: otium
+  crs-gal2.asc:
+    artist: crasher
+  crs-gza3.ans:
+    artist: crasher
+  crs-art.asc:
+    artist: crasher
+  crs-jtx.asc:
+    artist: crasher
+  crs-gal3.asc:
+    artist: crasher
+  om-east.ans:
+    artist: otium
+  om-wold.ans:
+    artist: otium
+  crs^gal2.asc:
+    artist: crasher
+  i_l^sph.asc:
+    artist: iron_lung
+  om-fg.asc:
+    artist: otium
+  drn!res.asc:
+    artist: daeron
+  drn!top.asc:
+    artist: daeron
+  drn!sco.asc:
+    artist: daeron
+  crs-tk.asc:
+    artist: crasher
+  crs-gza2.ans:
+    artist: crasher
+  drn!edi.asc:
+    artist: daeron
+  crs-gza1.ans:
+    artist: crasher
+  i_l^nf.asc:
+    artist: iron_lung
+  drn!rel.asc:
+    artist: daeron
+  crs^dm.asc:
+    artist: crasher
+  om-lice.ans:
+    artist: otium
+  om-wrong.ans:
+    artist: otium
+  om-j.asc:
+    artist: otium
+group: galza.ascii.art

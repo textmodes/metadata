@@ -1,0 +1,41 @@
+---
+group: impure!ascii.1940
+
+files:
+  file_id.diz:
+    font: topazplus-a1200
+  us-shout.ans:
+    artists:
+    - griskokare
+    - spinsane
+  us-train.ans:
+    artists:
+    - burps
+    - filth
+    - griskokare
+    - hellbeard
+    - lord nikon
+    - maze
+    - mypal goo
+    - spinsane
+    - xer0
+
+# Default group member matches
+match:
+  +l*:    2o
+  ab-*:   acid brain
+  anst-*: anachronist
+  arl-*:  arlequin
+  grk-*:  griskokare
+  grx-*:  grmmxi
+  hx-*:   haliphax
+  iks-*:  irokos
+  jp!*:   jack phlash
+  ldn-*:  lord nikon
+  mz-*:   maze
+  po-*:   p0gue
+  pix-*:  pix
+  pmt-*:  prismate
+  vnm-*:  venam
+  x0-*:   xer0
+  xz-*:   hellbeard

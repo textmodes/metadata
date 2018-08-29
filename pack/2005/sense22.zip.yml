@@ -1,0 +1,65 @@
+---
+files:
+  43-outer.ans:
+    artist: aesthetic
+  may-men4.ans:
+    artist: maytag
+  ns-a2.bin:
+    artist: ansichrist
+  43-psy1.ans:
+    artist: aesthetic
+  us-cold2.ans:
+    artists:
+    - avenging.angel
+    - fusion
+  43-elgn1.ans:
+    artist: aesthetic
+  us-cold.ans:
+    artists:
+    - avenging.angel
+    - luciano
+  m0-vortx.ans:
+    artist: m0lo
+  43-skof1.ans:
+    artist: aesthetic
+  bm-nat2.ans:
+    artists:
+    - avenging.angel
+    - aesthetic
+  cl!-ellu.ans:
+    artist: cleaner
+  avg-carn.ans:
+    artist: avenging.angel
+  nc-logos.ans:
+    artists:
+    - nachos
+    - avenging.angel
+  zv-lud500.ans:
+    artist: zerovision
+  avg-nams.ans:
+    artist: avenging.angel
+  cl!-dos.ans:
+    artist: cleaner
+  43-cotm.ans:
+    artist: aesthetic
+  zv-luded.ans:
+    artist: zerovision
+  43-bbsd.ans:
+    artist: aesthetic
+  members.ans:
+    artist: taintedx
+  news.ans:
+    artists:
+    - ansichrist
+    - aesthetic
+  bm-saddm.ans:
+    artists:
+    - avenging.angel
+    - aesthetic
+  avg-rmx.ans:
+    artist: avenging.angel
+  avg-frc.ans:
+    artist: avenging.angel
+  avg-bmai.ans:
+    artist: avenging.angel
+group: sense

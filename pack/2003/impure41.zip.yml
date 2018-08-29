@@ -1,0 +1,42 @@
+---
+files:
+  impure41.inf:
+    font: topazplus-a500
+  da-impa.asc:
+    font: topazplus-a1200
+    artist: devil.angel
+  xz-blood.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-scott.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-spins.asc:
+    font: topazplus-a1200
+    artist: pogue
+  imp-xxx.txt:
+    font: topazplus-a1200
+  xz-speed.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  pdz-rp.asc:
+    font: topazplus-a1200
+    artist: podsi
+  da-asc.asc:
+    font: topazplus-a1200
+    artist: devil.angel
+  pdz-inf.asc:
+    font: topazplus-a1200
+    artist: podsi
+  file_id.diz:
+    font: topazplus-a500
+  cdn-bi.asc:
+    font: topazplus-a1200
+    artist: curdon
+  po-sd.asc:
+    font: topazplus-a1200
+    artist: pogue
+  scr-ign.asc:
+    font: topazplus-a500
+    artist: scour
+group: impure!ascii.1940

@@ -1,0 +1,41 @@
+---
+files:
+  zs-true.ans:
+    artist: zerostar
+  zs-vid2.ans:
+    artist: zerostar
+  zs-vsn.ans:
+    artist: zerostar
+  zs-%.ans:
+    artist: zerostar
+  zs-elem.ans:
+    artist: zerostar
+  zs-light.ans:
+    artist: zerostar
+  zs-milan.ans:
+    artist: zerostar
+  zs-armx.ans:
+    artist: zerostar
+  zs-drmii.ans:
+    artist: zerostar
+  zs-fire.ans:
+    artist: zerostar
+  zs-die.ans:
+    artist: zerostar
+  zs-sysii3.ans:
+    artist: zerostar
+  43-spast.asc:
+    artist: aesthetic
+  43-rmrs.asc:
+    artist: aesthetic
+  zs-acid4.ans:
+    artist: zerostar
+  zs-kine.ans:
+    artist: zerostar
+  zs-rmrs.ans:
+    artist: zerostar
+  43-sys2.asc:
+    artist: aesthetic
+  43-nord.asc:
+    artist: aesthetic
+group: systemii

@@ -1,0 +1,621 @@
+---
+files:
+  33-haz.ans:
+    artist: eerie
+  33-treg.jpg:
+    artist: eerie
+  33-lost.ans:
+    artist: eerie
+  33-fail2.ans:
+    artist: eerie
+  33-ms2.rel:
+    artist: eerie
+  33yo-bs2.rel:
+    artist: eerie
+  yo33-suk.rel:
+    artist: eerie
+  33-cf2.ans:
+    artist: eerie
+  33-stb10.ans:
+    artist: eerie
+  33-modem.rel:
+    artist: eerie
+  33-bless.gif:
+    artist: eerie
+  33-ad2.rel:
+    artist: eerie
+  33-fire3.ans:
+    artist: eerie
+  33-tund1.ans:
+    artist: eerie
+  ee-tcc2s.imp:
+    artist: eerie
+  33-blood.ans:
+    artist: eerie
+  int-0695.mem:
+    artist: eerie
+  ee-impl1.imp:
+    artist: eerie
+  33-nh.rel:
+    artist: eerie
+  ee-boi.imp:
+    artist: eerie
+  0495memb.ans:
+    artist: eerie
+  33-never.ans:
+    artist: eerie
+  33-fc1.ans:
+    artist: eerie
+  33-neosp.ans:
+    artist: eerie
+  33-ponr.ans:
+    artist: eerie
+  int-0895.nfo:
+    artist: eerie
+  33-reg.rel:
+    artist: eerie
+  nm-skull.ans:
+    artist: eerie
+  33-ho.ans:
+    artist: eerie
+  eerie.ans:
+    artist: eerie
+  file_id.diz:
+    artist: eerie
+  int-0895.mem:
+    artist: eerie
+  33-rust.ans:
+    artist: eerie
+  bbslist.ans:
+    artist: eerie
+  33-thas1.rel:
+    artist: eerie
+  zh33-vk1.rel:
+    artist: eerie
+  33-logo3.ans:
+    artist: eerie
+  sp-tha.ans:
+    artist: eerie
+  loser.ans:
+    artist: eerie
+  33-elix.ans:
+    artist: eerie
+  33-cfrt2.ans:
+    artist: eerie
+  xtrex.ans:
+    artist: eerie
+  33-&1.ans:
+    artist: eerie
+  33-logo6.ans:
+    artist: eerie
+  33-acid5.ans:
+    artist: eerie
+  33-bp.ans:
+    artist: eerie
+  33-ei.rel:
+    artist: eerie
+  33-n1.bin:
+    artist: eerie
+  33jd-sod.rel:
+    artist: eerie
+  33-mourn.rel:
+    artist: eerie
+  33-pray2.ans:
+    artist: eerie
+  33yo-ld2.ans:
+    artist: eerie
+  burpst.ans:
+    artist: eerie
+  33-goth.ans:
+    artist: eerie
+  33-fp.ans:
+    artist: eerie
+  33-stb04.rel:
+    artist: eerie
+  33-erec2.rel:
+    artist: eerie
+  33-esc.ans:
+    artist: eerie
+  template.ans:
+    artist: eerie
+  ee-mhm.imp:
+    artist: eerie
+  ee-wowm1.exe:
+    artist: eerie
+  33-d2.ans:
+    artist: eerie
+  33-juice.ans:
+    artist: eerie
+  33-cloud.ans:
+    artist: eerie
+  ee-lg01.imp:
+    artist: eerie
+  33-reg3.rel:
+    artist: eerie
+  33-byond.ans:
+    artist: eerie
+  personal.ans:
+    artist: eerie
+  acid0195.ans:
+    artist: eerie
+  33-vek2.rel:
+    artist: eerie
+  33-huma.ans:
+    artist: eerie
+  pixirosa.ans:
+    artist: eerie
+  33-maxx.rel:
+    artist: eerie
+  33-stb05.rel:
+    artist: eerie
+  33-simnu.rel:
+    artist: eerie
+  zh33-slt.rel:
+    artist: eerie
+  33-sih.rel:
+    artist: eerie
+  33-terb4.rel:
+    artist: eerie
+  33-thu2.rel:
+    artist: eerie
+  33-rev.rel:
+    artist: eerie
+  33-tcl3.gif:
+    artist: eerie
+  solvdrms.ans:
+    artist: eerie
+  33-logo7.ans:
+    artist: eerie
+  33-fate.rel:
+    artist: eerie
+  33-logo2.ans:
+    artist: eerie
+  33-n231.rel:
+    artist: eerie
+  early.dsc:
+    artist: eerie
+  33-tls2.ans:
+    artist: eerie
+  33-treg3.ans:
+    artist: eerie
+  33-rebel.ans:
+    artist: eerie
+  33-phunk.rel:
+    artist: eerie
+  33-treg9.ans:
+    artist: eerie
+  33-alpha.rel:
+    artist: eerie
+  33-roads.rel:
+    artist: eerie
+  33-sure.rel:
+    artist: eerie
+  chatinit.ans:
+    artist: eerie
+  33-rza.ans:
+    artist: eerie
+  batch.ans:
+    artist: eerie
+  33-pin.ans:
+    artist: eerie
+  joint-01.ans:
+    artist: eerie
+  33-atar1.rel:
+    artist: eerie
+  33-voo.rel:
+    artist: eerie
+  nm-bus1.ans:
+    artist: eerie
+  '!!!-7777.ans':
+    artist: eerie
+  33-acet3.ans:
+    artist: eerie
+  die-reg.ans:
+    artist: eerie
+  33-o691.rel:
+    artist: eerie
+  42-pauls.ans:
+    artist: eerie
+  33-cyber.rel:
+    artist: eerie
+  33-sod.ans:
+    artist: eerie
+  33-ue.bin:
+    artist: eerie
+  33-jonas.ans:
+    artist: eerie
+  33-sick1.ans:
+    artist: eerie
+  33-tha5.rel:
+    artist: eerie
+  33-imnu.nfo:
+    artist: eerie
+  rxlogo01.ans:
+    artist: eerie
+  stahhh.ans:
+    artist: eerie
+  33-train.ans:
+    artist: eerie
+  33-atari.bin:
+    artist: eerie
+  33-ms6.ans:
+    artist: eerie
+  33-gath.rel:
+    artist: eerie
+  file.ans:
+    artist: eerie
+  33-silk.ans:
+    artist: eerie
+  33-ms5.rel:
+    artist: eerie
+  33-dv.ans:
+    artist: eerie
+  stanarky.ans:
+    artist: eerie
+  33-ss2.ans:
+    artist: eerie
+  ee-lof01.imp:
+    artist: eerie
+  33-tha1.rel:
+    artist: eerie
+  disciple.ans:
+    artist: eerie
+  33-fr.ans:
+    artist: eerie
+  33-cdi1.ans:
+    artist: eerie
+  33-para2.rel:
+    artist: eerie
+  ky33-sg.ans:
+    artist: eerie
+  33-cor.ans:
+    artist: eerie
+  email.ans:
+    artist: eerie
+  nc3-so1.ice:
+    artist: eerie
+  joint-02.ans:
+    artist: eerie
+  33-tsn1.ans:
+    artist: eerie
+  33-pr.rel:
+    artist: eerie
+  33-btp1.rel:
+    artist: eerie
+  33-r.ans:
+    artist: eerie
+  33-stink.ans:
+    artist: eerie
+  33-bldf.ans:
+    artist: eerie
+  33-trn.lgo:
+    artist: eerie
+  33-pp.rel:
+    artist: eerie
+  ee-tcc02.imp:
+    artist: eerie
+  33-tsp1.ans:
+    artist: eerie
+  33-greet.rel:
+    artist: eerie
+  33-fluid.rel:
+    artist: eerie
+  33-tha3.rel:
+    artist: eerie
+  33-z.rel:
+    artist: eerie
+  33-gtb.rel:
+    artist: eerie
+  msg.ans:
+    artist: eerie
+  33-n.gif:
+    artist: eerie
+  33-havm1.rel:
+    artist: eerie
+  33-sbz.ans:
+    artist: eerie
+  33-cizb.gif:
+    artist: eerie
+  0395site.ans:
+    artist: eerie
+  33-ny01.ans:
+    artist: eerie
+  33-dg1.gif:
+    artist: eerie
+  33-mm1.rel:
+    artist: eerie
+  chatend.ans:
+    artist: eerie
+  33-drool.ans:
+    artist: eerie
+  33-cat.rel:
+    artist: eerie
+  33-dooms.ans:
+    artist: eerie
+  33-stb09.rel:
+    artist: eerie
+  33-mist4.gif:
+    artist: eerie
+  33-sauce.ans:
+    artist: eerie
+  33-vos2.ans:
+    artist: eerie
+  lsdwerd.ans:
+    artist: eerie
+  33-stb08.rel:
+    artist: eerie
+  33-tcl1.ans:
+    artist: eerie
+  33-dcf.ans:
+    artist: eerie
+  33-shock.ans:
+    artist: eerie
+  33-lith2.rel:
+    artist: eerie
+  33-enig.rel:
+    artist: eerie
+  33-ace15.rel:
+    artist: eerie
+  33-logo1.rel:
+    artist: eerie
+  33-ace2.rel:
+    artist: eerie
+  33-skf1.ans:
+    artist: eerie
+  ee-terb.imp:
+    artist: eerie
+  33zr-arb.rel:
+    artist: eerie
+  33-trc.ans:
+    artist: eerie
+  33-us2.rel:
+    artist: eerie
+  astek.ans:
+    artist: eerie
+  33-ms1.rel:
+    artist: eerie
+  ee-np1.imp:
+    artist: eerie
+  33-tokyo.ans:
+    artist: eerie
+  33-amp3.jpg:
+    artist: eerie
+  ee-khm1.imp:
+    artist: eerie
+  ld-ns1.ans:
+    artist: eerie
+  33-tha6.rel:
+    artist: eerie
+  nc3-sd2.ans:
+    artist: eerie
+  33-prod.rel:
+    artist: eerie
+  main.ans:
+    artist: eerie
+  33-tls.ans:
+    artist: eerie
+  ee-stat1.imp:
+    artist: eerie
+  33-chat.nfo:
+    artist: eerie
+  33-stb14.ans:
+    artist: eerie
+  33-icomm.ans:
+    artist: eerie
+  33-youth.rel:
+    artist: eerie
+  33-hot2.ans:
+    artist: eerie
+  33-ih8nm.ans:
+    artist: eerie
+  ee-rr02.imp:
+    artist: eerie
+  33-pac.ans:
+    artist: eerie
+  33-prod2.ans:
+    artist: eerie
+  33-votb.ans:
+    artist: eerie
+  33-lans.ans:
+    artist: eerie
+  33-moot3.ans:
+    artist: eerie
+  33-riot.ans:
+    artist: eerie
+  33-guttr.ans:
+    artist: eerie
+  33-si.gif:
+    artist: eerie
+  33-rape2.ans:
+    artist: eerie
+  33-n232.rel:
+    artist: eerie
+  33-mary.ans:
+    artist: eerie
+  33-cs.ans:
+    artist: eerie
+  nsihq.ans:
+    artist: eerie
+  33-kaoz.ans:
+    artist: eerie
+  wow.ans:
+    artist: eerie
+  33-sbz2.ans:
+    artist: eerie
+  33-tra.rel:
+    artist: eerie
+  33-ten.ans:
+    artist: eerie
+  33-pab3.ans:
+    artist: eerie
+  online.ans:
+    artist: eerie
+  33-silk2.ans:
+    artist: eerie
+  33-df6.exe:
+    artist: eerie
+  33-ad3.rel:
+    artist: eerie
+  33-evol.rel:
+    artist: eerie
+  33-knot.gif:
+    artist: eerie
+  33-river.ans:
+    artist: eerie
+  33-tt.ans:
+    artist: eerie
+  kts-eerie.asc:
+    artist: eerie
+  33-ms3.rel:
+    artist: eerie
+  ee-s7l2.imp:
+    artist: eerie
+  33-bx2.ans:
+    artist: eerie
+  33-poo2.ans:
+    artist: eerie
+  33-reg2.rel:
+    artist: eerie
+  33-logo4.ans:
+    artist: eerie
+  33-appl2.ans:
+    artist: eerie
+  33-disco.ans:
+    artist: eerie
+  33-sup2.ans:
+    artist: eerie
+  33-pauls.ans:
+    artist: eerie
+  33-ths2.ans:
+    artist: eerie
+  '!!!-0103.ans':
+    artist: eerie
+  33-tcc4.rel:
+    artist: eerie
+  33-reg10.ans:
+    artist: eerie
+  33-666.ans:
+    artist: eerie
+  33-md1.ans:
+    artist: eerie
+  33-skf21.ans:
+    artist: eerie
+  staski.asc:
+    artist: eerie
+  33zr-tst.rel:
+    artist: eerie
+  33-slot3.rel:
+    artist: eerie
+  33-flup2.ans:
+    artist: eerie
+  33-annoy.rel:
+    artist: eerie
+  0595memb.ans:
+    artist: eerie
+  33-skf69.ans:
+    artist: eerie
+  33-nw.ans:
+    artist: eerie
+  33-rape3.ans:
+    artist: eerie
+  hardkore.ans:
+    artist: eerie
+  33-jizz.ans:
+    artist: eerie
+  33-sno.rel:
+    artist: eerie
+  33-euph6.ans:
+    artist: eerie
+  33-ths.ans:
+    artist: eerie
+  33-stb12.ans:
+    artist: eerie
+  33-bf.ans:
+    artist: eerie
+  33-skf7.ans:
+    artist: eerie
+  rxpact.ans:
+    artist: eerie
+  33-pray.rel:
+    artist: eerie
+  33-cruel.ans:
+    artist: eerie
+  33-ug11.ans:
+    artist: eerie
+  33-shv.ans:
+    artist: eerie
+  33-glo.ans:
+    artist: eerie
+  sites.rel:
+    artist: eerie
+  auto.ans:
+    artist: eerie
+  33-magma.ans:
+    artist: eerie
+  horsepoo.ans:
+    artist: eerie
+  before.ans:
+    artist: eerie
+  33-es.ans:
+    artist: eerie
+  ee-bw01.imp:
+    artist: eerie
+  33-ecl.ans:
+    artist: eerie
+  33-tcl2.rel:
+    artist: eerie
+  members2.rel:
+    artist: eerie
+  33-mist1.ans:
+    artist: eerie
+  33-ee2.ans:
+    artist: eerie
+  ee-nev01.imp:
+    artist: eerie
+  33-evil.rel:
+    artist: eerie
+  ides.ans:
+    artist: eerie
+  joint-03.ans:
+    artist: eerie
+  ee-tccm1.imp:
+    artist: eerie
+  sysop.ans:
+    artist: eerie
+  33pe-ld.rel:
+    artist: eerie
+  33-nocds.ans:
+    artist: eerie
+  33-whod.ans:
+    artist: eerie
+  faith.ans:
+    artist: eerie
+  33-haze.ans:
+    artist: eerie
+  33-apoc.rel:
+    artist: eerie
+  asym.ans:
+    artist: eerie
+  nit33-dg.ans:
+    artist: eerie
+  33-euph3.ans:
+    artist: eerie
+  33-ad1.rel:
+    artist: eerie
+  33-laugh.rel:
+    artist: eerie
+  news0295.ans:
+    artist: eerie
+  33-tbs.rel:
+    artist: eerie
+  members.rel:
+    artist: eerie
+  33-tri.ans:
+    artist: eerie
+  33-skf4.ans:
+    artist: eerie
+  001ace.ans:
+    artist: eerie
+  archive.ans:
+    artist: eerie
+artist: eerie

@@ -1,0 +1,209 @@
+---
+files:
+  bh-amrcmpg.asc:
+    font: cp437_8x16
+  y-mfuck.asc:
+    font: cp437_8x16
+    artist: yce
+  y-pilot.asc:
+    font: cp437_8x16
+    artist: yce
+  sp-spm.txt:
+    font: topaz-a1200
+    artist: spinsane
+  co-outlive.asc:
+    font: cp437_8x16
+  scr-hac.asc:
+    font: topazplus-a500
+    artist: scour
+  rb-nsh01.txt:
+    font: topaz-a1200
+    artist: raster.burn
+  sp-tpl.txt:
+    font: topaz-a1200
+    artist: spinsane
+  jrr-osl.asc:
+    font: cp437_8x16
+  scr-outf.asc:
+    font: topazplus-a500
+    artist: scour
+  da-sense.asc:
+    font: topaz-a1200
+  da-phar.asc:
+    font: topaz-a1200
+  ax_hgran.txt:
+    font: cp437_8x16
+  fs_uly.asc:
+    font: cp437_8x16
+  ns-mafi2.txt:
+    font: topaz-a1200
+    artist: ansichrist
+  us-laiso.asc:
+    font: cp437_8x16
+  us-erotk.txt:
+    font: topaz-a1200
+  fs_hmc.asc:
+    font: cp437_8x16
+  y-em.png:
+    artist: yce
+  r-ozz81c.txt:
+    font: topaz-a1200
+  da-djw1.asc:
+    font: topaz-a1200
+  us-r81.asc:
+    font: topaz-a1200
+  er-rm52b.asc:
+    font: topaz-a1200
+  sp-asso.txt:
+    font: topaz-a1200
+    artist: spinsane
+  us-scr.asc:
+    font: topaz-a1200
+  er-remos.asc:
+    font: topaz-a1200
+  jrr-dsb.asc:
+    font: cp437_8x16
+  sp-demen.asc:
+    font: topaz-a1200
+    artist: spinsane
+  us-rnfo.asc:
+    font: topaz-a1200
+  acidview.txt:
+    font: cp437_8x16
+  er-dmnt1.asc:
+    font: topaz-a1200
+  aa-8ball.asc:
+    font: cp437_8x16
+  ns-rmrs1.xb:
+    artist: ansichrist
+  us-next.asc:
+    font: topaz-a1200
+  er-outzn.asc:
+    font: topaz-a1200
+  pm-nd02.asc:
+    font: topaz-a1200
+    artist: polymorph
+  rm-ruptb.asc:
+    font: topaz-a1200
+  pm-discu.asc:
+    font: topaz-a1200
+    artist: polymorph
+  us-bleh.asc:
+    font: topaz-a1200
+  ns-sm2.ans:
+    artist: ansichrist
+  co-acid.asc:
+    font: cp437_8x16
+  sp-imdb.asc:
+    font: topaz-a1200
+    artist: spinsane
+  pm-selfp.asc:
+    font: topaz-a1200
+    artist: polymorph
+  fs_nf.asc:
+    font: cp437_8x16
+  us-love.asc:
+    font: topaz-a1200
+  inf-kane.asc:
+    font: cp437_8x16
+  z0o-ltb.asc:
+    font: cp437_8x16
+  us-sl.asc:
+    font: topaz-a1200
+  er-ptank.asc:
+    font: topaz-a1200
+  sp-haci.asc:
+    font: topaz-a1200
+    artist: spinsane
+  fs_id.asc:
+    font: cp437_8x16
+  y-fc22.asc:
+    font: cp437_8x16
+    artist: yce
+  y-779.asc:
+    font: cp437_8x16
+    artist: yce
+  fs_bin.asc:
+    font: cp437_8x16
+  us-drdo.asc:
+    font: topaz-a1200
+  y-c4f.asc:
+    font: cp437_8x16
+    artist: yce
+  fs_mqs.asc:
+    font: cp437_8x16
+  fs_cnv.asc:
+    font: cp437_8x16
+  aa-boom.asc:
+    font: cp437_8x16
+  jrr-rmrs1.asc:
+    font: cp437_8x16
+  us-pcyde.asc:
+    font: topaz-a1200
+  sp-wik.txt:
+    font: topaz-a1200
+    artist: spinsane
+  da-illso.asc:
+    font: topaz-a1200
+  rb-pan01.txt:
+    font: topaz-a1200
+    artist: raster.burn
+  rb-ntp01.txt:
+    font: topaz-a1200
+    artist: raster.burn
+  z0o-dv.asc:
+    font: cp437_8x16
+  scr-evils.asc:
+    font: topazplus-a500
+    artist: scour
+  artpacks.txt:
+    font: cp437_8x16
+  us-k.asc:
+    font: topaz-a1200
+  sp-rush.txt:
+    font: topaz-a1200
+    artist: spinsane
+  sp-8100.asc:
+    font: topaz-a1200
+    artist: spinsane
+  co-artcore.asc:
+    font: cp437_8x16
+  bh-tp.asc:
+    font: cp437_8x16
+  sp-gb.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sp-talio.asc:
+    font: topaz-a1200
+    artist: spinsane
+  er-rm52a.asc:
+    font: topaz-a1200
+  z0o-ssr.asc:
+    font: cp437_8x16
+  us-lucid.asc:
+    font: topaz-a1200
+  o4-e99.asc:
+    font: topaz-a1200
+  rb-apl.txt:
+    font: topaz-a1200
+    artist: raster.burn
+  r-four.txt:
+    font: topaz-a1200
+  bh-dtv.asc:
+    font: cp437_8x16
+  z0o-volatile.asc:
+    font: cp437_8x16
+  us-$$$.asc:
+    font: topaz-a1200
+  quotes.txt:
+    font: topaz-a1200
+  fs_sca.asc:
+    font: cp437_8x16
+  pm-dmtia.asc:
+    font: topaz-a1200
+    artist: polymorph
+  aa-darky21.asc:
+    font: cp437_8x16
+  ax_atv.txt:
+    font: cp437_8x16
+group: remorse.1981

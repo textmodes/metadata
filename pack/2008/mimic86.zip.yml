@@ -1,0 +1,78 @@
+---
+files:
+  drj-nr.asc:
+    artist: ddrj
+  h7-boble.asc:
+    artist: h7
+  h7-rik07.asc:
+    artist: h7
+  h7-ftruc.txt:
+    font: topazplus-a500
+    artist: h7
+  h7-deta2.asc:
+    artist: h7
+  h7-white.asc:
+    font: topazplus-a500
+    artist: h7
+  nerv-fantasy.txt:
+    font: topazplus-a500
+    artist: nerv
+  h7-axesn.asc:
+    font: topazplus-a500
+    artist: h7
+  h7-analg.asc:
+    artist: h7
+  h7-bzm07.txt:
+    font: topazplus-a500
+    artist: h7
+  h7-idmnf.asc:
+    font: topazplus-a500
+    artist: h7
+  h7-rhaca.asc:
+    artist: h7
+  nerv-refined.txt:
+    font: topazplus-a500
+    artist: nerv
+  h7-zion.asc:
+    artist: h7
+  tr-mmc.ans:
+    artist: trash
+  h7-oppta.asc:
+    font: topazplus-a500
+    artist: h7
+  h7-bean2.asc:
+    font: topazplus-a500
+    artist: h7
+  h7-acces.txt:
+    font: topazplus-a500
+    artist: h7
+  h7-babes.asc:
+    font: topazplus-a500
+    artist: h7
+  k!cobalt.asc:
+    artist: keetar
+  h7-tea53.asc:
+    artist: h7
+  h7-detai.asc:
+    font: topazplus-a500
+    artist: h7
+  h7-rnodi.asc:
+    font: topazplus-a500
+    artist: h7
+  h7-shitf.asc:
+    artist: h7
+  nerv-white.txt:
+    font: topazplus-a500
+    artist: nerv
+  ret-mmc86.ans:
+    artist: retribution
+  nerv-razor1911.txt:
+    font: topazplus-a500
+    artist: nerv
+  h7-lassi.asc:
+    artist: h7
+  drj-lip.asc:
+    artist: ddrj
+  mkk-ice.ans:
+    artist: steve
+group: mimic

@@ -1,0 +1,71 @@
+---
+files:
+  emk-bana.ans:
+    artist: emok
+  dz-spin.asc:
+    artist: dezibel
+  us-dv8.ans:
+    artists:
+    - sephiroth
+    - dying.soul
+  zs-eyes.ans:
+    artist: zerostar
+  iph-%.ans:
+    artist: inphamilair
+  ppe-dh.ans:
+    artist: purplee
+  zs-gohan.asc:
+    artist: zarcastius
+  ds-s.ans:
+    artist: dying.soul
+  '#info-03.ans':
+    artist: inphamilair
+  bl-blamm.ans:
+    artist: blader
+  arx_fin.ans:
+    artist: arx
+  ezu-old.asc:
+    artist: ease.up
+  us-rgemk.asc:
+    artists:
+    - rage
+    - emok
+  iph-diz5.ans:
+    artist: inphamilair
+  xz-logon.asc:
+    artist: hellbeard
+  rg_ser.ans:
+    artist: rage
+  arx_but.ans:
+    artist: arx
+  us-deep.ans:
+    artists:
+    - rage
+    - cat-dog
+  emk-ese1.ans:
+    artist: emok
+  emk-mel.ans:
+    artist: emok
+  emk-blue.ans:
+    artist: emok
+  xz-main.ans:
+    artist: hellbeard
+  m_a-spin.ans:
+    artist: midnight.age
+  ppe-s4.ans:
+    artist: purplee
+  emk-spin.ans:
+    artist: emok
+  us-ppemk.ans:
+    artists:
+    - acid.burn
+    - purplee
+  xs-fire.ans:
+    artist: xzyz
+  emk-ese2.ans:
+    artist: emok
+  xs-free.ans:
+    artist: xzyz
+  arx_ufo.asc:
+    artist: arx
+group: spin.production

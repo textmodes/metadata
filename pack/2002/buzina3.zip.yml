@@ -1,0 +1,24 @@
+---
+files:
+  crs-end.asc:
+    artist: crasher
+  '!nfo.ans':
+    font: cp866-8x16
+  crs-s&m.ans:
+    artist: crasher
+  crs-sme.asc:
+    font: cp866-8x16
+    artist: crasher
+  nocommen.txt:
+    font: cp866-8x16
+  crs-top.ans:
+    font: cp866-8x16
+    artists:
+    - rimanez
+    - crasher
+  crs-antl.ans:
+    font: cp866-8x16
+    artist: crasher
+  xxx.asc:
+    font: cp866-8x16
+group: buzina.factory

@@ -1,0 +1,27 @@
+---
+files:
+  bjasc204.ans:
+    artist: black.jack
+  no-riven.txt:
+    artist: noches
+  dwf-waz.asc:
+    artist: dwarf
+  bjasc205.ans:
+    artist: black.jack
+  dwf-pois.txt:
+    artist: dwarf
+  no-drop.asc:
+    artist: noches
+  bjasc196.ans:
+    artist: black.jack
+  zs-down.ans:
+    artist: zerostar
+  jn-frank.ans:
+    artist: jashiin
+  jn-final.ans:
+    artist: jashiin
+  dwf-with.txt:
+    artist: dwarf
+  no-done.ans:
+    artist: noches
+group: mimic

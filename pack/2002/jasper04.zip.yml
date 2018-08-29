@@ -1,0 +1,52 @@
+---
+files:
+  zv-ansi!.ans:
+    artist: zerovision
+  zs-jasp.ans:
+    artist: zerostar
+  43-ref.ans:
+    artist: aesthetic
+  sm-vd.ans:
+    artist: smoke
+  us-ansi.ans:
+    artists:
+    - aesthetic
+    - avenging.angel
+  ut-teeth.ans:
+    artist: untamed
+  ut-jp1.ans:
+    artist: untamed
+  we-nfont.ans:
+    artists:
+    - taintedx
+    - aesthetic
+    - untamed
+  43-bus.ans:
+    artist: aesthetic
+  us-loop.ans:
+    artists:
+    - aesthetic
+    - avenging.angel
+  m3-debl.ans:
+    artist: m33owtia
+  43-%%%65.ans:
+    artist: aesthetic
+  43-corn.ans:
+    artist: aesthetic
+  43-plug2.ans:
+    artist: aesthetic
+  zv-thr.ans:
+    artist: zerovision
+  22-bvipe.ans:
+    artist: catch22
+  43-nami.ans:
+    artist: aesthetic
+  ut-nami.ans:
+    artist: untamed
+  no-kino.ans:
+    artist: noches
+  avg-001.ans:
+    artist: avenging.angel
+  sm-hyst2.ans:
+    artist: smoke
+group: jasper

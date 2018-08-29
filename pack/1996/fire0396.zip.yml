@@ -1,0 +1,27 @@
+---
+files:
+  te-riot1.ans:
+    artist: the.extremist
+  te-tst01.ans:
+    artist: the.extremist
+  te-reg1.ans:
+    artist: the.extremist
+  33-sup2.ans:
+    artist: eerie
+  33-treg9.ans:
+    artist: eerie
+  p1-doodl.ans:
+    artist: prisoner.#1
+  p1-cw.ans:
+    artist: prisoner.#1
+  33-fire3.ans:
+    artist: eerie
+  33-train.ans:
+    artist: eerie
+  p1-tr9.gif:
+    artist: prisoner.#1
+  p1-fire.gif:
+    artist: prisoner.#1
+  33-riot.ans:
+    artist: eerie
+group: fire

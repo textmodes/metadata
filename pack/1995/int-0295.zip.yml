@@ -1,0 +1,7 @@
+---
+files:
+  iq-tst1.ans:
+    artist: inquisitor
+  iq-cmg1.ans:
+    artist: inquisitor
+group: integrity

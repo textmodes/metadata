@@ -1,0 +1,97 @@
+---
+files:
+  slo-prnd.asc:
+    font: topazplus-a1200
+    artist: splonk
+  us-uck.txt:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  po-cotu.txt:
+    font: topazplus-a1200
+    artist: pogue
+  slo-mari.asc:
+    font: topazplus-a1200
+    artist: splonk
+  slo-mrc.asc:
+    font: topazplus-a1200
+    artist: splonk
+  us-metro.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  zi-imp.asc:
+    font: topazplus-a1200
+    artist: zimmer
+  us-splnk.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  po-abst.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-imp01.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-aaf.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure18.inf:
+    font: topazplus-a500
+  bz-wcl.asc:
+    font: topazplus-a1200
+    artist: blooz
+  bz-msw2.asc:
+    font: topazplus-a1200
+    artist: blooz
+  file_id.diz:
+    font: topazplus-a500
+  mph-pepe.asc:
+    font: topazplus-a1200
+  bz-void.asc:
+    font: topazplus-a1200
+    artist: blooz
+  thuglife.org:
+    artist: pogue
+  po-leech.asc:
+    font: topazplus-a1200
+    artist: pogue
+  bz-msw.asc:
+    font: topazplus-a1200
+    artist: blooz
+  slo-me.asc:
+    font: topazplus-a1200
+    artist: splonk
+  xz-telep.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-upl.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-blood.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  slo-imp.asc:
+    font: topazplus-a1200
+    artist: splonk
+  impure18.mem:
+    font: topazplus-a500
+  po-amn.asc:
+    font: topazplus-a1200
+    artist: pogue
+  slo-mkd.asc:
+    font: topazplus-a1200
+    artist: splonk
+  slo-ami.asc:
+    font: topazplus-a1200
+    artist: splonk
+  po-slo.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-dead2.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

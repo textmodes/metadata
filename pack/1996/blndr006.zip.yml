@@ -1,0 +1,23 @@
+---
+files:
+  ill-amb.ans:
+    artist: illogic
+  fl-mab.ans:
+    artist: flame
+  us-bball.ans:
+    artists:
+    - hennifer
+    - warpus
+  mfs-atli.ans:
+    artist: mel.farr.suppastar
+  mfs-alie.gif:
+    artist: mel.farr.suppastar
+  mc-alien.jpg:
+    artist: mordecai
+  of-blend.ans:
+    artist: offspring
+  rg!albk.ans:
+    artist: rage
+  tsk-al.ans:
+    artist: the.silent.killer
+group: the.blender

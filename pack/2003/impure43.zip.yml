@@ -1,0 +1,84 @@
+---
+files:
+  pdz-sant.asc:
+    font: topazplus-a1200
+    artist: podsi
+  po-laed.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure43.inf:
+    font: topazplus-a500
+  po-syka.asc:
+    font: topazplus-a1200
+    artist: pogue
+  ab-vstat.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  us-stali.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - steve
+  us-miw.asc:
+    font: topazplus-a500
+    artists:
+    - steve
+    - pogue
+  po-khem.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-jnt.asc:
+    font: topazplus-a500
+    artists:
+    - curdon
+    - pogue
+  ab-fp.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  po-grn.asc:
+    font: topazplus-a1200
+    artist: pogue
+  dc-mmc.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  dc-asc.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  file_id.diz:
+    font: topazplus-a500
+  dc-biogn.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  zzzzzzz.asc:
+    font: topazplus-a1200
+  xz-imp.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-imrm.asc:
+    font: topazplus-a500
+  jf-imp_.ans:
+    artist: c-jeff
+  dc-bdcks.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+  us-bi.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  po-four2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-four1.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-tl.asc:
+    font: topazplus-a500
+    artist: pogue
+  scr-sant.asc:
+    font: topazplus-a500
+    artist: scour
+  dc-evsnt.asc:
+    font: topazplus-a1200
+    artist: dedchylde
+group: impure!ascii.1940

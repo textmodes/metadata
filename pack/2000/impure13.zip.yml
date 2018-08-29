@@ -1,0 +1,81 @@
+---
+files:
+  dwf-msi.txt:
+    font: topazplus-a1200
+    artist: dwarf
+  xz-esc2k.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  dwf-goi1.txt:
+    font: topazplus-a1200
+    artist: dwarf
+  po-intro.asc:
+    font: topazplus-a1200
+    artist: pogue
+  3k-tkmdz.asc:
+    font: topazplus-a1200
+    artist: tekk
+  3k-tokai.asc:
+    font: topazplus-a1200
+    artist: tekk
+  po-iq2k.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-files.asc:
+    font: topazplus-a1200
+    artist: pogue
+  ns-famva.asc:
+    font: topazplus-a1200
+    artist: ansichrist
+  dwf-goi2.txt:
+    font: topazplus-a1200
+    artist: dwarf
+  file_id.diz:
+    font: topazplus-a500
+  po-riven.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-bitc2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-mcfz.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-sec8.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-1lin.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-wtf.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-dwarf.asc:
+    font: topazplus-a1200
+    artist: pogue
+  irclog.txt:
+    font: topazplus-a1200
+  imp-013.inf:
+    font: topazplus-a500
+  po-autom.asc:
+    font: topazplus-a1200
+    artist: pogue
+  dwf-wtf.txt:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-sd.txt:
+    font: topazplus-a1200
+    artist: dwarf
+  dwf-tlo.txt:
+    font: topazplus-a1200
+    artist: dwarf
+  po-popul.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-inso.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-parti.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

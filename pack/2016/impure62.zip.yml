@@ -1,0 +1,102 @@
+---
+files:
+  grk-e16.ans:
+    artist: griskokare
+  grk-r81.ans:
+    artist: griskokare
+  ldn-aw-5-topazawakens2.ans:
+    artist: lord.nikon
+  mz-askee.ans:
+    artist: maze
+  grk-a600.ans:
+    artist: griskokare
+  xz-devotion.ans:
+    artist: hellbeard
+  grk-alco.ans:
+    artist: griskokare
+  ldn-aw-2-home.ans:
+    artist: lord.nikon
+  ldn-aw-3-topaz-awakens.ans:
+    artist: lord.nikon
+  ldn-aw-7-the-end.ans:
+    artist: lord.nikon
+  grk-idea.asc:
+    artist: griskokare
+  grk-#ask.ans:
+    artist: griskokare
+  xz-allende.ans:
+    artist: hellbeard
+  ldn-aw-4-dudes-and-falcon.ans:
+    artist: lord.nikon
+  vnm-klaz.ans:
+    artist: venam
+  xz-grim.ans:
+    artist: hellbeard
+  vnm-scrt.ans:
+    artist: venam
+  xz-snoggis.ans:
+    artist: hellbeard
+  us-link.ans:
+    artists:
+    - kniffy
+    - griskokare
+  vnm-mech.ans:
+    artist: venam
+  xz-che.ans:
+    artist: hellbeard
+  xz-zabutom.ans:
+    artist: hellbeard
+  file_id.diz:
+    font: topazplus_a500
+  xz-allende2.ans:
+    artist: hellbeard
+  xz-cityskape.ans:
+    artist: hellbeard
+  hx-askee.ans:
+    artist: haliphax
+  vnm-debr.ans:
+    artist: venam
+  mz-mexicana.ans:
+    artist: maze
+  xz-divinestylers.ans:
+    artist: hellbeard
+  po-fta.ans:
+    artist: pogue
+  grk-retn.diz:
+    font: topazplus_a500
+    artist: griskokare
+  ldn-psycho-frog.ans:
+    artist: lord.nikon
+  xz-horse.ans:
+    artist: hellbeard
+  xz-tha.ans:
+    artist: hellbeard
+  grk-usrl.ans:
+    artist: griskokare
+  znr-evoke16.ans:
+    artist: zaner
+  mz-brandmeister.ans:
+    artist: maze
+  us-bbsln.ans:
+    artists:
+    - haliphax
+    - griskokare
+  po-ev161.ans:
+    artist: pogue
+  vnm-awes.ans:
+    artist: venam
+  grk-impf.ans:
+    artist: griskokare
+  ldn-aw-6-skin-vs-ldn.ans:
+    artist: lord.nikon
+  vnm-mard.ans:
+    artist: venam
+  grk-arce.asc:
+    artist: griskokare
+  grk-vte2.ans:
+    artist: griskokare
+  xz-llamas.ans:
+    artist: hellbeard
+  ldn-aw-1-title.ans:
+    artist: lord.nikon
+group: impure!ascii.1940

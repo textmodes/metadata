@@ -1,0 +1,102 @@
+---
+files:
+  scr-dmg.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-tpl.asc:
+    font: topazplus-a500
+    artist: scour
+  ab-mys.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  ab-lim.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  impure24.inf:
+    font: topazplus-a500
+  m0d-imp!.asc:
+    font: topazplus-a1200
+    artist: griskokare
+  impure24.mem:
+    font: topazplus-a500
+  pix!pmtv.asc:
+    font: topazplus-a500
+    artist: splonk
+  ab-scum.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  scr-pmp1.asc:
+    font: topazplus-a500
+    artist: scour
+  ab-piks.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  trs-imp0.asc:
+    font: topazplus-a1200
+    artist: trasher
+  file_id.diz:
+    font: topazplus-a500
+  po-cloe.txt:
+    font: topazplus-a1200
+    artist: pogue
+  po-imsx.asc:
+    font: topazplus-a1200
+    artist: pogue
+  ab-wick.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  xz-sl.txt:
+    font: topazplus-a1200
+    artist: hellbeard
+  xz-imsx.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  pix!hln.asc:
+    font: topazplus-a500
+    artist: splonk
+  ab-sch.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  scr-ims.asc:
+    font: topazplus-a500
+    artist: scour
+  pix!imp.asc:
+    font: topazplus-a500
+    artist: splonk
+  pix!zero.asc:
+    font: topazplus-a500
+    artist: splonk
+  pix!slim.asc:
+    font: topazplus-a500
+    artist: splonk
+  pix!aliv.asc:
+    font: topazplus-a500
+    artist: splonk
+  scr-tlp2.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-zero.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-tlp.asc:
+    font: topazplus-a500
+    artist: scour
+  ab-udm.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  scr-ars.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-imsx.asc:
+    font: topazplus-a500
+    artist: scour
+  trs-imp!.asc:
+    font: topazplus-a1200
+    artist: trasher
+  scr-imp.asc:
+    font: topazplus-a500
+    artist: scour
+  po-dvis.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

@@ -1,0 +1,28 @@
+---
+files:
+  pos!anlg.asc:
+    artist: poise
+  pos!girl.asc:
+    artist: poise
+  pos!vlks.asc:
+    artist: poise
+  $zw!msth.asc:
+    artist: zwagier
+  pos!rosc.asc:
+    artist: poise
+  uif-neg.asc:
+    artist: uifique
+  $zw!inn.asc:
+    artist: zwagier
+  uif-na.asc:
+    artist: uifique
+  pos!ndis.asc:
+    artist: poise
+  pos!wcut.asc:
+    artist: poise
+  uif-www.asc:
+    font: topazplus_a500
+    artist: uifique
+  $zw!krn.asc:
+    artist: zwagier
+group: innate

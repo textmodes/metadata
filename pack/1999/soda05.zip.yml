@@ -1,0 +1,51 @@
+---
+files:
+  h7-druid.ans:
+    artist: h7
+  is-hell.ans:
+    artist: prosthesis
+  is-hel10.ans:
+    artist: prosthesis
+  h7-truko.ans:
+    artist: h7
+  us-ico.ans:
+    artists:
+    - avenging.angel
+    - prosthesis
+  sph_h311.ans:
+    artist: sephiroth
+  sph_crac.ans:
+    artist: sephiroth
+  h7-bmaid.ans:
+    artist: h7
+  cph-fire.ans:
+    artist: cyberpunch
+  cph-galz.ans:
+    artist: cyberpunch
+  h7-cryst.ans:
+    artist: h7
+  is-boy.ans:
+    artist: prosthesis
+  kmb-soda.pop:
+    artist: kumba
+  h7-gorez.ans:
+    artist: h7
+  h7-lexim.ans:
+    artist: h7
+  us-hell.ans:
+    artists:
+    - sephiroth
+    - colloss
+  h7-cia01.ans:
+    artist: h7
+  sph_myst.ans:
+    artist: sephiroth
+  h7-imman.ans:
+    artist: h7
+  h7-strea.ans:
+    artist: h7
+  h7-legio.ans:
+    artist: h7
+  cph-eng.ans:
+    artist: cyberpunch
+group: sodapop

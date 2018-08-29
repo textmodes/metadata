@@ -1,0 +1,225 @@
+---
+files:
+  frx-sld1.asc:
+    artist: ferrex
+  frx-hve1.asc:
+    artist: ferrex
+  frx-edtm.asc:
+    artist: ferrex
+  frx-dmn2.asc:
+    artist: ferrex
+  frx-cor2.asc:
+    artist: ferrex
+  frx-rs02.asc:
+    artist: ferrex
+  frx-if01.asc:
+    artist: ferrex
+  frx-sf01.asc:
+    artist: ferrex
+  frx-rh01.asc:
+    artist: ferrex
+  frx-trp2.asc:
+    artist: ferrex
+  frx-trm1.asc:
+    artist: ferrex
+  frx-mf20.asc:
+    artist: ferrex
+  frx-pd01.ans:
+    artist: ferrex
+  frx-msh2.asc:
+    artist: ferrex
+  frx-no01.asc:
+    artist: ferrex
+  frx-mf22.asc:
+    artist: ferrex
+  frx-mrx1.asc:
+    artist: ferrex
+  frx-cov1.asc:
+    artist: ferrex
+  frx-mcf1.asc:
+    artist: ferrex
+  frx-did1.asc:
+    artist: ferrex
+  frx-mlk1.asc:
+    artist: ferrex
+  frx-vgn3.asc:
+    artist: ferrex
+  frx-sac4.asc:
+    artist: ferrex
+  frx-ttn2.asc:
+    artist: ferrex
+  frx-vgn2.asc:
+    artist: ferrex
+  frx-rk01.asc:
+    artist: ferrex
+  frx-rsh1.asc:
+    artist: ferrex
+  frx-fos1.asc:
+    artist: ferrex
+  frx-int2.asc:
+    artist: ferrex
+  frx-ix01.asc:
+    artist: ferrex
+  frx-tql1.asc:
+    artist: ferrex
+  frx-ds01.asc:
+    artist: ferrex
+  frx-k1ng.asc:
+    artist: ferrex
+  frx-erz1.asc:
+    artist: ferrex
+  frx-tox2.asc:
+    artist: ferrex
+  frx-rzr1.gif:
+    artist: ferrex
+  frx-pwh3.asc:
+    artist: ferrex
+  frx-nerd.bmp:
+    artist: ferrex
+  frx-mth2.asc:
+    artist: ferrex
+  frx-xc06.asc:
+    artist: ferrex
+  frx-stc1.asc:
+    artist: ferrex
+  frx-xc05.asc:
+    artist: ferrex
+  frx-ttn1.asc:
+    artist: ferrex
+  frx-kad2.asc:
+    artist: ferrex
+  frx-rzr2.gif:
+    artist: ferrex
+  frx-bf01.asc:
+    artist: ferrex
+  frx-scn1.asc:
+    artist: ferrex
+  frx-cls1.jpg:
+    artist: ferrex
+  frx-cms1.asc:
+    artist: ferrex
+  frx-tox1.asc:
+    artist: ferrex
+  frx-mtl1.asc:
+    artist: ferrex
+  frx-tpgr.asc:
+    artist: ferrex
+  frx-lcf1.asc:
+    artist: ferrex
+  frx-rs01.asc:
+    artist: ferrex
+  frx-no02.asc:
+    artist: ferrex
+  frx-xc04.asc:
+    artist: ferrex
+  frx-wdp1.asc:
+    artist: ferrex
+  frx-mth3.asc:
+    artist: ferrex
+  frx-eqm1.asc:
+    artist: ferrex
+  frx-trp1.asc:
+    artist: ferrex
+  frx-vsn1.asc:
+    artist: ferrex
+  frx-inv1.asc:
+    artist: ferrex
+  frx-esc1.asc:
+    artist: ferrex
+  frx-scpt.asc:
+    artist: ferrex
+  frx-int1.asc:
+    artist: ferrex
+  frx-rs03.asc:
+    artist: ferrex
+  frx-mf21.asc:
+    artist: ferrex
+  frx-crs1.asc:
+    artist: ferrex
+  frx-mth1.asc:
+    artist: ferrex
+  frx-ae01.asc:
+    artist: ferrex
+  frx-xc02.asc:
+    artist: ferrex
+  frx-dfa1.asc:
+    artist: ferrex
+  frx-rvn1.asc:
+    artist: ferrex
+  frx-db01.asc:
+    artist: ferrex
+  frx-xc03.asc:
+    artist: ferrex
+  frx-ste1.asc:
+    artist: ferrex
+  frx-msh1.asc:
+    artist: ferrex
+  frx-hom1.asc:
+    artist: ferrex
+  frx-ta01.asc:
+    artist: ferrex
+  frx-amu1.asc:
+    artist: ferrex
+  frx-vn01.asc:
+    artist: ferrex
+  frx-rzr3.gif:
+    artist: ferrex
+  frx-scr1.asc:
+    artist: ferrex
+  frx-dfa3.asc:
+    artist: ferrex
+  frx-kad1.asc:
+    artist: ferrex
+  frx-mrg1.asc:
+    artist: ferrex
+  frx-fbl1.asc:
+    artist: ferrex
+  frx-cor1.asc:
+    artist: ferrex
+  frx-sac3.asc:
+    artist: ferrex
+  frx-pwh2.asc:
+    artist: ferrex
+  frx-bf02.asc:
+    artist: ferrex
+  frx-lgc1.asc:
+    artist: ferrex
+  frx-inst.gif:
+    artist: ferrex
+  frx-pwh1.asc:
+    artist: ferrex
+  frx-dfa2.asc:
+    artist: ferrex
+  frx-pcs2.asc:
+    artist: ferrex
+  frx-msn1.asc:
+    artist: ferrex
+  frx-dwa1.asc:
+    artist: ferrex
+  frx-xc01.asc:
+    artist: ferrex
+  frx-ser1.asc:
+    artist: ferrex
+  frx-sour.asc:
+    artist: ferrex
+  frx-gns1.asc:
+    artist: ferrex
+  frx-ego1.asc:
+    artist: ferrex
+  frx-cls1.asc:
+    artist: ferrex
+  frx-xtc1.asc:
+    artist: ferrex
+  frx-myt1.jpg:
+    artist: ferrex
+  frx-fl01.asc:
+    artist: ferrex
+  frx-rzh1.asc:
+    artist: ferrex
+  frx-k2ng.asc:
+    artist: ferrex
+  frx-cns1.asc:
+    artist: ferrex
+  frx-avt1.asc:
+    artist: ferrex
+group: superior.art.creations

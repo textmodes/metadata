@@ -1,0 +1,41 @@
+---
+files:
+  po-pilg.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-ogge.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  impure45.inf:
+    font: topazplus-a500
+  po-deni1.nfo:
+    artist: pogue
+  us-newsx.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  db-ignrt.txt:
+    font: topazplus-a1200
+  us-eric.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  po-tnt.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-obsd.asc:
+    font: topazplus-a1200
+    artist: pogue
+  file_id.diz:
+    font: topazplus-a500
+  xz-news.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-osir.asc:
+    font: topazplus-a1200
+    artist: pogue
+group: impure!ascii.1940

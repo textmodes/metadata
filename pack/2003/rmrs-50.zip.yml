@@ -1,0 +1,103 @@
+---
+files:
+  rm-rmrs.asc:
+    font: topaz-a1200
+  bh-ivs.asc:
+    font: topaz-a1200
+  tn-rmr50.asc:
+    font: topaz-a1200
+  vlr-acid.asc:
+    font: topaz-a1200
+  2n-r2003.asc:
+    font: topaz-a1200
+  bh-m.asc:
+    font: topaz-a1200
+  da-defcn.asc:
+    font: topaz-a1200
+  sd-sns.asc:
+    font: topaz-a1200
+  vlr-tef.asc:
+    font: topaz-a1200
+  us-r50.asc:
+    font: topaz-a1200
+  us-grill.asc:
+    font: topaz-a1200
+  bh-ff.asc:
+    font: topaz-a1200
+  us-rmrs.asc:
+    font: topaz-a1200
+  ne-frag2.asc:
+    font: topaz-a1200
+  p-ec.asc:
+    font: topaz-a1200
+  ak-klex2.asc:
+    font: topaz-a1200
+  us-tibit.asc:
+    font: topaz-a1200
+  vlr-one.asc:
+    font: topaz-a1200
+  bh-nl.asc:
+    font: topaz-a1200
+  to-koxb.asc:
+    font: topaz-a1200
+  yce-lca.txt:
+    font: topaz-a1200
+  07-r1981.asc:
+    font: topaz-a1200
+  da-aview.asc:
+    font: topaz-a1200
+  jrr-cfu.asc:
+    font: topaz-a1200
+  sp-lsdm.asc:
+    font: topaz-a1200
+    artist: spinsane
+  bh-hov.asc:
+    font: topaz-a1200
+  to-sgoat.asc:
+    font: topaz-a1200
+  p-dyna.asc:
+    font: topaz-a1200
+  sp-reso.asc:
+    font: topaz-a1200
+    artist: spinsane
+  tl-rm81.asc:
+    font: topaz-a1200
+  asx-ft01.asc:
+    font: topaz-a1200
+  po-rdiz.asc:
+    font: topaz-a1200
+  no-style.ans:
+    artist: noches
+  sp-love.asc:
+    font: topaz-a1200
+    artist: spinsane
+  bh-hs.asc:
+    font: topaz-a1200
+  bh-evoke.asc:
+    font: topaz-a1200
+  fx-evake.asc:
+    font: topaz-a1200
+  nt-fiddy.txt:
+    font: topaz-a1200
+    artist: nightrain
+  us-jazz.asc:
+    font: topaz-a1200
+  jrr-mbi.asc:
+    font: topaz-a1200
+  to-nosfe.asc:
+    font: topaz-a1200
+  jrr-tne.asc:
+    font: topaz-a1200
+  rmrs-app.txt:
+    font: topaz-a1200
+  jrr-rrw.asc:
+    font: topaz-a1200
+  to-guac.asc:
+    font: topaz-a1200
+  vlr-crs.asc:
+    font: topaz-a1200
+  vlr-ozn.asc:
+    font: topaz-a1200
+  axb-r50.asc:
+    font: topaz-a1200
+group: remorse.1981

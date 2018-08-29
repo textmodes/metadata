@@ -1,0 +1,47 @@
+---
+files:
+  h7-imase.txt:
+    artist: h7
+  h7-l0g0s.ans:
+    artist: h7
+  zs-spidy.ans:
+    artist: zerostar
+  no-sars.txt:
+    artist: noches
+  rm-south.asc:
+    artist: ricky.martin
+  ko-just6.asc:
+    artist: kingpin.octopus
+  k!car55.asc:
+    artist: keetar
+  no-ave.txt:
+    artist: noches
+  gdr-mmc1.ans:
+    artist: gravedancer
+  43-dcp.asc:
+    artist: aesthetic
+  ko-sanjh.asc:
+    artist: kingpin.octopus
+  no-menu.txt:
+    artist: noches
+  jn-room.ans:
+    artist: jashiin
+  us-quick.ans:
+    artists:
+    - keetar
+    - c-jeff
+  gdr-mmc2.ans:
+    artist: gravedancer
+  no-lord.txt:
+    artist: noches
+  je-rbt.asc:
+    artist: c-jeff
+  us-voodo.txt:
+    artist: h7
+  rm-00000.asc:
+    artist: ricky.martin
+  no-news.txt:
+    artist: noches
+  no-pan.txt:
+    artist: noches
+group: mimic

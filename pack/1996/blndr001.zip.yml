@@ -1,0 +1,15 @@
+---
+files:
+  nmldblnd.ans:
+    artists:
+    - numb
+    - oned
+  samurai.ans:
+    artist: samurai
+  cheeze.ans:
+    artist: cheeze
+  grndking.ans:
+    artist: grind.king
+  warpus.ans:
+    artist: warpus
+group: the.blender

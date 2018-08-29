@@ -1,0 +1,110 @@
+---
+files:
+  si-geom1.asc:
+    font: topaz-a1200
+  pk-rmrs.asc:
+    font: topaz-a1200
+  xa-prd.asc:
+    font: topaz-a1200
+  mk-os.asc:
+    font: topaz-a1200
+  r-money.txt:
+    font: topaz-a1200
+  r-tmi.txt:
+    font: topaz-a1200
+  t2-rzr.asc:
+    font: topaz-a1200
+  c4-sign.asc:
+    font: topaz-a1200
+    artist: cannabis
+  sp-naked.asc:
+    font: topaz-a1200
+    artist: spinsane
+  nm-mny.asc:
+    font: topaz-a1200
+    artist: necromancer
+  r-mhzheu.txt:
+    font: topaz-a1200
+  jak-hdrs.asc:
+    font: topaz-a1200
+  tm-mci.asc:
+    font: topaz-a1200
+  cn-rmrs.asc:
+    font: topaz-a1200
+  spr-rms5.asc:
+    font: topaz-a1200
+  ack-0697.asc:
+    font: topaz-a1200
+  nn-pm.asc:
+    font: topaz-a1200
+    artist: necronite
+  bj-asc83.ans:
+    artist: black.jack
+  tm-group.asc:
+    font: topaz-a1200
+  bj-asc81.ans:
+    artist: black.jack
+  jak-avj.asc:
+    font: topaz-a1200
+  t2-iom.asc:
+    font: topaz-a1200
+  mk-nam.txt:
+    font: topaz-a1200
+  us-gland.asc:
+    font: topaz-a1200
+  nu-kwest.asc:
+    font: topaz-a1200
+  r-mhztgf.txt:
+    font: topaz-a1200
+  us-rmrs.asc:
+    font: topaz-a1200
+  bds-fnd1.asc:
+    font: topaz-a1200
+  cg-0697.asc:
+    font: topaz-a1200
+  cn-p42.asc:
+    font: topaz-a1200
+  bds-cnz1.asc:
+    font: topaz-a1200
+  tm-vdr.asc:
+    font: topaz-a1200
+  mk-cult.asc:
+    font: topaz-a1200
+  us-blndr.asc:
+    font: topaz-a1200
+  xa-bh.asc:
+    font: topaz-a1200
+  c4-whod.asc:
+    font: topaz-a1200
+    artist: cannabis
+  bj-asc84.ans:
+    artist: black.jack
+  cg-rmrs2.asc:
+    font: topaz-a1200
+  jak-r81.asc:
+    font: topaz-a1200
+  bds-mf1.asc:
+    font: topaz-a1200
+  axb-rmrs.asc:
+    font: topaz-a1200
+  t2-iom2.asc:
+    font: topaz-a1200
+  cn-sekn.asc:
+    font: topaz-a1200
+  cg-rmrs.asc:
+    font: topaz-a1200
+  cr-ascii.asc:
+    font: topaz-a1200
+  bj-asc82.ans:
+    artist: black.jack
+  r-eden.txt:
+    font: topaz-a1200
+  sv2-prm.txt:
+    font: topaz-a1200
+  nm-rms1.asc:
+    font: topaz-a1200
+    artist: necromancer
+  mt-high.asc:
+    font: topaz-a1200
+    artist: martz
+group: remorse.1981

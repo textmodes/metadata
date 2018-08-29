@@ -1,0 +1,160 @@
+---
+files:
+  hp-biab1.asc:
+    font: topaz-a1200
+  hp-uni2.asc:
+    font: topaz-a1200
+  nm-sod.asc:
+    font: topaz-a1200
+    artist: necromancer
+  nm-fate.asc:
+    font: topaz-a1200
+    artist: necromancer
+  wd-rgc1.asc:
+    font: topaz-a1200
+    artist: whodini
+  wd-rmrs.ans:
+    artist: whodini
+  zh-prod.asc:
+    font: topaz-a1200
+  hp-hinc1.asc:
+    font: topaz-a1200
+  wd-hmoon.asc:
+    font: topaz-a1200
+    artist: whodini
+  hp-rmrs1.asc:
+    font: topaz-a1200
+  nm-soe.asc:
+    font: topaz-a1200
+    artist: necromancer
+  hp-sams1.asc:
+    font: topaz-a1200
+  nm-billy.asc:
+    font: topaz-a1200
+    artist: necromancer
+  wd-acdc.asc:
+    font: topaz-a1200
+    artist: whodini
+  px-nok.asc:
+    font: topaz-a1200
+  wd-rmrs.asc:
+    font: topaz-a1200
+    artist: whodini
+  hp-tdom1.asc:
+    font: cp437_8x8
+  wd-nh.asc:
+    font: topaz-a1200
+    artist: whodini
+  wd-fst.asc:
+    font: topaz-a1200
+    artist: whodini
+  t2-md.asc:
+    font: topaz-a1200
+  hp-soe1.asc:
+    font: topaz-a1200
+  nm-rmrs.asc:
+    font: topaz-a1200
+    artist: necromancer
+  nm-xwng2.asc:
+    font: topaz-a1200
+    artist: necromancer
+  zh-tse1.asc:
+    font: topaz-a1200
+  mp-qp1.asc:
+    font: topaz-a1200
+  wd-tf.asc:
+    font: topaz-a1200
+    artist: whodini
+  wd-diz.asc:
+    font: topaz-a1200
+    artist: whodini
+  hp-wbx1.asc:
+    font: topaz-a1200
+  wd-rgc2.asc:
+    font: topaz-a1200
+    artist: whodini
+  hp-ml6.asc:
+    font: topaz-a1200
+  hp-qp1.asc:
+    font: topaz-a1200
+  nm-elsm.asc:
+    font: topaz-a1200
+    artist: necromancer
+  nm-rzr.asc:
+    font: topaz-a1200
+    artist: necromancer
+  wd-tos.ans:
+    artist: whodini
+  nm-emdi.asc:
+    font: topaz-a1200
+    artist: necromancer
+  hp-req.txt:
+    font: topaz-a1200
+  nm-tds.asc:
+    font: topaz-a1200
+    artist: necromancer
+  om-mltd1.asc:
+    font: topaz-a1200
+    artist: otium
+  wd-pm.asc:
+    font: topaz-a1200
+    artist: whodini
+  hp-cur2.asc:
+    font: topaz-a1200
+  hp-ss2.asc:
+    font: cp437_8x8
+  og-nl.asc:
+    font: topaz-a1200
+  om-dmk2.diz:
+    artist: otium
+  om-tug1.asc:
+    font: topaz-a1200
+    artist: otium
+  nm-jesse.asc:
+    font: topaz-a1200
+    artist: necromancer
+  hp-uni1.asc:
+    font: topaz-a1200
+  mp-dr1.asc:
+    font: topaz-a1200
+  t2-irc.asc:
+    font: topaz-a1200
+  om-dmk1.diz:
+    artist: otium
+  nm-fb.asc:
+    font: topaz-a1200
+    artist: necromancer
+  hp-cur1.asc:
+    font: topaz-a1200
+  mp-ld1.asc:
+    font: topaz-a1200
+  zh-rmrs1.asc:
+    font: topaz-a1200
+  hp-rvgd1.asc:
+    font: topaz-a1200
+  nm-md.asc:
+    font: topaz-a1200
+    artist: necromancer
+  hp-tst3.asc:
+    font: topaz-a1200
+  zh-rmrs2.asc:
+    font: topaz-a1200
+  t2-rev.asc:
+    font: topaz-a1200
+  nm-bstrd.asc:
+    font: topaz-a1200
+    artist: necromancer
+  om-trn1.asc:
+    font: topaz-a1200
+    artist: otium
+  nm-xwing.asc:
+    font: topaz-a1200
+    artist: necromancer
+  zh-pr1.asc:
+    font: topaz-a1200
+  t2-rem2.asc:
+    font: topaz-a1200
+  wd-unf.asc:
+    font: topaz-a1200
+    artist: whodini
+group: remorse.1981

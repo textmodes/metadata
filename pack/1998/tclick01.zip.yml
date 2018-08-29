@@ -1,0 +1,32 @@
+---
+files:
+  ac-click.asc:
+    font: cp437_8x8
+  hx-lair.ans:
+    font: cp437_8x16
+  zz-cyber.txt:
+    font: cp437_8x8
+  t3-kleen.asc:
+    font: cp437_8x8
+  zz-s001.txt:
+    font: cp437_8x8
+  ac-glm.asc:
+    font: cp437_8x8
+  ac-proc.asc:
+    font: cp437_8x8
+  zz-file.txt:
+    font: cp437_8x8
+  hx-ep.asc:
+    font: cp437_8x8
+  file_id.diz:
+    font: cp437_8x8
+  hx-decon.asc:
+    font: cp437_8x8
+  hx-com.asc:
+    font: cp437_8x8
+  zz-dvdsk.txt:
+    font: cp437_8x8
+  ac-e21.asc:
+    font: cp437_8x8
+  ac-zero.asc:
+    font: cp437_8x8

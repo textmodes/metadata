@@ -1,0 +1,54 @@
+---
+files:
+  hx-death.txt:
+    font: cp437_8x16
+  id-rksos.txt:
+    font: cp437_8x8
+  id-rks79.txt:
+    font: cp437_8x8
+  0z-prons.txt:
+    font: cp437_8x8
+  tl-crmpt.txt:
+    font: cp437_8x8
+  0z-ostyl.txt:
+    font: cp437_8x8
+  tl-nec.diz:
+    font: cp437_8x8
+  us-crack.txt:
+    font: cp437_8x8
+  bio-ruck.asc:
+    font: cp437_8x8
+  0z-tlost.txt:
+    font: cp437_8x8
+  file_id.diz:
+    font: cp437_8x8
+  id-rksdz.txt:
+    font: cp437_8x8
+  tl-virgn.txt:
+    font: cp437_8x8
+  tl-empor.txt:
+    font: cp437_8x8
+  us-creed.txt:
+    font: cp437_8x8
+  tl-xmass.txt:
+    font: cp437_8x8
+  dz-rucks.txt:
+    font: topazplus_a500
+  mj-rucks.txt:
+    font: cp437_8x8
+  0z-cntrl.txt:
+    font: cp437_8x8
+  bne!stat.txt:
+    font: cp437_8x8
+  (l)stat.txt:
+    font: cp437_8x8
+  (l)c0fi.txt:
+    font: cp437_8x8
+  bne!rks.txt:
+    font: cp437_8x8
+  0z-falln.txt:
+    font: cp437_8x8
+  bne!ra.txt:
+    font: cp437_8x8
+  hx-yule.txt:
+    font: cp437_8x8

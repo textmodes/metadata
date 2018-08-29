@@ -1,0 +1,66 @@
+---
+files:
+  t01-rn.asc:
+    font: topazplus-a1200
+    artist: tribe
+  t01-iua.asc:
+    font: topazplus-a1200
+    artist: tribe
+  po-krnk.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-kfak.asc:
+    font: topazplus-a1200
+    artist: pogue
+  t01-tjeb.asc:
+    font: topazplus-a1200
+    artist: tribe
+  ab-hive.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  us-ant.asc:
+    font: topazplus-a500
+    artist: hellbeard
+  po-reb.asc:
+    font: topazplus-a1200
+    artist: pogue
+  t01-hdlm.asc:
+    font: topazplus-a1200
+    artist: tribe
+  us-pouet.asc:
+    font: topazplus-a500
+    artist: acidbrain
+  eld!h_iv.asc:
+    font: topazplus-a1200
+    artist: elend
+  t01-mwod.asc:
+    font: topazplus-a1200
+    artist: tribe
+  ab-phix.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  us-cotm.asc:
+    font: topazplus-a500
+    artists:
+    - tribe
+    - hellbeard
+  xz-ant.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  file_id.diz:
+    font: topazplus-a500
+  t01-gdfi.asc:
+    font: topazplus-a1200
+    artist: tribe
+  ab-kcorp.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  po-grim.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-bi.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure48.inf:
+    font: topazplus-a500
+group: impure!ascii.1940

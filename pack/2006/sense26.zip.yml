@@ -1,0 +1,45 @@
+---
+files:
+  us-k143.ans:
+    artists:
+    - aesthetic
+    - knocturnal
+  us-supa.ans:
+    artists:
+    - aesthetic
+    - zerovision
+  zv_entr0.ans:
+    artist: zerovision
+  zv_nazgul.ans:
+    artist: zerovision
+  zv_xtc.ans:
+    artist: zerovision
+  m0_evoke.ans:
+    artist: m0lo
+  zv_sns.ans:
+    artist: zerovision
+  43-entr2.ans:
+    artist: aesthetic
+  us-bmsen.ans:
+    artists:
+    - avenging.angel
+    - aesthetic
+  avg-dist.ans:
+    artist: avenging.angel
+  us-dark1.ans:
+    artists:
+    - avenging.angel
+    - fusion
+  us-bm00.ans:
+    artists:
+    - avenging.angel
+    - aesthetic
+  us-ridge.ans:
+    artists:
+    - zerovision
+    - aesthetic
+  sense26.ans:
+    artists:
+    - fusion
+    - avenging.angel
+group: sense

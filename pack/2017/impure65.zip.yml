@@ -1,0 +1,32 @@
+---
+group: impure!ascii.1940
+
+files:
+  us-haci.ans:
+    artists:
+    - griskokare
+    - hellbeard
+  us-holi.ans:
+    artists:
+    - griskokare
+    - hellbeard
+
+# Default group member matches
+match:
+  +l*:    2o
+  ab-*:   acid brain
+  anst-*: anachronist
+  arl-*:  arlequin
+  grk-*:  griskokare
+  grx-*:  grmmxi
+  hx-*:   haliphax
+  iks-*:  irokos
+  jp!*:   jack phlash
+  ldn-*:  lord nikon
+  mz-*:   maze
+  po-*:   p0gue
+  pix-*:  pix
+  pmt-*:  prismate
+  vnm-*:  venam
+  x0-*:   xer0
+  xz-*:   hellbeard

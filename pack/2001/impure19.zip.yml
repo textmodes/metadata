@@ -1,0 +1,101 @@
+---
+files:
+  zi-abm.asc:
+    font: topazplus-a1200
+    artist: zimmer
+  us-york.asc:
+    font: topazplus-a500
+    artist: pogue
+  us-splk.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+  xz-tiihi.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  slo-inso.asc:
+    font: topazplus-a1200
+    artist: splonk
+  slo-memb.asc:
+    font: topazplus-a1200
+    artist: splonk
+  po-unila.txt:
+    font: topazplus-a1200
+    artist: pogue
+  file_id.diz:
+    font: topazplus-a500
+  bz-imp.asc:
+    font: topazplus-a1200
+    artist: blooz
+  us-ins.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  us-amiwz.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+  bz-atr.asc:
+    font: topazplus-a1200
+    artist: blooz
+  slo-ams.asc:
+    font: topazplus-a1200
+    artist: splonk
+  bz-bsod.asc:
+    font: topazplus-a1200
+    artist: blooz
+  us-impe.asc:
+    font: topazplus-a500
+    artists:
+    - dedchylde
+    - pogue
+  slo-ar.asc:
+    font: topazplus-a1200
+    artist: splonk
+  bz-envy.asc:
+    font: topazplus-a1200
+    artist: blooz
+  slo-arl.asc:
+    font: topazplus-a1200
+    artist: splonk
+  zi-jc.asc:
+    font: topazplus-a1200
+    artist: zimmer
+  slo-spun.asc:
+    font: topazplus-a1200
+    artist: splonk
+  impure19.inf:
+    font: topazplus-a500
+  po-excf.asc:
+    font: topazplus-a1200
+    artist: pogue
+  slo-news.asc:
+    font: topazplus-a1200
+    artist: splonk
+  po-sba.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure19.mem:
+    font: topazplus-a500
+  po-orang.asc:
+    font: topazplus-a1200
+    artist: pogue
+  xz-imp.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  po-imp40.asc:
+    font: topazplus-a1200
+    artist: pogue
+  slo-talo.asc:
+    font: topazplus-a1200
+    artist: splonk
+  slo-styl.asc:
+    font: topazplus-a1200
+    artist: splonk
+  slo-abs.txt:
+    font: topazplus-a1200
+    artist: splonk
+group: impure!ascii.1940

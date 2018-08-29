@@ -1,0 +1,66 @@
+---
+files:
+  wr-acd81.asc:
+    font: topaz-a1200
+  cl!-fks.ans:
+    artist: cleaner
+  tn-wktop.asc:
+    font: topaz-a1200
+  tn-rmrs3.asc:
+    font: topaz-a1200
+  ml-smoke.asc:
+    font: topaz-a1200
+  gwy-cat.asc:
+    font: topaz-a1200
+  ack-ugh1.asc:
+    font: topaz-a1200
+  sub-nbte.asc:
+    font: topaz-a1200
+    artist: subsonic
+  zh-thry.txt:
+    font: topaz-a1200
+  7do-adiz.txt:
+    font: topaz-a1200
+  r-mninea.asc:
+    font: topaz-a1200
+  sub-ktm.asc:
+    font: topaz-a1200
+    artist: subsonic
+  wkz-rms.asc:
+    font: topaz-a1200
+  gwy-acid.asc:
+    font: topaz-a1200
+  emk-e21.asc:
+    font: topaz-a1200
+    artist: emok
+  emk-r34.ans:
+    artist: emok
+  emk-mic.ans:
+    artist: emok
+  gwy-mix.asc:
+    font: topaz-a1200
+  us-mkod.asc:
+    font: topaz-a1200
+  gwy-simp.asc:
+    font: topaz-a1200
+  zh-riz.asc:
+    font: topaz-a1200
+  gwy-rv3.asc:
+    font: topaz-a1200
+  emk-str.ans:
+    artist: emok
+  gwy-ese.asc:
+    font: topaz-a1200
+  gwy-rmrs.asc:
+    font: topaz-a1200
+  emk-rm.asc:
+    font: topaz-a1200
+    artist: emok
+  emk-meo.ans:
+    artist: emok
+  sub-crea.asc:
+    font: topaz-a1200
+    artist: subsonic
+  emk-m.ans:
+    artist: emok
+group: remorse.1981

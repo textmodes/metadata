@@ -1,0 +1,43 @@
+---
+files:
+  jp-spnk.imp:
+    artist: jack.phlash
+  po!@phb2.imp:
+    artist: pogue
+  imp-mem.003:
+    artist: mystic.rage
+  bfr-suck.imp:
+    artist: befeater
+  po!@asyl.imp:
+    artist: pogue
+  esc-page.imp:
+    artist: esc
+  xz-crime.imp:
+    artist: hellbeard
+  po!@phb1.imp:
+    artist: pogue
+  po!@impv.imp:
+    artist: pogue
+  sg-spnk.imp:
+    artist: sagramore
+  mth-imp1.imp:
+    artist: methane
+  file_id.diz:
+    font: topazplus-a500
+  po!@imp1.imp:
+    artist: pogue
+  po!@imp3.imp:
+    artist: pogue
+  esc-lqid.imp:
+    artist: esc
+  po!@purg.imp:
+    artist: pogue
+  po!@tmag.imp:
+    artist: pogue
+  esc-pge2.imp:
+    artist: esc
+  impquest.003:
+    artists:
+    - pogue
+    - esc
+group: impure!ascii.1940

@@ -1,0 +1,43 @@
+---
+files:
+  chs2#j&p.ans:
+    artists:
+    - joykiller
+    - paz
+  cbs2#j&p.ans:
+    artists:
+    - joykiller
+    - paz
+  diov#j&p.ans:
+    artists:
+    - joykiller
+    - paz
+  log1#paz.ans:
+    artists:
+    - paz
+    - joykiller
+  chs1#joy.ans:
+    artist: joykiller
+  cool#joy.ans:
+    artist: joykiller
+  plx2#joy.ans:
+    artist: joykiller
+  byte#joy.ans:
+    artist: joykiller
+  amon#joy.ans:
+    artist: joykiller
+  vert#j&p.ans:
+    artists:
+    - joykiller
+    - paz
+  polx#j&p.ans:
+    artists:
+    - joykiller
+    - paz
+  frbw#j&p.ans:
+    artists:
+    - paz
+    - joykiller
+  nest#joy.ans:
+    artist: joykiller
+group: bytegarden

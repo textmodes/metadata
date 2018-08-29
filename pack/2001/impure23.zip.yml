@@ -1,0 +1,131 @@
+---
+files:
+  scr-logn.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-tpy.asc:
+    font: topazplus-a500
+    artist: scour
+  ab-pvmg.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  us-imp.asc:
+    font: topazplus-a500
+    artists:
+    - splonk
+    - acidbrain
+  scr-rmt.asc:
+    font: topazplus-a500
+    artist: scour
+  pix!pesh.asc:
+    font: topazplus-a500
+    artist: splonk
+  us-mdma.asc:
+    font: topazplus-a500
+    artists:
+    - splonk
+    - acidbrain
+  xz-retro.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  xz-blnd2.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  scr-gnus.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-sr.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-asgd.asc:
+    font: topazplus-a500
+    artist: scour
+  po-civ2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-rtr2.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-civ1.asc:
+    font: topazplus-a1200
+    artist: pogue
+  impure23.mem:
+    font: topazplus-a500
+  scr-eur.asc:
+    font: topazplus-a500
+    artist: scour
+  po-imp23.asc:
+    font: topazplus-a1200
+    artist: pogue
+  po-rtr1.asc:
+    font: topazplus-a1200
+    artist: pogue
+  pix!cms.asc:
+    font: topazplus-a500
+    artist: splonk
+  file_id.diz:
+    font: topazplus-a500
+  pix!mp.asc:
+    font: topazplus-a500
+    artist: splonk
+  xz-news.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  impure23.inf:
+    font: topazplus-a500
+  ab-pla.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  xz-imp1.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  us-isha.asc:
+    font: topazplus-a500
+    artists:
+    - splonk
+    - acidbrain
+  po-civ3.asc:
+    font: topazplus-a1200
+    artist: pogue
+  pix!mari.asc:
+    font: topazplus-a500
+    artist: splonk
+  xz-rules.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  scr-stmn.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-abrn.asc:
+    font: topazplus-a500
+    artist: scour
+  scr-pr2.asc:
+    font: topazplus-a500
+    artist: scour
+  po-zenit.asc:
+    font: topazplus-a1200
+    artist: pogue
+  scr-dwil.asc:
+    font: topazplus-a500
+    artist: scour
+  us-lw.asc:
+    font: topazplus-a500
+    artists:
+    - scour
+    - pogue
+  ab-impf.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+  po-fukd.asc:
+    font: topazplus-a1200
+    artist: pogue
+  scr-esd.asc:
+    font: topazplus-a500
+    artist: scour
+  xz-blind.asc:
+    font: topazplus-a1200
+    artist: hellbeard
+  ab-gndl.asc:
+    font: topazplus-a1200
+    artist: acid.burn
+group: impure!ascii.1940

@@ -1,0 +1,21 @@
+---
+files:
+  qs-ck.ans:
+    artist: quasar
+  qs-cirr.ans:
+    artist: quasar
+  qs-bad.ans:
+    artist: quasar
+  qs-sh.ans:
+    artist: quasar
+  qs-vod.ans:
+    artist: quasar
+  qs-insom.ans:
+    artist: quasar
+  qs-inner.ans:
+    artist: quasar
+  qs-logic.ans:
+    artist: quasar
+  qs-t^z.ans:
+    artist: quasar
+group: motion.graphix

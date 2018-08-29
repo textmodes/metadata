@@ -1,0 +1,59 @@
+---
+files:
+  zh-unity.asc:
+    font: topaz-a1200
+  gwy-asp1.asc:
+    font: topaz-a1200
+  er-cotv.asc:
+    font: topaz-a1200
+  sy-orgn.asc:
+    font: topaz-a1200
+  cm-acid.asc:
+    font: topaz-a1200
+    artist: cmang
+  sp-nick.asc:
+    font: topaz-a1200
+    artist: spinsane
+  pl-milan.asc:
+    font: topaz-a1200
+  er-remo.asc:
+    font: topaz-a1200
+  er-forea.asc:
+    font: topaz-a1200
+  gwy-riot.asc:
+    font: topaz-a1200
+  deceit.txt:
+    font: topaz-a1200
+  gwy-mmc.asc:
+    font: topaz-a1200
+  cn-blue.asc:
+    font: topaz-a1200
+  e-double.txt:
+    font: topaz-a1200
+  zh-face.asc:
+    font: topaz-a1200
+  r-ocks.txt:
+    font: topaz-a1200
+  zh-rmrs.asc:
+    font: topaz-a1200
+  er-tefl.asc:
+    font: topaz-a1200
+  gwy-mnu.asc:
+    font: topaz-a1200
+  er-discd.asc:
+    font: topaz-a1200
+  tum-acdn.asc:
+    font: topaz-a1200
+  sp-acdiz.asc:
+    font: topaz-a1200
+    artist: spinsane
+  cn-of81.asc:
+    font: topaz-a1200
+  bds-fcuk.txt:
+    font: topaz-a1200
+  sp-k00ma.asc:
+    font: topaz-a1200
+    artist: spinsane
+  log.txt:
+    font: topaz-a1200
+group: remorse.1981

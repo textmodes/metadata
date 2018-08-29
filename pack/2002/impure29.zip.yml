@@ -1,0 +1,154 @@
+---
+files:
+  scr-sclr.asc:
+    font: topazplus-a500
+    artist: scour
+  ozz-sk!.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ozz-fed2.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  us-lsd.asc:
+    font: topazplus-a500
+    artists:
+    - ozzeth
+    - splonk
+  ozz-eld.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-pod.txt:
+    font: topazplus-a1200
+    artist: elend
+  po-twsd.asc:
+    font: topazplus-a1200
+    artist: pogue
+  pix-incu.asc:
+    font: topazplus-a1200
+    artist: splonk
+  scr-twis.asc:
+    font: topazplus-a500
+    artist: scour
+  ozz-fed1.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-imp.txt:
+    font: topazplus-a1200
+    artist: elend
+  ozz-nois.txt:
+    font: topazplus-a500
+    artist: ozzeth
+  pix-po.asc:
+    font: topazplus-a1200
+    artist: splonk
+  scr-hrz.asc:
+    font: topazplus-a500
+    artist: scour
+  eld!-hir.txt:
+    font: topazplus-a1200
+    artist: elend
+  us-imp1.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+    - ozzeth
+  eld!-n1.txt:
+    font: topazplus-a1200
+    artist: elend
+  pix-wnd.asc:
+    font: topazplus-a1200
+    artist: splonk
+  impure29.inf:
+    font: topazplus-a500
+  ozz-ami.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  file_id.diz:
+    font: topazplus-a500
+  po-noise.asc:
+    font: topazplus-a1200
+    artist: pogue
+  ozz-wide.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  scr-twsd.asc:
+    font: topazplus-a500
+    artist: scour
+  us-impu5.asc:
+    font: topazplus-a500
+    artists:
+    - ozzeth
+    - splonk
+    - pogue
+  eld!-ptp.txt:
+    font: topazplus-a1200
+    artist: elend
+  us-oldsk.asc:
+    font: topazplus-a500
+    artists:
+    - ozzeth
+    - pogue
+  ozz-abst.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ozz-mica.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-rob.txt:
+    font: topazplus-a1200
+    artist: elend
+  ab-imp.asc:
+    font: topazplus-a1200
+    artist: acidbrain
+  impure29.mem:
+    font: topazplus-a500
+  po-pira.asc:
+    font: topazplus-a1200
+    artist: pogue
+  us-imp2.asc:
+    font: topazplus-a500
+    artists:
+    - pogue
+    - hellbeard
+    - ozzeth
+  ozz-muak.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  ozz-bio1.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  sk!impst.asc:
+    font: topazplus-a1200
+    artist: simonking
+  pix-fd.asc:
+    font: topazplus-a1200
+    artist: splonk
+  us-silen.asc:
+    font: topazplus-a500
+    artists:
+    - ozzeth
+    - scour
+  jp-hb4.asc:
+    font: topazplus-a1200
+    artist: jack.phlash
+  pix-assi.asc:
+    font: topazplus-a1200
+    artist: splonk
+  us-imp3.asc:
+    font: topazplus-a500
+    artists:
+    - hellbeard
+    - pogue
+    - ozzeth
+    - ozzeth
+  ozz-mstp.asc:
+    font: topazplus-a500
+    artist: ozzeth
+  eld!-sti.txt:
+    font: topazplus-a1200
+    artist: elend
+  scr-imp.asc:
+    font: topazplus-a500
+    artist: scour
+group: impure!ascii.1940

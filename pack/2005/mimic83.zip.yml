@@ -1,0 +1,55 @@
+---
+files:
+  roo-budg.asc:
+    font: topazplus-a500
+    artist: roodoplh
+  m-chd.asc:
+    font: topazplus-a500
+    artists:
+    - h7
+    - c-jeff
+  jn-ba4.ans:
+    artist: jashiin
+  bjasc278.ans:
+    artist: black.jack
+  rm-keede.asc:
+    font: topazplus-a500
+    artist: ricky.martin
+  h7-kiwi.txt:
+    font: topazplus-a500
+    artist: h7
+  jn-diag.asc:
+    artist: jashiin
+  h7-trnbb.ans:
+    artist: h7
+  jn-newt.ans:
+    artist: jashiin
+  h7-soa4.asc:
+    artist: h7
+  43tfmmc.asc:
+    artists:
+    - aesthetic
+    - twofoot
+  k!alekkk.asc:
+    artist: keetar
+  h7-s05.txt:
+    font: topazplus-a500
+    artist: h7
+  mkk-0_o.ans:
+    artist: steve
+  m0-mmc2.ans:
+    artist: m0lo
+  jn-blobs.ans:
+    artist: jashiin
+  join.txt:
+    artist: black.jack
+  h7-wamma.asc:
+    artist: h7
+  jn-ag7.ans:
+    artist: jashiin
+  bjasc279.ans:
+    artist: black.jack
+  jn-afs9.txt:
+    font: topazplus-a500
+    artist: jashiin
+group: mimic

@@ -1,0 +1,67 @@
+---
+files:
+  bw_pen.ans:
+    artist: binary.walker
+  u3-pod.ans:
+    artist: unseen.fate
+  tf-pen15.asc:
+    artist: twofoot
+  rm-mi06.asc:
+    artist: rm
+  t01-atoy.asc:
+    artist: tribe
+  rm-jml.asc:
+    artist: rm
+  us_rad.asc:
+    artists:
+    - asphyx
+    - binary.walker
+  bw_anger.asc:
+    artist: binary.walker
+  bw_hal1.asc:
+    artist: binary.walker
+  bw-jml.asc:
+    artist: binary.walker
+  us-hal2.asc:
+    artists:
+    - binary.walker
+    - unseen.fate
+  us-venom.ans:
+    artists:
+    - unseen.fate
+    - binary.walker
+  t01-wizm.asc:
+    artist: tribe
+  us-abn.ans:
+    artists:
+    - binary.walker
+    - unseen.fate
+  bw_old.ans:
+    artist: binary.walker
+  tf-guest.asc:
+    artist: twofoot
+  an-noppa.txt:
+    artist: annie
+  bw_sci.asc:
+    artist: binary.walker
+  bw_agi.ans:
+    artist: binary.walker
+  bw_rdm.asc:
+    artist: binary.walker
+  an-hotst.txt:
+    artist: annie
+  bw_face.asc:
+    artist: binary.walker
+  bw_is.asc:
+    artist: binary.walker
+  bw_mimic.asc:
+    artist: binary.walker
+  dd-ugly.txt:
+    artist: diamondie
+  bw_zom.asc:
+    artist: binary.walker
+  bw_bw.asc:
+    artist: binary.walker
+  bw_lost.asc:
+    artist: binary.walker
+group: pen15

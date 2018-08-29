@@ -1,0 +1,33 @@
+---
+files:
+  lum-ol.ans:
+    artist: luminator
+  fe-soda.ans:
+    artist: funk-e
+  lum-inc.ans:
+    artist: luminator
+  us-b2k01.ans:
+    artists:
+    - funk-e
+    - luminator
+  pg-kane.ans:
+    artist: polygoon
+  lum-boy.ans:
+    artist: luminator
+  _ph-anal.ans:
+    artist: photek
+  "us-caf\xC9.ans":
+    artists:
+    - polygoon
+    - polygoon
+    - funk-e
+    - luminator
+  _ph-ice.ans:
+    artist: photek
+  lum-sea.ans:
+    artist: luminator
+  lum-real.ans:
+    artist: luminator
+  fe-col2.ans:
+    artist: funk-e
+group: sodapop

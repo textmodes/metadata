@@ -1,0 +1,93 @@
+---
+files:
+  k1no-dan.ans:
+    artists:
+    - knocturnal
+    - noches
+  us-tundr.ans:
+    artists:
+    - noches
+    - maytag
+  ave-dan1.ans:
+    artist: avenger
+  us-sam.ans:
+    artists:
+    - unseen.fate
+    - noches
+  may-prev.ans:
+    artists:
+    - maytag
+    - avenging.angel
+    - noches
+  us-zone.ans:
+    artists:
+    - knocturnal
+    - noches
+  no-k1.ans:
+    artist: noches
+  no-login.ans:
+    artist: noches
+  t01-milk.txt:
+    font: topaz-a1200
+    artist: tribe
+  no-evo.ans:
+    artist: noches
+  jn-d004.asc:
+    artist: jashiin
+  dip-equi.asc:
+    font: topaz-a1200
+    artist: dipswitch
+  jn-d003.asc:
+    artist: jashiin
+  us-abs.ans:
+    artists:
+    - noches
+    - luminator
+  us-dan1.ans:
+    artists:
+    - discyple
+    - lame
+  us-kafe.ans:
+    artists:
+    - noches
+    - knocturnal
+    - luciano
+  t01-dano.txt:
+    font: topaz-a1200
+    artist: tribe
+  no-003.txt:
+    font: topaz-a1200
+    artist: noches
+  pn-xxxxx.ans:
+    artist: ponk1
+  us-crisi.ans:
+    artists:
+    - smoke
+    - knocturnal
+    - noches
+  may-head.rmx:
+    artist: maytag
+  may-n1n.ans:
+    artists:
+    - maytag
+    - noches
+  rm-danon.txt:
+    font: topaz-a1200
+    artist: rm
+  ba-tundr.ans:
+    artist: mark.baurett
+  us-sens1.ans:
+    artists:
+    - noches
+    - smoke
+  no-003.asc:
+    artist: noches
+  brm-kndy.asc:
+    artist: barium
+  ba-eodek.ans:
+    artist: mark.baurett
+  us-danon.ans:
+    artists:
+    - jashiin
+    - phz
+group: danone

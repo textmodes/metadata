@@ -1,0 +1,65 @@
+---
+files:
+  no-heade.ans:
+    artist: noches
+  zs-fish.ans:
+    artist: zerostar
+  no-dione.txt:
+    font: topaz-a1200
+    artist: noches
+  dwf-dan.asc:
+    font: topaz-a1200
+    artist: dwarf
+  phz-kipz.asc:
+    artist: phz
+  no-coll3.ans:
+    artist: noches
+  no-sdv.txt:
+    font: topaz-a1200
+    artist: noches
+  t01-dan.txt:
+    font: topaz-a1200
+    artist: tribe
+  danone.org:
+    font: topaz-a1200
+    artist: noches
+  no-pwaci.asc:
+    artist: noches
+  phz-an1.asc:
+    artist: phz
+  no-apack.txt:
+    font: topaz-a1200
+    artist: noches
+  no-aal.asc:
+    artist: noches
+  phz-with.asc:
+    artist: phz
+  no-these.txt:
+    font: topaz-a1200
+    artist: noches
+  file_id.diz:
+    artist: noches
+  phz-zero.asc:
+    artist: phz
+  no-addic.asc:
+    artist: noches
+  phz-om.asc:
+    artist: phz
+  no-think.asc:
+    artist: noches
+  ave-dano.asc:
+    font: topaz-a1200
+    artist: avenger
+  dwf-rdm.asc:
+    font: topaz-a1200
+    artist: dwarf
+  no-acid.txt:
+    artist: noches
+  phz-d1ne.txt:
+    font: topaz-a1200
+    artist: phz
+  no-anoni.ans:
+    artist: noches
+  no-anon1.ans:
+    artist: noches
+group: danone

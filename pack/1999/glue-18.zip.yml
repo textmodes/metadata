@@ -1,0 +1,19 @@
+---
+files:
+  smp-glue.ans:
+    artist: shrimp
+  qp-glue2.ans:
+    artist: quip
+  smp-hdnc.ans:
+    artist: shrimp
+  smp-lad.ans:
+    artist: shrimp
+  22-glue3.ans:
+    artist: catch22
+  smp-void.ans:
+    artist: shrimp
+  22-col9.ans:
+    artist: catch22
+  22-clock.ans:
+    artist: catch22
+group: glue

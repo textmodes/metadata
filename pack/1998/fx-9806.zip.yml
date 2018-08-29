@@ -1,0 +1,13 @@
+---
+files:
+  qp-fire2.ans:
+    artist: quip
+  qp-drone.ans:
+    artist: quip
+  qp-sf2.ans:
+    artist: quip
+  qp-drat.ans:
+    artist: quip
+  qp-force.ans:
+    artist: quip
+group: function

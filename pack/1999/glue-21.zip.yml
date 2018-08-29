@@ -1,0 +1,29 @@
+---
+files:
+  zv-art.ans:
+    artist: zerovision
+  e0-bk#2.ans:
+    artist: luciano
+  zv-endor.ans:
+    artist: zerovision
+  22-hdr.ans:
+    artist: catch22
+  zv-kibos.ans:
+    artist: zerovision
+  22-donno.ans:
+    artist: catch22
+  zv-dirt.ans:
+    artist: zerovision
+  zv-fl.ans:
+    artist: zerovision
+  smp-znd2.ans:
+    artist: shrimp
+  zv-ghost.ans:
+    artist: zerovision
+  smp-drm.ans:
+    artist: shrimp
+  smp-zand.ans:
+    artist: shrimp
+  zv-amend.ans:
+    artist: zerovision
+group: glue

@@ -1,0 +1,39 @@
+---
+files:
+  $h-gal08.ans:
+    artist: shinigami
+  $h-poem4.ans:
+    artist: shinigami
+  quake06.jpg:
+    artist: shinigami
+  $h-wui.ans:
+    artist: shinigami
+  $h-gun01.ans:
+    artist: shinigami
+  burning.ans:
+    artist: widowmaker
+  $h-cyber.ans:
+    artist: shinigami
+  $h-pain2.ans:
+    artist: shinigami
+  tz-pat3.ans:
+    artist: typezero
+  $h-gal07.ans:
+    artist: shinigami
+  file_id.diz:
+    artist: shinigami
+  tz&mv_2.ans:
+    artists:
+    - typezero
+    - maverick
+  $h-sting.mdz:
+    artist: shinigami
+  $h-pain1.ans:
+    artist: shinigami
+  $h-frank.ans:
+    artist: shinigami
+  $h-pain3.ans:
+    artist: shinigami
+  $h-x_art.ans:
+    artist: shinigami
+group: axxs

@@ -1,0 +1,11 @@
+---
+files:
+  zip-news.ans:
+    artist: zippy
+  zip-page.ans:
+    artist: zippy
+  zip-fast.ans:
+    artist: zippy
+  zip-frbo.ans:
+    artist: zippy
+group: circe

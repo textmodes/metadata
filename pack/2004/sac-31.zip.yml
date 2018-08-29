@@ -1,0 +1,223 @@
+---
+files:
+  eb-logo.jpg:
+    artist: eboy
+  eb-pid.jpg:
+    artist: eboy
+  w0-tickt.asc:
+    artist: webpige0
+  asx-sven.txt:
+    artist: asphyx
+  nr-racea.asc:
+    artist: nerv
+  don-nbe.asc:
+    artist: don
+  nr-cotu.asc:
+    artist: nerv
+  nr-flipx.ans:
+    artist: nerv
+  w0-lulek.asc:
+    artist: webpige0
+  w0-ssg.asc:
+    artist: webpige0
+  w0-jumalauta.png:
+    artist: webpige0
+  cdr-respects.asc:
+    artist: crusader
+  asx-svn2.txt:
+    artist: asphyx
+  w0-f-onl.asc:
+    artist: webpige0
+  cdr-fox.nfo:
+    artist: crusader
+  scr-ages.nfo:
+    font: topazplus-a500
+    artist: scour
+  pdz-w0.txt:
+    artists:
+    - webpige0
+    - podsi
+  w0-jwk.png:
+    artist: webpige0
+  nr-bubu.asc:
+    artist: nerv
+  pdz-idvd.txt:
+    artist: podsi
+  cdr-elemental.asc:
+    artist: crusader
+  cdr-death01.asc:
+    artist: crusader
+  scr-rmdy.diz:
+    font: topazplus-a500
+    artist: scour
+  cdr-race.asc:
+    artist: crusader
+  don-dtt.asc:
+    artist: don
+  w0-f-lgf.asc:
+    artist: webpige0
+  w0-bbloo.asc:
+    artist: webpige0
+  cdr-pain.asc:
+    artist: crusader
+  nr-reloa.asc:
+    artist: nerv
+  asx-rgw.txt:
+    artist: asphyx
+  w0-rpdvd.asc:
+    artist: webpige0
+  w0-v0dka.asc:
+    artist: webpige0
+  w0-nfo.ans:
+    artist: webpige0
+  nr-alias.asc:
+    artist: nerv
+  nr-rip.png:
+    artist: nerv
+  w0-dimag.asc:
+    artist: webpige0
+  pdz-baz.txt:
+    artist: podsi
+  w0-coldice.png:
+    artist: webpige0
+  scr-rmdy.nfo:
+    font: topazplus-a500
+    artist: scour
+  don-rba.asc:
+    artist: don
+  w0-deviance.png:
+    artist: webpige0
+  w0-guaqua.png:
+    artist: webpige0
+  cdr-belly.asc:
+    artist: crusader
+  cdr-chemical.asc:
+    artist: crusader
+  cdr-switch.asc:
+    artist: crusader
+  w0-f-rls.asc:
+    artist: webpige0
+  don-swav.asc:
+    artist: don
+  w0-rpd.asc:
+    artist: webpige0
+  scr-dagger.nfo:
+    font: topazplus-a500
+    artist: scour
+  w0-shock_1.png:
+    artist: webpige0
+  w0-a51.asc:
+    artist: webpige0
+  w0-mmdox.asc:
+    artist: webpige0
+  don-rip.asc:
+    artist: don
+  scr-bofh.nfo:
+    font: topazplus-a500
+    artist: scour
+  nr-phoen.asc:
+    artist: nerv
+  w0-sfk.png:
+    artist: webpige0
+  w0-svenzzon_chippie.png:
+    artist: webpige0
+  w0-fluid.asc:
+    artist: webpige0
+  w0-vrtgo.asc:
+    artist: webpige0
+  w0-sdk.png:
+    artist: webpige0
+  scr-tda.nfo:
+    font: topazplus-a500
+    artist: scour
+  w0-izm.asc:
+    artist: webpige0
+  eb-again.jpg:
+    artist: eboy
+  asx-cruc.png:
+    artist: asphyx
+  don-cowh.asc:
+    artist: don
+  w0-tipu.asc:
+    artist: webpige0
+  w0-a51-f.asc:
+    artist: webpige0
+  w0-dvdon.asc:
+    artist: webpige0
+  nr-mars.asc:
+    artist: nerv
+  w0-nstnt.asc:
+    artist: webpige0
+  dip-ev04.txt:
+    artist: dipswitch
+  cdr-death02.asc:
+    artist: crusader
+  don-che.asc:
+    artist: don
+  cdr-elite.asc:
+    artist: crusader
+  dip-muzz.txt:
+    artist: dipswitch
+  cdr-nikru.asc:
+    artist: crusader
+  eb-sin.jpg:
+    artist: eboy
+  don-cum.asc:
+    artist: don
+  w0-evlrb.asc:
+    artist: webpige0
+  nr-delice.png:
+    artist: nerv
+  w0-junkie.png:
+    artist: webpige0
+  don-blak.asc:
+    artist: don
+  w0-mtr.asc:
+    artist: webpige0
+  scr-egc.nfo:
+    font: topazplus-a500
+    artist: scour
+  w0-doctrine_intro.png:
+    artist: webpige0
+  w0-svenzzon.png:
+    artist: webpige0
+  w0-chau.ans:
+    artist: webpige0
+  scr-w0.asc:
+    font: topazplus-a500
+    artist: scour
+  w0-kfnu.asc:
+    artist: webpige0
+  w0-bofh.asc:
+    artist: webpige0
+  pdz-sf.txt:
+    artist: podsi
+  w0-siso.asc:
+    artist: webpige0
+  cdr-remorse.asc:
+    artist: crusader
+  eb-shklg.jpg:
+    artist: eboy
+  w0-accsn.asc:
+    artist: webpige0
+  cdr-oilers.asc:
+    artist: crusader
+  pdz-kil.txt:
+    artist: podsi
+  nr-porto.asc:
+    artist: nerv
+  w0-shock_2.png:
+    artist: webpige0
+  w0-f.asc:
+    artist: webpige0
+  don-gnt.asc:
+    artist: don
+  cdr-ricochet.nfo:
+    artist: crusader
+  don-sac.asc:
+    artist: don
+  pdz-saf.txt:
+    artist: podsi
+  w0-balls.asc:
+    artist: webpige0
+group: superior.art.creations

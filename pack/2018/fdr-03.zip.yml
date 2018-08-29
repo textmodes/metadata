@@ -1,0 +1,33 @@
+---
+files:
+  syl-fdr3.ans:
+    artist: sylvao
+  syl-ev20.ans:
+    artist: sylvao
+  syl-targ.ans:
+    artist: sylvao
+  syl-flop.ans:
+    artist: sylvao
+  us-syna.ans:
+    artists:
+    - sylvao
+    - cleaner
+  syl-farm.ans:
+    artist: sylvao
+  syl-cube.ans:
+    artist: sylvao
+  syl-8btf.ans:
+    artist: sylvao
+  cl!-al07.ans:
+    artist: cleaner
+  syl-cdk1.ans:
+    artist: sylvao
+  us-nttr.ans:
+    artists:
+    - sylvao
+    - cleaner
+  syl-koal.ans:
+    artist: sylvao
+  cl!-fdr2.ans:
+    artist: cleaner
+group: fire.dream

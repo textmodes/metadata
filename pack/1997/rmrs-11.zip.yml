@@ -1,0 +1,117 @@
+---
+files:
+  ack-dec1.asc:
+    font: topaz-a1200
+  ack-jam1.asc:
+    font: topaz-a1200
+  ack-cgn1.asc:
+    font: topaz-a1200
+  rev-code.asc:
+    font: topaz-a1200
+  ack-hep1.asc:
+    font: topaz-a1200
+  rev-news.asc:
+    font: topaz-a1200
+  gdr-icb2.asc:
+    font: topaz-a1200
+  m!-yeah.asc:
+    font: topaz-a1200
+  sp-nord.asc:
+    font: topaz-a1200
+    artist: spinsane
+  tm-dtx.asc:
+    font: topaz-a1200
+  ack-ty1.asc:
+    font: topaz-a1200
+  rev-blck.asc:
+    font: topaz-a1200
+  ack-gs1.asc:
+    font: topaz-a1200
+  ack-imp1.asc:
+    font: topaz-a1200
+  li-0597.asc:
+    font: topaz-a1200
+  sp-rmrs1.asc:
+    font: topaz-a1200
+    artist: spinsane
+  spr-rms2.asc:
+    font: topaz-a1200
+  nm-rmrs.asc:
+    font: topaz-a1200
+    artist: necromancer
+  r-11hour.txt:
+    font: topaz-a1200
+  nm-vtx.asc:
+    font: topaz-a1200
+    artist: necromancer
+  ack-asp1.asc:
+    font: topaz-a1200
+  nm-mrch.asc:
+    font: topaz-a1200
+    artist: necromancer
+  c4-basic.asc:
+    font: topaz-a1200
+    artist: cannabis
+  nm-mid.asc:
+    font: topaz-a1200
+    artist: necromancer
+  r-future.txt:
+    font: topaz-a1200
+  ack-lig1.asc:
+    font: topaz-a1200
+  sp-hari.asc:
+    font: topaz-a1200
+    artist: spinsane
+  wr-rmrs.txt:
+    font: topaz-a1200
+  nm-vor.asc:
+    font: topaz-a1200
+    artist: necromancer
+  nm-singe.asc:
+    font: topaz-a1200
+    artist: necromancer
+  sp-chape.asc:
+    font: topaz-a1200
+    artist: spinsane
+  jh-rmrs.asc:
+    font: topaz-a1200
+  r-itc.txt:
+    font: topaz-a1200
+  ack-flu1.asc:
+    font: topaz-a1200
+  r-drd.txt:
+    font: topaz-a1200
+  gdr-mos.asc:
+    font: topaz-a1200
+  r-mhztld.txt:
+    font: topaz-a1200
+  ack-jh1.asc:
+    font: topaz-a1200
+  ack-flu2.asc:
+    font: topaz-a1200
+  ack-phs1.asc:
+    font: topaz-a1200
+  enig-rm.asc:
+    font: topaz-a1200
+  sp-melle.asc:
+    font: topaz-a1200
+    artist: spinsane
+  sp-peyot.asc:
+    font: topaz-a1200
+    artist: spinsane
+  md-mobz.asc:
+    font: topaz-a1200
+  ack-non1.asc:
+    font: topaz-a1200
+  ack-car1.asc:
+    font: topaz-a1200
+  jak-int.asc:
+    font: topaz-a1200
+  spr-rmrs.asc:
+    font: topaz-a1200
+  mt-non.asc:
+    font: topaz-a1200
+    artist: martz
+  pb-beynd.asc:
+    font: topaz-a1200
+group: remorse.1981

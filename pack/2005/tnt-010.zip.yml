@@ -1,0 +1,57 @@
+---
+files:
+  mkk-rmix.ans:
+    artist: mekanik
+  n4-bthur.ans:
+    artist: sodium
+  zv-tired.ans:
+    artist: zerovision
+  sp-kia.ans:
+    artist: skypager
+  u3-betho.ans:
+    font: cp437-8x8
+    artist: unseen.fate
+  mkk-maxx.ans:
+    artist: mekanik
+  us-switch.ans:
+    artists:
+    - aesthetic
+    - skypager
+    - zerovision
+  zv-venom.ans:
+    artist: zerovision
+  us-bzr.ans:
+    artists:
+    - knocturnal
+    - skypager
+  us-tnt10.ans:
+    artists:
+    - avenging.angel
+    - zerovision
+  n4-gtrmx.ans:
+    artist: sodium
+  zv-htc.ans:
+    artist: zerovision
+  thelast.ans:
+    artist: aesthetic
+  f543-bye.ans:
+    artists:
+    - fusion
+    - aesthetic
+  us-byusfuku.ans:
+    artists:
+    - zerovision
+    - skypager
+    - mekanik
+  us-last.ans:
+    artists:
+    - fusion
+    - mekanik
+    - skypager
+    - zerovision
+    - grymmjack
+  zv-h3ll.ans:
+    artist: zerovision
+  zv-tower.ans:
+    artist: zerovision
+group: the.next.testament

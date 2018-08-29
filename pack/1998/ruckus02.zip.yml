@@ -1,0 +1,102 @@
+---
+files:
+  0z-cncpt.txt:
+    font: cp437_8x8
+  er-ruck.txt:
+    font: cp437_8x8
+  us-local.txt:
+    font: cp437_8x8
+  id-vault.txt:
+    font: cp437_8x8
+  tl-satir.txt:
+    font: cp437_8x8
+  mt-massd.txt:
+    font: cp437_8x8
+  0z-ruckd.txt:
+    font: cp437_8x8
+  ripper!.ans:
+    font: cp437_8x8
+  hx-nl.asc:
+    font: topazplus-a500
+  tmj-rkus.txt:
+    font: cp437_8x8
+  bne!dst2.asc:
+    font: topazplus_a500
+  hx-rks2.asc:
+    font: cp437_8x8
+  (l)moen.asc:
+    font: cp437_8x8
+  td-rocku.txt:
+    font: cp437_8x8
+  hx-fuqu.asc:
+    font: cp437_8x8
+  tn-rucks.txt:
+    font: cp437_8x8
+  df-onel.asc:
+    font: cp437_8x8
+  0z-curse.asc:
+    font: cp437_8x8
+  tk-rks.txt:
+    font: cp437_8x8
+  0z-kwest.txt:
+    font: cp437_8x8
+  id-cbria.txt:
+    font: cp437_8x8
+  id-mfr.txt:
+    font: cp437_8x8
+  us-spoof.asc:
+    font: cp437_8x8
+  de-hole.asc:
+    font: cp437_8x16
+  ac-sick.asc:
+    font: cp437_8x8
+  hx-thc.asc:
+    font: cp437_8x8
+  us-gloom.asc:
+    font: cp437_8x8
+  file_id.diz:
+    font: cp437_8x8
+  ac-users.asc:
+    font: cp437_8x8
+  bne!ptl.asc:
+    font: cp437_8x8
+  ac-kwest.asc:
+    font: cp437_8x8
+  tl-empir.txt:
+    font: cp437_8x8
+  bne!dust.asc:
+    font: topazplus_a500
+  tl-toil.asc:
+    font: cp437_8x8
+  df-thc.asc:
+    font: cp437_8x8
+  hx-hroin.asc:
+    font: cp437_8x16
+  hx-statc.asc:
+    font: cp437_8x8
+  tl-rucks.asc:
+    font: cp437_8x8
+  df-clean.asc:
+    font: cp437_8x8
+  ac-wiggr.asc:
+    font: cp437_8x8
+  ruckus02.mem:
+    font: cp437_8x8
+  ac-acid.asc:
+    font: cp437_8x8
+  id-stats.txt:
+    font: cp437_8x8
+  id-rks04.txt:
+    font: cp437_8x8
+  us-sick.asc:
+    font: cp437_8x8
+  hx-rks.asc:
+    font: cp437_8x16
+  tn-imma.txt:
+    font: cp437_8x8
+  hx-com.asc:
+    font: cp437_8x8
+  0z-rksfo.txt:
+    font: cp437_8x8
+  tl-thc.asc:
+    font: cp437_8x8

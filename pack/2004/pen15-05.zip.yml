@@ -1,0 +1,76 @@
+---
+files:
+  hx-sink.asc:
+    font: topazplus-a500
+    artist: haliphax
+  jn-pen15.asc:
+    artist: jashiin
+  u3-abs2.ans:
+    artist: unseen.fate
+  rm-uslz.asc:
+    artist: rm
+  rm-ereet.asc:
+    artist: rm
+  u3-hnk.ans:
+    artist: unseen.fate
+  t01-gp.asc:
+    artist: tribe
+  hx-oneln.ans:
+    font: topazplus-a500
+    artist: haliphax
+  hx-can3.ans:
+    font: cp437_8x16
+    artist: haliphax
+  hx-k!s.ans:
+    font: cp437_8x16
+    artist: haliphax
+  hx-mconf.ans:
+    font: topazplus-a500
+    artist: haliphax
+  u3-polta.ans:
+    artist: unseen.fate
+  u3-fpc.ans:
+    artist: unseen.fate
+  u3-p15.asc:
+    artist: unseen.fate
+  rm-mak.asc:
+    artist: rm
+  hx-tribe.asc:
+    font: topazplus-a500
+    artist: haliphax
+  u3-ale.ans:
+    artist: unseen.fate
+  hx-t7.asc:
+    font: topazplus-a500
+    artist: haliphax
+  u3-wew.ans:
+    artist: unseen.fate
+  hx-annl2.ans:
+    font: topazplus-a500
+    artist: haliphax
+  hx-mimic.ans:
+    font: topazplus-a500
+    artist: haliphax
+  u3-main.ans:
+    artist: unseen.fate
+  u3-phs.ans:
+    artist: unseen.fate
+  u3-abz.ans:
+    artist: unseen.fate
+  hx-mconf.asc:
+    font: topazplus-a500
+    artist: haliphax
+  xz-dig.asc:
+    artist: hellbeard
+  hx-fbase.ans:
+    font: topazplus-a500
+    artist: haliphax
+  drj-pen15.ans:
+    artist: ddrj
+  hx-regen.ans:
+    font: topazplus-a500
+    artist: haliphax
+  hx-annel.ans:
+    font: topazplus-a500
+    artist: haliphax
+group: pen15

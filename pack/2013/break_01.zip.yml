@@ -1,0 +1,120 @@
+---
+files:
+  h7-assembly2012.txt:
+    artist: h7
+  hx-break.ans:
+    font: topazplus-a500
+    artist: haliphax
+  jp!ncrmx.asc:
+    artist: jack.phlash
+  h7-molemanlogo.txt:
+    artist: h7
+  cl!-aren.ans:
+    artist: cleaner
+  jp!blfl1.asc:
+    artist: jack.phlash
+  tcf-007.ans:
+    artist: the.creep.fever
+  h7-assembly2013.txt:
+    artist: h7
+  h7-paradiseplanetearth.txt:
+    artist: h7
+  del_break.ans:
+    artist: blocktronics
+  jp!blfl2.ans:
+    artist: jack.phlash
+  cl!-mimc.ans:
+    artist: cleaner
+  jp!xtrm3.ans:
+    artist: jack.phlash
+  h7-mfxinfo.txt:
+    artist: h7
+  hx-spear.ans:
+    font: topazplus-a500
+    artist: haliphax
+  h7-randomlogos.txt:
+    artist: h7
+  jp!htwo1.ans:
+    artist: jack.phlash
+  jp!xmnu2.ans:
+    artist: jack.phlash
+  bw_animals_club.asc:
+    artist: binary.walker
+  h7-endoftheworldresults.txt:
+    artist: h7
+  no-bcoll1.asc:
+    artist: noches
+  jp!dhrmx.asc:
+    artist: jack.phlash
+  zo-bpod.ans:
+    artist: luciano
+  cl!-go.ans:
+    artist: cleaner
+  file_id.diz:
+    font: topazplus-a500
+  jp!clth1.ans:
+    artist: jack.phlash
+  jp!xtrm1.ans:
+    artist: jack.phlash
+  k1-piran.ans:
+    artist: knocturnal
+  h7-revisioninfo.txt:
+    artist: h7
+  cl!-brk.ans:
+    artist: cleaner
+  k1-b7.asc:
+    artist: knocturnal
+  34-acid.asc:
+    artist: spear
+  34-break01.asc:
+    artist: spear
+  no-break.asc:
+    artist: noches
+  k1-brkb.asc:
+    artist: knocturnal
+  k1-spear.ans:
+    artist: knocturnal
+  k1-ofda.asc:
+    artist: knocturnal
+  jp!dgal1.ans:
+    artist: jack.phlash
+  jp!inkt1.ans:
+    artist: jack.phlash
+  jp!sdns1.asc:
+    artist: jack.phlash
+  hx-blake.txt:
+    font: cp437_8x16
+    artist: haliphax
+  k1-sp34r.ans:
+    artist: knocturnal
+  jp!xtrm4.ans:
+    artist: jack.phlash
+  jp!xtrm2.ans:
+    artist: jack.phlash
+  h7-ebftpdlogos.txt:
+    artist: h7
+  h7-cmdctrlcc.txt:
+    artist: h7
+  h7-digimanreqs.txt:
+    artist: h7
+  34-k1a.asc:
+    artist: spear
+  txt-break01.asc:
+    artist: textmode.exorcist
+  h7-trsiinfo.txt:
+    artist: h7
+  h7-bbscrap.txt:
+    artist: h7
+  k1-break.ans:
+    artist: knocturnal
+  zo-creates_u_break.ans:
+    artist: luciano
+  34-breakb.asc:
+    artist: spear
+  h7-cleanersreqs.txt:
+    artist: h7
+  h7-trsidesireinfo.txt:
+    artist: h7
+  h7-finnishamigapartyresults.txt:
+    artist: h7
+group: break!ascii

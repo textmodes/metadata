@@ -1,0 +1,23 @@
+---
+files:
+  onx-ndw.s3m:
+    artist: onyx
+  li-dse.s3m:
+    artist: lethal.impact
+  onx-mine.s3m:
+    artist: onyx
+  da-wdct.s3m:
+    artist: dark.avatar
+  onx-ictr.s3m:
+    artist: onyx
+  da-spg.s3m:
+    artist: dark.avatar
+  onx-atc.s3m:
+    artist: onyx
+  li-wings.s3m:
+    artist: lethal.impact
+  bida-est.s3m:
+    artists:
+    - dark.avatar
+    - beyond.inertia
+group: sonic.equinox

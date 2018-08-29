@@ -1,0 +1,27 @@
+---
+files:
+  fv-blend.ans:
+    artist: the.creep.fever
+  sf-thin.ans:
+    artist: speed.freak
+  us-blnd.ans:
+    artists:
+    - ewheat
+    - iceage
+  us-opp.ans:
+    artists:
+    - iceage
+    - mel.farr.suppastar
+  n4-blnd8.ans:
+    artist: sodium
+  mfs-t$ee.ans:
+    artist: mel.farr.suppastar
+  kyo-blen.jpg:
+    artist: kyo
+  ice-ki.ans:
+    artist: iceage
+  tk-blend.ans:
+    artist: the.knight
+  mm-tgsm1.ans:
+    artist: mighty.mouse
+group: the.blender
