@@ -1,0 +1,62 @@
+name: Evoke
+
+files:
+  # Results for the Amiga compo:
+  ansi_ascii_amiga/01-diegrunefee_anst_impure.ans:
+    artist: anachronist
+  ansi_ascii_amiga/02-ldn-fart.ans:
+    artist: lord nikon
+  ansi_ascii_amiga/03-grk-fevk.ans:
+    artist: griskokare
+  ansi_ascii_amiga/04-xz-evokeko.ans:
+    artist: hellbeard
+  ansi_ascii_amiga/05-evoke_2018.ans:
+    artist: venam
+  ansi_ascii_amiga/06-znr-beatbazar.txt:
+    artist: zaner
+  ansi_ascii_amiga/07-arl-pung4s_2.ans:
+    artist: arlequin
+
+  # Results for the PC compo:
+  'ansi_ascii_pc/01-Elko_TRSi - We Come in Peace.ans':
+    artist: elko
+  ansi_ascii_pc/02-nf-evoke2018.ans:
+    artist: necro
+  ansi_ascii_pc/03-us-samax.ans:
+    artists:
+    - nail
+    - misfit
+  ansi_ascii_pc/04-tk-evo425.ans:
+    artist: the knight
+  ansi_ascii_pc/05-castle_adventure.ans:
+    artist: luisa
+  ansi_ascii_pc/06-us-lckit.ans:
+    artists:
+    - filth
+    - nail
+  ansi_ascii_pc/07-us-elko.ans:
+    artists:
+    - nail
+    - avenging angel
+  ansi_ascii_pc/08-iks-ff.ans:
+    artist: iks
+  ansi_ascii_pc/09-us-fraid.ans:
+    artists:
+    - whazzit
+    - nail
+  ansi_ascii_pc/10-pmt-venom.ans:
+    artist: prismate
+  ansi_ascii_pc/11-bs-oops.ans:
+    artist: burps
+  ansi_ascii_pc/12-alpha_king-show-me.ans:
+    artist: alpha king
+  ansi_ascii_pc/13-avg-bjornkillstwlight.ans:
+    artist: avenging angel
+  ansi_ascii_pc/13-whazzit_-_evoke_entry.ans:
+    artist: whazzit
+  ansi_ascii_pc/15-aa-neurodancer.ans:
+    artist: artsy atheist
+  ansi_ascii_pc/16-fs-freedom.ans:
+    artist: fart
+  ansi_ascii_pc/17-nosy_melon.ans:
+    artist: ohli
