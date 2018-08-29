@@ -3,4 +3,4 @@ language: go
 go:
 - 1.10.x
 
-script: ./test-all.sh
+script: bash -xeu ./test-all.sh
