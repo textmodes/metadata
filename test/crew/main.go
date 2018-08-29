@@ -7,16 +7,19 @@ import (
 	"os"
 
 	yaml "gopkg.in/yaml.v2"
+
+	"../common"
 )
 
 // Group affiliations.
 type Group struct {
-	Name    string   `yaml:"name"`
-	Aliases []string `yaml:"aliases"`
-	Leaders []string `yaml:"leaders"`
-	Website string
-	About   string
-	Members []string
+	Name    string            `yaml:"name"`
+	Aliases []string          `yaml:"aliases"`
+	Leaders []string          `yaml:"leaders"`
+	Members []string          `yaml:"members"`
+	About   string            `yaml:"about"`
+	Website string            `yaml:"website"`
+	Social  map[string]string `yaml:"social"`
 }
 
 func test(name string) bool {
@@ -30,6 +33,15 @@ func test(name string) bool {
 	if err = yaml.UnmarshalStrict(b, group); err != nil {
 		fmt.Fprintf(os.Stderr, "FAIL %s: %v\n", name, err)
 		return false
+	}
+
+	if group.Social != nil {
+		for site, value := range group.Social {
+			if err = common.TestSocial(site, value); err != nil {
+				fmt.Fprintf(os.Stderr, "FAIL %s: %v\n", name, err)
+				return false
+			}
+		}
 	}
 
 	if verbose {

@@ -6,9 +6,10 @@ import (
 	"io/ioutil"
 	"net/url"
 	"os"
-	"regexp"
 
 	yaml "gopkg.in/yaml.v2"
+
+	"../common"
 )
 
 // Artist represents an artist
@@ -45,7 +46,7 @@ func test(name string) bool {
 
 	if artist.Social != nil {
 		for site, value := range artist.Social {
-			if err = testSocial(site, value); err != nil {
+			if err = common.TestSocial(site, value); err != nil {
 				fmt.Fprintf(os.Stderr, "FAIL %s: %v\n", name, err)
 				return false
 			}
@@ -61,41 +62,6 @@ func test(name string) bool {
 func testSlug(slug string) bool {
 	// TODO(maze): more elaborate testing
 	return url.PathEscape(slug) == slug
-}
-
-var (
-	nonEmpty = regexp.MustCompile(`.+`)
-	numeric  = regexp.MustCompile(`^\d+$`)
-	social   = map[string]*regexp.Regexp{
-		"artcity":         numeric,
-		"behance":         nonEmpty,
-		"csdb":            numeric,
-		"demozoo":         numeric,
-		"deviantart":      nonEmpty,
-		"facebook":        nonEmpty,
-		"flickr":          regexp.MustCompile(`^\d+@N\d+$`),
-		"github":          regexp.MustCompile(`^\w[-\w]*$`),
-		"google+":         regexp.MustCompile(`^(?:\+\w*|\d+)$`),
-		"instagram":       nonEmpty,
-		"linkedin":        regexp.MustCompile(`^\w[-\w]*$`),
-		"pinterest":       nonEmpty,
-		"pouet":           numeric,
-		"twitter":         nonEmpty,
-		"vimeo":           regexp.MustCompile(`^[a-zA-Z]\w+$`),
-		"youtube":         regexp.MustCompile(`^[a-zA-Z]\w+$`),
-		"youtube-channel": regexp.MustCompile(`^[-A-Za-z0-9+/]+$`),
-	}
-)
-
-func testSocial(site, value string) error {
-	re, found := social[site]
-	if !found {
-		return fmt.Errorf("social site %q invalid", site)
-	}
-	if !re.MatchString(value) {
-		return fmt.Errorf("social site %s value %q invalid", site, value)
-	}
-	return nil
 }
 
 var verbose bool
