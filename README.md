@@ -28,12 +28,24 @@ Possible fields on an **artist**:
 
 Possible **social** site tags:
 
-| Tag       | Site                        | Value                         |
-| --------- | --------------------------- | ----------------------------- |
-| demozoo   | https://demozoo.org/        | Scener ID                     |
-| facebook  | https://www.facebook.com/   | Profile ID or page name       |
-| pouet     | https://www.pouet.net/      | User ID                       |
-| twitter   | https://twitter.com/        | Twitter handle                |
+| Tag        | Site                          | Value                         |
+| ---------- | ----------------------------- | ----------------------------- |
+| artcity    | http://artcity.bitfellas.org/ | User ID                       |
+| behance    | https://www.behance.net/      | Username                      |
+| csdb       | https://csdb.dk/              | Scener ID                     |
+| demozoo    | https://demozoo.org/          | Scener ID                     |
+| deviantart | https://www.deviantart.com/   | Username                      |
+| facebook   | https://www.facebook.com/     | Profile ID or page name       |
+| flickr     | https://www.flickr.com/       | Profile ID                    |
+| github     | https://github.com/           | Username                      |
+| google+    | https://plus.google.com/      | +Username or Profile ID       |
+| instagram  | https://instagram.com/        | Username                      |
+| linkedin   | https://linkedin.com/         | Username or Profile ID        |
+| pinterest  | https://pinterest.com/        | Username                      |
+| pouet      | https://www.pouet.net/        | User ID                       |
+| twitter    | https://twitter.com/          | Twitter handle                |
+| vimeo      | https://vimeo.com/            | Username                      |
+| youtube    | https://youtube.com/          | Username or Channel ID        |
 
 ## Crews
 
