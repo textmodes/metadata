@@ -11,13 +11,12 @@ import (
 
 // Group affiliations.
 type Group struct {
-	Name    string
-	Slug    string
-	Aliases []string
-	Leaders []string
+	Name    string   `yaml:"name"`
+	Aliases []string `yaml:"aliases"`
+	Leaders []string `yaml:"leaders"`
 	Website string
 	About   string
-	Artists []string
+	Members []string
 }
 
 func test(name string) bool {

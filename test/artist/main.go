@@ -11,14 +11,12 @@ import (
 
 // Artist represents an artist
 type Artist struct {
-	Name      string
-	Slug      string
-	Tag       string
-	Aliases   []string
-	Country   string
-	Biography string
-	Website   string
-	Social    map[string]string
+	Name      string            `yaml:"name"`
+	Aliases   []string          `yaml:"aliases"`
+	Country   string            `yaml:"country"`
+	Biography string            `yaml:"biography"`
+	Website   string            `yaml:"website"`
+	Social    map[string]string `yaml:"social"`
 }
 
 func test(name string) bool {
