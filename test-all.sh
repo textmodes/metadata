@@ -10,6 +10,6 @@ while [ $# -gt 0 ]; do
 	shift
 done
 
-${RUN} ./test/artist.go artist/*.yml 
-${RUN} ./test/crew.go crew/*.yml
-${RUN} ./test/pack.go pack/*/*.yml 
+${RUN} ./test/artist/main.go artist/*.yml 
+${RUN} ./test/crew/main.go crew/*.yml
+${RUN} ./test/pack/main.go pack/*/*.yml 
