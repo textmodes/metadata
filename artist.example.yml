@@ -1,0 +1,42 @@
+---
+# Everything starting with a pound sign ("#") will be ignored and can be used
+# to put in comments.
+#
+# All fields, except for "name", are optional and can be omitted.
+# 
+# All text values accept UTF-8 encoding, except for the alias slugs which are
+# in plain ASCII (you know, the 7-bit encoding, not Code Page 437) and may
+# only contain URL-safe characters.
+
+# Name of the artist, can also be a nick name
+name: John Doe
+
+# Aliases are a list of ASCII slugs.
+aliases:
+- john
+- johnny
+
+# ISO 3166-1 alpha-2 country code (lower case)
+country: ru
+
+# Some words about John
+biography: |
+  This can be a long text, with Markdown **formatting**. Isn't it lovely?
+
+  ^ this line has two spaces, so we can write longer texts.
+
+  Oh and every broken text will be a separate paragraph.
+
+# John loves social sites
+social:
+  # DemoZoo user ID (expanded to https://demozoo.org/sceners/666/ (sorry Blizzart))
+  demozoo: 666
+
+  # Facebook profile name (expanded to https://www.facebook.com/john.doe)
+  facebook: john.doe
+
+  # Pouet user ID (expanded to https://www.pouet.net/user.php?who=42 (sup téo!))
+  pouet: 42
+
+  # Twitter profile name (expanded to https://twitter.com/john_doe)
+  twitter: john_doe
