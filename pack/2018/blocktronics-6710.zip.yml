@@ -1,0 +1,91 @@
+---
+group: blocktronics
+
+files:
+  us-abracadabra.ans:
+    artists:
+    - mattmatthew
+    - joshjoshua
+  us-acidaquisitions.ans:
+    artists:
+    - deeply disturbed
+    - avenging angel
+  us-area67.ans:
+    artists:
+    - avenging angel
+    - whazzit
+  us-b7ten10.ans:
+    artists:
+    - avenging angel
+    - ironghost
+  us-blocksciibonics.ans:
+    artists:
+    - avenging.angel
+    - cthulu
+  us-bmoon.ans:
+    artists:
+    - nail
+    - misfit
+    - avenging angel
+  us-elko.ans:
+    artists:
+    - avenging angel
+    - nail
+  us-fblck.ans:
+    artists:
+    - nuskooler
+    - nail
+  us-fraid.ans:
+    artists:
+    - whazzit
+    - nail
+  us-frvke.ans:
+    artists:
+    - nail
+    - whazzit
+  us-lckit.ans:
+    artists:
+    - nail
+    - filth
+  us-odium.ans:
+    artists:
+    - alpha king
+    - burps
+  us-samax.ans:
+    artists:
+    - nail
+    - misfit
+  us-voodoo-kudu.ans:
+    artists:
+    - misfit
+    - ungenannt
+
+match:
+  # Regulars
+  2m -*:         mattmatthew
+  alpha?king*:   alpha king
+  avg-*:         avenging angel
+  bw-*:          binary walker
+  fil-*:         filth
+  goo-*:         mypal goo
+  h7-*:          h7
+  hb-*:          horsenburger
+  horsenburger*: horsenburger
+  misfit-*:      misfit
+  n-*:           nail
+  ober-*:        ober
+  om-*:          otium
+  r5*:           reset survivor
+  sm-*:          smoke
+  tcf-*:         the creep fever
+  wz-*:          whazzit
+  x0-*:          xero0
+  # Guests
+  ave-*:         avenger
+  bs-*:          burps
+  ct-*:          cthulu
+  dd-*:          deeply disturbed
+  df-*:          darkforce
+  nf-*:          necrofiliac
+  v-*:           viler
+  viler-*:       viler
