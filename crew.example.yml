@@ -1,0 +1,29 @@
+---
+# Human-readbale name, should be close to the slug of this YAML file.
+name: Textmod.es
+
+# Also without the dot
+aliases:
+- textmodes
+
+# Put as many (or as little) slugs as you want here.
+leaders:
+- maze
+
+# Website main URL
+website: https://textmodes.com/
+
+# Markdown formatted text about the crew.
+about: |
+  We can also use **MARKDOWN** in this context. Isn't it jolly good? Anyway,
+  textmod.es is an online text art preservation platform targeting Amiga ASCII,
+  PC ANSi, C64 PETSCII and many other text based art forms.
+
+  ^ here are two blank spaces, so this text still belongs to the block!
+
+# Member slugs
+members:
+- griskokare
+- hellbeard
+- maze
+- misfit

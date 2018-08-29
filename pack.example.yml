@@ -1,0 +1,42 @@
+---
+# Pack example, the pack name is "Fictional-Awesome Pack.zip"
+name: Fictional Awesome Pack
+
+# This pack has no crew affiliation, what do you know!
+artists:
+- burps
+- griskokare
+- haliphax
+- hellbeard
+- luciano
+- maze
+- prismate
+
+files:
+  file_id.diz:
+    # This file is not captured by any of the matches below, so we'll set the
+    # artist explicitly here.
+    artist: maze
+
+  us-rock.ans:
+    # This file has multiple artists associated, we'll set them explicitly too
+    artists:
+    - burps
+    - haliphax
+    - hellbeard
+    - maze
+
+  xz-kitten.ans:
+    # Oh noes, the unthinkable happened! Hellbeard released his Amiga ASCII
+    # piece without setting a SAUCE record, and now it gets an ugly PC block
+    # font, let's fix it.
+    font: topazplus a500
+
+match:
+  # The usual suspects are participating in this pack
+  bs-*:     burps
+  grk-*:    griskokare
+  hx-*:     haliphax
+  luciano*: luciano
+  mz-*:     maze
+  xz-*:     hellbeard

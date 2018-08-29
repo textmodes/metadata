@@ -47,13 +47,14 @@ Possible **social** site tags:
 | vimeo      | https://vimeo.com/            | Username                      |
 | youtube    | https://youtube.com/          | Username or Channel ID        |
 
+
 ## Crews
 
 Crew information pages can be found in the [crew](crew) folder.
 
 Possible fields on a **crew**:
 
-| Field     | Type         | Description  			          |
+| Field     | Type         | Description  			                          |
 | --------- | ------------ | -------------------------------------------- |
 | name      | text         | Full name of the crew                        |
 | aliases   | list of slug | Aliases of the crew                          |
@@ -63,3 +64,62 @@ Possible fields on a **crew**:
 | members   | list of slug | Permanent crew members' slugs.               |
 
 [1]: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+
+## Packs
+
+Pack information pages can be found in the [pack](pack) folder. Each release
+year gets its own sub directory. Pack names are normalized to lower case and
+in case the file name uses a different encoding (such as Code Page 437), we
+use the UTF-8 equivalent characters. The same is done to filenames in the
+archive, files referenced in the pack use the UTF-8 equivalent of the filename
+to ensure consistency across edits. You may use Python to convert between
+encodings:
+
+```python
+>>> jp = '\x83l\x83I\x81E\x83g\x81[\x83L\x83\x87\x81[.ans'
+>>> print jp.decode('shift_jis')                                                                 
+ネオ・トーキョー.ans
+```
+
+Possible fields on a **pack**:
+
+| Field     | Type           | Description  			                          |
+| --------- | -------------- | -------------------------------------------- |
+| name      | text           | Base name of the pack (without extension)    |
+| year      | integer        | Year of publication                          |
+| group     | slug (opt)     | Group slug (will be merged into `groups`)    |
+| groups    | list of slug   | Group slugs                                  |
+| artist    | slug           | Artist slug, for solo-packs                  |
+| artists   | list of slug   | Artist slugs, for non group-affiliated       |
+| files     | file map (opt) | Keyed on filename in the archive, see below  |
+| match     | glob map (opt) | Match on filename to artist slug by glob     |
+
+Files may be omitted, you list individual files to override certain attributes
+such as artists (if not captured by `match` for example) or to override the
+file `font`.
+
+Possible fields on a **file**:
+
+| Field     | Type         | Description  			                          |
+| --------- | ------------ | -------------------------------------------- |
+| artist    | slug         | Artist slug (merged into `artists`)          |
+| artists   | list of slug | Artist slugs                                 |
+| font      | font name    | Font override (overrides `SAUCE` record)     |
+
+More on the `pack` attribute `match`. This is a hash map of glob-to-slug. A
+glob is a matching pattern that may contain wildcard characters:
+
+| Wildcard | Meaning                 |
+| -------- | ----------------------- |
+| `?`      | Exactly one character   |
+| `*`      | Zero or more characters |
+
+This can be used to quickly match files in a pack from the same artist, e.g.:
+
+```yaml
+match:
+  Luciano*: luciano
+  n-*:      nail
+  wz-*:     whazzit
+```

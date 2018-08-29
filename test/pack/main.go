@@ -7,7 +7,6 @@ import (
 	"os"
 	"regexp"
 	"strings"
-	"time"
 
 	yaml "gopkg.in/yaml.v2"
 )
@@ -26,11 +25,10 @@ type Pack struct {
 
 // File represents a file in the archive
 type File struct {
-	Name    string    `yaml:"name"` // Base name
-	ModTime time.Time `yaml:"date"`
-	Artist  string    `yaml:"artist"`
-	Artists []string  `yaml:"artists"`
-	Font    string    `yaml:"font"`
+	Name    string   `yaml:"name"` // Base name
+	Artist  string   `yaml:"artist"`
+	Artists []string `yaml:"artists"`
+	Font    string   `yaml:"font"`
 }
 
 func test(name string) bool {
