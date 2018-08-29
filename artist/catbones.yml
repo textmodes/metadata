@@ -1,11 +1,8 @@
 ---
-website: http://catbones.com/
 name: Catbones
+aliases:
+- cat
 country: us
-social:
-  deviantart: Catbones
-  facebook: Catbones
-  youtube-channel: UCZDJOVs9jbtE3mPhRmwp2lA
 biography: |-
   Catbones and @Jazz started working together back in the 90's in
   #ACiD.Productions, the legendary digital art group, where they worked
@@ -14,3 +11,9 @@ biography: |-
 
   Catbones is also a badass Tattooist and Illustrator. You
   can check out his latest artworks on Facebook and YouTube.
+
+website: http://catbones.com/
+social:
+  deviantart: Catbones
+  facebook: Catbones
+  youtube-channel: UCZDJOVs9jbtE3mPhRmwp2lA
