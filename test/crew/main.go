@@ -8,7 +8,7 @@ import (
 
 	yaml "gopkg.in/yaml.v2"
 
-	"../common"
+	"github.com/textmodes/metadata/test/common"
 )
 
 // Group affiliations.
