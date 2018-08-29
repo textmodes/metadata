@@ -1,5 +1,8 @@
 ---
-website: https://impure.nl
+name: Impure!ASCII 1940
+aliases:
+- impure
+
 about: |-
   Impure ASCII, also known as Impure ASCII 1940 is an ASCII art group
   founded in January of 1998 by two artists from Canada who went by the
@@ -15,6 +18,10 @@ about: |-
   the leader, abandoned the group leaving Impure without direction. The
   founder of WOE, @pOGUE, met up with @xZiP (a.k.a. @Hellbeard) and took
   over the responsibilities of the group.
-name: Impure!ASCII 1940
-aliases:
-- impure
+
+website: https://impure.nl
+
+social:
+  demozoo:  10320
+  pouet:    2466
+  facebook: groups/597701347013958

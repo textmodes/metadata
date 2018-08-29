@@ -22,8 +22,10 @@ var (
 		"linkedin":        regexp.MustCompile(`^\w[-\w]*$`),
 		"pinterest":       nonEmpty,
 		"pouet":           numeric,
+		"tumblr":          regexp.MustCompile(`^\w[-\w]*$`),
 		"twitter":         nonEmpty,
 		"vimeo":           regexp.MustCompile(`^[a-zA-Z]\w+$`),
+		"wikipedia":       nonEmpty,
 		"youtube":         regexp.MustCompile(`^[a-zA-Z]\w+$`),
 		"youtube-channel": regexp.MustCompile(`^[-A-Za-z0-9+/]+$`),
 	}
