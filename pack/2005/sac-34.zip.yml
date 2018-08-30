@@ -37,7 +37,7 @@ files:
   b5-mther.asc:
     artist: barium
   s!-idiana.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   cdr-oman.nfo:
     artist: crusader
@@ -86,7 +86,7 @@ files:
   ix-dvt.txt:
     artist: ixlover
   s!+b5-sac.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artists:
     - scour
     - barium
@@ -109,14 +109,14 @@ files:
   b5-adc.png:
     artist: barium
   s!-wwas.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   dip-patm.asc:
     artist: dipswitch
   b5-mwc.asc:
     artist: barium
   s!-trd.diz:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   nerv+asx-sac.png:
     artists:
@@ -143,7 +143,7 @@ files:
   sac.nfo:
     artist: asphyx
   s!-ages.nfo:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   traffic.txt:
     artist: nerv
@@ -178,7 +178,7 @@ files:
   flames-racepda.asc:
     artist: flames
   s!-dust.nfo:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   nerv-scenenews.txt:
     artist: nerv

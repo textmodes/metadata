@@ -1,46 +1,46 @@
 ---
 files:
   po-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   po-souls.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-trx3.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-imp2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   xz-trnx2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   m0d-m0d.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   m0d-gsis.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   m0d-os.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   m0d-rdnr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   xz-arc.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   m0d-dvl.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   imp15.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   xz-colly.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   esd-eps9.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: e_side
 group: impure!ascii.1940

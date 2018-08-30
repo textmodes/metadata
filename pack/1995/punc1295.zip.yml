@@ -43,7 +43,7 @@ files:
   lu-pard1.asc:
     artist: luptin
   12-coll1.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   lu-logo5.asc:
     artist: luptin

@@ -31,7 +31,7 @@ files:
   cdr-fox.nfo:
     artist: crusader
   scr-ages.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   pdz-w0.txt:
     artists:
@@ -48,7 +48,7 @@ files:
   cdr-death01.asc:
     artist: crusader
   scr-rmdy.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   cdr-race.asc:
     artist: crusader
@@ -81,7 +81,7 @@ files:
   w0-coldice.png:
     artist: webpige0
   scr-rmdy.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   don-rba.asc:
     artist: don
@@ -102,7 +102,7 @@ files:
   w0-rpd.asc:
     artist: webpige0
   scr-dagger.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   w0-shock_1.png:
     artist: webpige0
@@ -113,7 +113,7 @@ files:
   don-rip.asc:
     artist: don
   scr-bofh.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   nr-phoen.asc:
     artist: nerv
@@ -128,7 +128,7 @@ files:
   w0-sdk.png:
     artist: webpige0
   scr-tda.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   w0-izm.asc:
     artist: webpige0
@@ -175,7 +175,7 @@ files:
   w0-mtr.asc:
     artist: webpige0
   scr-egc.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   w0-doctrine_intro.png:
     artist: webpige0
@@ -184,7 +184,7 @@ files:
   w0-chau.ans:
     artist: webpige0
   scr-w0.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   w0-kfnu.asc:
     artist: webpige0

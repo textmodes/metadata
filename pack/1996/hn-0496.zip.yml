@@ -3,7 +3,7 @@ files:
   c4-kts.asc:
     artist: c4nn
   ps-hndiz.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   c4-hn!.asc:
     artist: c4nn
   c4-mland.asc:
@@ -15,7 +15,7 @@ files:
   c4-zoo.asc:
     artist: c4nn
   ps-tnw.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   c4-cnc.asc:
     artist: c4nn
   c4-rel.asc:
@@ -23,7 +23,7 @@ files:
   c4-sos.asc:
     artist: c4nn
   ps-pia.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ps-poo.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
 group: halluci-nation

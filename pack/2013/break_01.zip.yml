@@ -3,7 +3,7 @@ files:
   h7-assembly2012.txt:
     artist: h7
   hx-break.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   jp!ncrmx.asc:
     artist: jack.phlash
@@ -30,7 +30,7 @@ files:
   h7-mfxinfo.txt:
     artist: h7
   hx-spear.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   h7-randomlogos.txt:
     artist: h7
@@ -51,7 +51,7 @@ files:
   cl!-go.ans:
     artist: cleaner
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   jp!clth1.ans:
     artist: jack.phlash
   jp!xtrm1.ans:
@@ -83,7 +83,7 @@ files:
   jp!sdns1.asc:
     artist: jack.phlash
   hx-blake.txt:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   k1-sp34r.ans:
     artist: knocturnal

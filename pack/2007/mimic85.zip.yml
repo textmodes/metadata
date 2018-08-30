@@ -9,7 +9,7 @@ files:
   h7-fatha.asc:
     artist: h7
   h7-mmc85.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   b5-syd.asc:
     artist: barium
@@ -26,7 +26,7 @@ files:
   h7-myria.asc:
     artist: h7
   rm-user.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ricky.martin
   mkk-rivl.ans:
     artist: steve

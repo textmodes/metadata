@@ -1,109 +1,109 @@
 ---
 files:
   sp-rwjd.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   us-rush.asc:
-    font: cp437_8x16
+    font: IBM VGA
   er-malt.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   p-rmr.asc:
-    font: cp437_8x16
+    font: IBM VGA
   y-fa.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: yce
   bh-wps.txt:
-    font: cp437_8x16
+    font: IBM VGA
   ax_evil.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   er-slack.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   aa-voidz.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   y-foc.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: yce
   ax_rump.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   us-3t.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ns-arts.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: ansichrist
   asx-gun.txt:
-    font: cp437_8x16
+    font: IBM VGA
   asx-rar1.txt:
-    font: cp437_8x16
+    font: IBM VGA
   us-hare.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   file_id.diz:
-    font: cp437_8x16
+    font: IBM VGA
   asx-bw.txt:
-    font: cp437_8x16
+    font: IBM VGA
   sp-caw.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   no-spins.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: noches
   us-saf.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   us-moon.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-o1z.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   y-lord.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: yce
   sp-utv.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   er-arts.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   db-nightcat.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   no-fukkg.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: noches
   quotes.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   y-ad.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: yce
   mo-lite.asc:
-    font: cp437_8x16
+    font: IBM VGA
   db-arts.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   us-slack.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   db-ricky.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ax_bird.txt:
-    font: cp437_8x16
+    font: IBM VGA
   db-televizor.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   radman_at_a_demo_party.jpg:
     artist: rad.man
   no-ddoma.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: noches
   no-cloud.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: noches
   us-ambio.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   asx-bbc1.txt:
-    font: cp437_8x16
+    font: IBM VGA
   asx-bbc2.txt:
-    font: cp437_8x16
+    font: IBM VGA
   z0o-fmr.asc:
-    font: cp437_8x16
+    font: IBM VGA
   no-delay.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: noches
   asx-mgt.txt:
-    font: cp437_8x16
+    font: IBM VGA
   asx-rar2.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
 group: remorse.1981

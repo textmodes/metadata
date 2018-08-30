@@ -33,7 +33,7 @@ files:
   znt-cliq.asc:
     artist: zeneth
   wo-ruxp.ans:
-    font: cp437-8x8
+    font: IBM VGA50
     artist: wayout
   cg-cro5.jpg:
     artist: cablegod

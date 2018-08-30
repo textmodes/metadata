@@ -1,92 +1,92 @@
 ---
 files:
   ps-mugga.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   da@impc.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
   ps-pogue.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   ps-oprah.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   ozz-ozz2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   xz-loung.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   ozz-kaim.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   impure32.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ps-elend.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   sk!chips.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   sk!hugi.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   jp-pls1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: jack.phlash
   dc-imp2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dedchylde
   sk!mercu.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   ozz-imp9.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ozz-self.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   sk!ch_di.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   po-acid.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: pogue
   ps-imp.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   eld-chab.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   dc-lng.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dedchylde
   us-whal.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - ozzeth
     - splonk
   ozz-pico.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ps-plg.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   xz-spy.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   ps-mnf.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   xz-fto.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   ozz-shao.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   impure32.mem:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
 group: impure!ascii.1940

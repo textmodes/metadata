@@ -1,6 +1,7 @@
 ---
+group: style
 files:
-  ps-eon!.asc:
+  zeit/file_id.diz:
     font: Amiga Topaz 1+
-  ps-cybt.asc:
+  zeit/se-zeit.txt:
     font: Amiga Topaz 1+

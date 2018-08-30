@@ -1,102 +1,102 @@
 ---
 files:
   0z-cncpt.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   er-ruck.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   us-local.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-vault.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-satir.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   mt-massd.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-ruckd.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   ripper!.ans:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-nl.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tmj-rkus.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   bne!dst2.asc:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   hx-rks2.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   (l)moen.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   td-rocku.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-fuqu.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   tn-rucks.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   df-onel.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-curse.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   tk-rks.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-kwest.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-cbria.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-mfr.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   us-spoof.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   de-hole.asc:
-    font: cp437_8x16
+    font: IBM VGA
   ac-sick.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-thc.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   us-gloom.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   file_id.diz:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-users.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   bne!ptl.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-kwest.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-empir.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   bne!dust.asc:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   tl-toil.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   df-thc.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-hroin.asc:
-    font: cp437_8x16
+    font: IBM VGA
   hx-statc.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-rucks.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   df-clean.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-wiggr.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   ruckus02.mem:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-acid.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   id-stats.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-rks04.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   us-sick.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-rks.asc:
-    font: cp437_8x16
+    font: IBM VGA
   tn-imma.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-com.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-rksfo.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-thc.asc:
-    font: cp437_8x8
+    font: IBM VGA50

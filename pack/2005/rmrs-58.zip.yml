@@ -1,51 +1,51 @@
 ---
 files:
   bw_matisyahu.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
   cm-bird.ans:
     artist: cmang
   bw_sieb.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
   bw_unseen.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
   hx-hp.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   bw_pen15.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
   cm-hella.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cmang
   hx-snd.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   pm-myhouse.ans:
     artist: polymorph
   bw_vampiress.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
   bw_tick.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
   hx-fah.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   hx-bw.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   pm-radman.ans:
     artist: polymorph
   bw_dev-ninja.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
   bw_misfits_dedicated.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
   bw_crusader.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: binary.walker
 group: remorse.1981

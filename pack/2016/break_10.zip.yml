@@ -11,16 +11,16 @@ files:
   h7-divine stylers.ans:
     artist: h7
   zfr-wbb.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: zefyros
   h7-spaceballs-diz.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   zfr-b7dl.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: zefyros
   jp!79tf7.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: jack.phlash
   goo-fnt.asc:
     artist: mypal.goo
@@ -39,14 +39,14 @@ files:
   h7-1000followers.ans:
     artist: h7
   jp!dp1g.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: jack.phlash
   jp!drk20.ans:
     artist: jack.phlash
   ack-brk2.asc:
     artist: ack
   h7-theelektronicknights.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   sns-flush.txt:
     artist: senser
@@ -59,7 +59,7 @@ files:
   k1-hhaci.asc:
     artist: knocturnal
   bhe-style.txt:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
     artist: boheme
   h7-alpha-ascii.txt:
     artist: h7
@@ -68,7 +68,7 @@ files:
   h7-riverwashresults.txt:
     artist: h7
   h7-irregularreview.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   goo-tg.asc:
     artist: mypal.goo

@@ -1,8 +1,8 @@
 ---
 files:
   hx-morph.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   hx-dunms.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-metam.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+

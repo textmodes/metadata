@@ -1,81 +1,81 @@
 ---
 files:
   grk-auto.ans:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: griskokare
   xz-blk.ans:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   xz-bld2.ans:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   jp!imp53.ans:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: jack.phlash
   grk-rzr1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   grk-gbye.ans:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: griskokare
   jp!bi1.ans:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: jack.phlash
   us-bld8.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   xz-79.ans:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
     artist: hellbeard
   impure53.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   grk-imp.ans:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: griskokare
   us-bld2.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   po-weather.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   black-f.asc:
-    font: cp437_8x16
+    font: IBM VGA
   grk-x84.ans:
     artist: griskokare
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   jo-elk.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: jojo
   impure53rel.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   po-bi.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-monterey.ans:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   xz-imp.ans:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   po-impdiz.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   us-bld.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   jp!syn3.ans:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: jack.phlash
   po-79c.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   grk-blok.ans:
     artist: griskokare
   hx-79c.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   grk-holo.ans:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: griskokare
   xz-stat.ans:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
 group: impure!ascii.1940

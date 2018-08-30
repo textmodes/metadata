@@ -3,15 +3,15 @@ files:
   2o-so.asc:
     artist: aeroholics
   scr-stx.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-dvt.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   2o-cn.ans:
     artist: aeroholics
   scr-reloaded_metal.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   cbn-krsrules.txt:
     artist: cubon
@@ -20,7 +20,7 @@ files:
   2o-f3-bh.asc:
     artist: aeroholics
   scr-outlaws.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   kr8-pomaranca_v2-logo.jpg:
     artist: kr8vity
@@ -31,10 +31,10 @@ files:
   2o-gm.ans:
     artist: aeroholics
   scr-vbt.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-dh.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   zemra-mention.asc:
     artist: zemra
@@ -63,12 +63,12 @@ files:
   f3.vlkr.asc:
     artist: fumk
   scr-heritage.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   f3.clndstn.asc:
     artist: fumk
   scr-styx.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   f3.t.asc:
     artist: fumk
@@ -81,7 +81,7 @@ files:
   kr8-tci-0day_logo-v2.0-final2.jpg:
     artist: kr8vity
   scr-chemical_reaction.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   2o-vk.ans:
     artist: aeroholics
@@ -94,7 +94,7 @@ files:
   kr8-eat_0day-fixed.jpg:
     artist: kr8vity
   scr-reloaded_colors.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   2o-sp.ans:
     artist: aeroholics
@@ -109,7 +109,7 @@ files:
   kr8-pole_login-final.jpg:
     artist: kr8vity
   scr-rogue_keygen.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   kr8-kr8vity-logo_v2.jpg:
     artist: kr8vity

@@ -1,139 +1,139 @@
 ---
 files:
   xz-galm.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   po-flash.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-twr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   cdn-xmas.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: curdon
   ab-res.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acidbrain
   us-flash.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: acidbrain
   eld!-ann.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   shl-dd2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: shadow.lord
   us-dis2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: dead.brain
   po-bbsli.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   shl-gza.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: shadow.lord
   po-bbsd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   t01-dis.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   po-cro.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-clu.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   shl-dd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: shadow.lord
   t01-w0.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   us-flas2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - tribe
     - acidbrain
   ab-ddom.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acidbrain
   dbrn-khz.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dead.brain
   xz-dd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   cdn-dis.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: curdon
   po-dis.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   us-dis3.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ab-xmas.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acidbrain
   thuglife.org:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   po-bbs.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   shl-euro.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: shadow.lord
   impure50.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   eld!-cla.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   ab-rep.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acidbrain
   eld!-ara.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   xz-twr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   shl-face.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: shadow.lord
   us-bi.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - tribe
     - hellbeard
   us-blood.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - hellbeard
     - dead.brain
   cdn-topu.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: curdon
   t01-sha.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   shl-lion.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: shadow.lord
   cdn-week.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: curdon
   cdn-call.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: curdon
   us-vid.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - dead.brain
     - hellbeard
   xz-xmas.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
 group: impure!ascii.1940

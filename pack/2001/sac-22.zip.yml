@@ -3,19 +3,19 @@ files:
   frx-ris3.asc:
     artist: ferrex
   scr-tpy.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   scr-ecko.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   scr-rmt.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   scr-asgd.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   scr-emx.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   frx-rbs1.asc:
     artist: ferrex
@@ -24,7 +24,7 @@ files:
   frx-crn5.asc:
     artist: ferrex
   scr-npt.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   frx-me01.asc:
     artist: ferrex
@@ -41,7 +41,7 @@ files:
   frx-ego2.asc:
     artist: ferrex
   scr-epsxe.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   frx-tile.jpg:
     artist: ferrex
@@ -52,6 +52,6 @@ files:
   frx-nvr1.asc:
     artist: ferrex
   scr-fty.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
 group: superior.art.creations

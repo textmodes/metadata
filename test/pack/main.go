@@ -70,29 +70,69 @@ func test(name string) bool {
 
 var fonts = map[string]bool{
 	// Official fonts
-	"cp437 8x8":       true,
-	"cp437 8x16":      true,
-	"cp866 8x16":      true,
-	"microknight":     true,
-	"microknightplus": true,
-	"mo'soul":         true,
-	"p0t noodle":      true,
-	"topaz a500":      true,
-	"topazplus a500":  true,
-	"topaz a1200":     true,
-	"topazplus a1200": true,
+	"ibm vga":            true,
+	"ibm vga50":          true,
+	"ibm vga25g":         true,
+	"ibm ega":            true,
+	"ibm ega43":          true,
+	"amiga topaz 1":      true,
+	"amiga topaz 1+":     true,
+	"amiga topaz 2":      true,
+	"amiga topaz 2+":     true,
+	"amiga p0t-noodle":   true,
+	"amiga microknight":  true,
+	"amiga microknight+": true,
+	"amiga mosoul":       true,
 	// Alias names
-	"cp437":        true,
-	"microknight+": true,
-	"mosoul":       true,
-	"mo soul":      true,
-	"p0tnoodle":    true,
-	"topaz":        true,
-	"topaz+":       true,
-	"topaz2":       true,
-	"topaz2+":      true,
-	"topaz+ a500":  true,
-	"topaz+ a1200": true,
+	"cp437":           true,
+	"cp866":           true,
+	"microknight":     true,
+	"microknight+":    true,
+	"microknightplus": true,
+	"mo soul":         true,
+	"mo'soul":         true,
+	"mosoul":          true,
+	"p0t noodle":      true,
+	"p0tnoodle":       true,
+	"topaz a1200":     true,
+	"topaz a500":      true,
+	"topaz":           true,
+	"topaz+ a1200":    true,
+	"topaz+ a500":     true,
+	"topaz+":          true,
+	"topaz2":          true,
+	"topaz2+":         true,
+	"topazplus a1200": true,
+	"topazplus a500":  true,
+}
+
+func init() {
+	for _, codePage := range []string{
+		"437", // The character set of the original IBM PC. Also known as ‘MS-DOS Latin US’.
+		"720", // Arabic. Also known as ‘Windows-1256’.
+		"737", // Greek. Also known as ‘MS-DOS Greek’.
+		"775", // Baltic Rim (Estonian, Lithuanian and Latvian). Also known as ‘MS-DOS Baltic Rim’.
+		"819", // Latin-1 Supplemental. Also known as ‘Windows-28591’ and ‘ISO/IEC 8859-1’.
+		"850", // Western Europe. Also known as ‘MS-DOS Latin 1’.
+		"852", // Central Europe (Bosnian, Croatian, Czech, Hungarian, Polish, Romanian, Serbian and Slovak). Also known as ‘MS-DOS Latin 2’.
+		"855", // Cyrillic (Serbian, Macedonian Bulgarian, Russian). Also known as ‘MS-DOS Cyrillic’.
+		"857", // Turkish. Also known as ‘MS-DOS Turkish’.
+		"858", // Western Europe.
+		"860", // Portuguese. Also known as ‘MS-DOS Portuguese’.
+		"861", // Icelandic. Also known as ‘MS-DOS Icelandic’.
+		"862", // Hebrew. Also known as ‘MS-DOS Hebrew’.
+		"863", // French Canada. Also known as ‘MS-DOS French Canada’.
+		"864", // Arabic.
+		"865", // Nordic.
+		"866", // Cyrillic.
+		"869", // Greek 2. Also known as ‘MS-DOS Greek 2’.
+		"872", // Cyrillic.
+		"KAM", // ‘Kamenický’ encoding. Also known as ‘KEYBCS2’.
+		"MAZ", // ‘Mazovia’ encoding.
+		"MIK", // Cyrillic.
+	} {
+		fonts["ibm vga "+strings.ToLower(codePage)] = true
+	}
 }
 
 func testFont(name string) bool {

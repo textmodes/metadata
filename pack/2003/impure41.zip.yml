@@ -1,42 +1,42 @@
 ---
 files:
   impure41.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   da-impa.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
   xz-blood.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   po-scott.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-spins.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   imp-xxx.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
   xz-speed.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   pdz-rp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   da-asc.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
   pdz-inf.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   cdn-bi.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: curdon
   po-sd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   scr-ign.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
 group: impure!ascii.1940

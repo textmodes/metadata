@@ -1,108 +1,108 @@
 ---
 files:
   po-is.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!d&cn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!dlzy.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   impure37.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ps-none.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   ozz-uma1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   eld!kata.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   po-file.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ps-bb.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   jn-imp.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: jashiin
   ozz-rem1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ps-lol.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   ozz-emes.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ps-retr.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   eld!d&cd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   xz-wall.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   eld!ephf.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   da-diz3.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
   ozz-wchu.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ps-lanz.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   sk!rcvte.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   us-main.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - hellbeard
     - pogue
   ps-drf.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   sk!exile.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   ps-blk.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   eld!scxd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!-ami.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   sk!shawn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   eld!ephd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   ozz-shao.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   eld!spxn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   po-logon.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ozz-sec1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   da-sars.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
 group: impure!ascii.1940

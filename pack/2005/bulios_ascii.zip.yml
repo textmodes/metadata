@@ -1,7 +1,7 @@
 ---
 files:
   bulio(nice).txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artists:
     - bulio
     - cubon
@@ -13,7 +13,7 @@ files:
   nice-nfo.txt:
     artist: bulio
   pablo-serv1.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artists:
     - cleaner
     - cubon

@@ -1,102 +1,102 @@
 ---
 files:
   po-sec.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   asx-imp1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: asphyx
   scr-tyd.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   po-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   scr-100.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   po-galza.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   asx-imp2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: asphyx
   scr-bi.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   po-funkp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   da-lol.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
   sk!mf.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   us-haci.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ab-agal.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   da_defco.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
   da-b62.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
   ab-sb.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   da-btch2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: devil.angel
   asx-imp3.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: asphyx
   ab-cya.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   xz-bbs.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   po-shdl.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ps-imm.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   ab-log.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   ab-bi.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   po-1line.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-bi.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   impure38.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   sk!dioda.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   ps-diz.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   ab-coct.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   ab-b62.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   ab-4qop.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   scr-imp.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
 group: impure!ascii.1940

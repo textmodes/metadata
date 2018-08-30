@@ -1,55 +1,55 @@
 ---
 files:
   pgu-sk.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-kar2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   drm-inf.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: d0rm
   drm-clic.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: d0rm
   pgu-doa.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-deli.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   qx-woe.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: quix
   xz-dlr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   drm-bk.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: d0rm
   xz-nuke.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   pgu-area.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-mello.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   xz-fat.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   pgu-hook.asc:
     artist: pogue
   xz-tmain.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   xz-side.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   pgu-del2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
 group: impure!ascii.1940

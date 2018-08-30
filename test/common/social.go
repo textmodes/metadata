@@ -9,6 +9,7 @@ var (
 	nonEmpty = regexp.MustCompile(`.+`)
 	numeric  = regexp.MustCompile(`^\d+$`)
 	social   = map[string]*regexp.Regexp{
+		"amp":             numeric,
 		"artcity":         numeric,
 		"behance":         nonEmpty,
 		"csdb":            numeric,

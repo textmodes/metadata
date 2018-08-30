@@ -1,7 +1,7 @@
 ---
 files:
   mz-mees.ans:
-    font: cp437-8x8
+    font: IBM VGA50
     artist: maze
   impure57.ans:
     artist: pogue

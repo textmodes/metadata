@@ -1,129 +1,129 @@
 ---
 files:
   pdz-mlv.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   sk!hlor.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   pdz-eup.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   po-juen.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-darkm.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-greet.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ozz-brxx.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   pdz-rmr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   pdz-hagt.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   pdz-coj.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   pdz-rzn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   pdz-dv.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   pdz-tr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   pdz-lmt.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   pdz-od.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   cdn-dis.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: curdon
   ab-nly.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   us-dark.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - hellbeard
     - pogue
   xz-zatan.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   ozz-(aci.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   us-moods.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - pogue
     - hellbeard
   po-darkd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ns-p0gu3.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: ansichrist
   po-mood2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ozz-imxx.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ozz-emex.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   sk!klaf2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   pdz-acd.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   po-lame.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-elek.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-acid.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: pogue
   us-rezin.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - pogue
     - hellbeard
   impure42.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   us-e.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - ansichrist
     - pogue
   pix-comp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pdz-vv.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   pdz-atd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: podsi
   po-bi.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ozz-powr.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
 group: impure!ascii.1940

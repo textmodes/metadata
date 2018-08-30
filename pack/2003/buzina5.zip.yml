@@ -5,11 +5,11 @@ files:
   crs-rul.asc:
     artist: crasher
   ps.asc:
-    font: cp866-8x16
+    font: IBM VGA 866
   crs-cats.asc:
     artist: crasher
   buzina.asc:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
   crs-pow.ans:
     artists:
@@ -20,7 +20,7 @@ files:
   crs-gogo.jpg:
     artist: crasher
   crs-puzzle.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
     artists:
     - lip
     - crasher

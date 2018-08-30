@@ -1,7 +1,7 @@
 ---
 files:
   hx-sink.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   jn-pen15.asc:
     artist: jashiin
@@ -16,16 +16,16 @@ files:
   t01-gp.asc:
     artist: tribe
   hx-oneln.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   hx-can3.ans:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   hx-k!s.ans:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   hx-mconf.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   u3-polta.ans:
     artist: unseen.fate
@@ -36,20 +36,20 @@ files:
   rm-mak.asc:
     artist: rm
   hx-tribe.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   u3-ale.ans:
     artist: unseen.fate
   hx-t7.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   u3-wew.ans:
     artist: unseen.fate
   hx-annl2.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   hx-mimic.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   u3-main.ans:
     artist: unseen.fate
@@ -58,19 +58,19 @@ files:
   u3-abz.ans:
     artist: unseen.fate
   hx-mconf.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   xz-dig.asc:
     artist: hellbeard
   hx-fbase.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   drj-pen15.ans:
     artist: ddrj
   hx-regen.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   hx-annel.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
 group: pen15

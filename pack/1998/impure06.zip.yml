@@ -1,50 +1,50 @@
 ---
 files:
   pgu-alh3.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-acid.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-hl.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   pgu-nfo.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-die.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-ds.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-colt.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-echo.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-gutt.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pgu-nwwd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-dlr2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   pgu-oct2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-dest2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   pgu-scen.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-tour.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
 group: impure!ascii.1940

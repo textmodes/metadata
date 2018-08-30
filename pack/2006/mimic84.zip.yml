@@ -11,7 +11,7 @@ files:
   h7-mfx.asc:
     artist: h7
   h7-mfx2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   mkk-moly.ans:
     artist: steve
@@ -20,30 +20,30 @@ files:
     - access.denied
     - c-jeff
   rm-hots.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ricky.martin
   tf-mimic.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: the.creep.fever
   jn-milk.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: jashiin
   file_id.diz:
     artists:
     - c-jeff
     - h7
   nrv-spln.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: nerv
   no-burn1.asc:
     artist: noches
   c-jeff.asc:
     artist: barium
   h7-reqs5.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   bne_tpg.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: brane
   us-dikom.ans:
     artists:

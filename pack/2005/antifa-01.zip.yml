@@ -5,7 +5,7 @@ files:
   ab-bush.asc:
     artist: acidbrain
   b5-afa.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: barium
   b5-mngle.asc:
     artist: barium
@@ -26,7 +26,7 @@ files:
   vk-sk.asc:
     artist: vouck
   file_id.diz:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
     artist: haliphax
   m0-cccp.asc:
     artist: m0lo
@@ -35,7 +35,7 @@ files:
   dip-hjan.asc:
     artist: dipswitch
   hx-antif.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   cpn-anti.asc:
     artist: cpn
@@ -48,7 +48,7 @@ files:
   cbn-isc.bin:
     artist: cubon
   hx-antif2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   zv-afriot.ans:
     artist: zerovision

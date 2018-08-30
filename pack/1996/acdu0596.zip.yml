@@ -1,7 +1,7 @@
 ---
 files:
   ra-acid.ans:
-    font: cp437_8x8
+    font: IBM VGA50
   bs-nezo.ans:
     artist: burps
 group: acid.production

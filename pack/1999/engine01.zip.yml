@@ -7,7 +7,7 @@ files:
   cph-woe.ans:
     artist: cyberpunch
   scr-ide.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   cph-epi.ans:
     artist: cyberpunch
   cph-gute.ans:
@@ -25,6 +25,6 @@ files:
   cph-amd.ans:
     artist: cyberpunch
   scr-par.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   scr-man.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+

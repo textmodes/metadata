@@ -17,7 +17,7 @@ files:
   vrg-0506.ans:
     artist: vargr
   fo-mon~1.asc:
-    font: cp437-8x16
+    font: IBM VGA
   sadmem.ans:
     artists:
     - vargr

@@ -7,7 +7,7 @@ files:
   ds-arj.ans:
     artist: dying.soul
   xz-area.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   emk-a99.asc:
     artist: emok
@@ -18,7 +18,7 @@ files:
   ds-arc2.ans:
     artist: dying.soul
   xz-dlr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   emk-icin.ans:
     artist: emok
@@ -44,6 +44,6 @@ files:
   zb-ei-.nfo:
     artist: zubfatal
   xz-dlr2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
 group: alphaforce

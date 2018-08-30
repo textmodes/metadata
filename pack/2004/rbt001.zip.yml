@@ -19,17 +19,17 @@ files:
   pp-rbt.ans:
     artist: peaceprayer
   pp-lucky.ans:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: peaceprayer
   rlx!lady.asc:
     artist: relaxing.lynx
   chu-sv.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: chubaka
   file_id.diz:
     artist: peaceprayer
   pp-love.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: peaceprayer
   pp-alien.ans:
     artist: peaceprayer
@@ -40,5 +40,5 @@ files:
   drg-univ.asc:
     artist: drago
   rebirth.nfo:
-    font: cp866-8x16
+    font: IBM VGA 866
 group: rebirth

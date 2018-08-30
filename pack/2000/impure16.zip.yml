@@ -1,13 +1,13 @@
 ---
 files:
   impure16.mem:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   xz-nu.esc:
     artist: hellbeard
   xz-colly.esc:
     artist: hellbeard
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   impure16.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
 group: impure!ascii.1940

@@ -7,7 +7,7 @@ files:
   pos!expo.asc:
     artist: poise
   us-amiga.asc:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   twr!insd.asc:
     artist: twister
   twr!dnb.asc:
@@ -15,7 +15,7 @@ files:
   pos!ds.asc:
     artist: poise
   file_id.diz:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   twr!bthb.asc:
     artist: twister
   twr!c64.asc:

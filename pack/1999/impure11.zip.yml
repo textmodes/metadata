@@ -1,92 +1,92 @@
 ---
 files:
   dwf-k0re.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   iph-ppl.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: inphamilair
   dwf-whe.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   iph-rob.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: inphamilair
   3k-loop.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tekk
   dwf-abho.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   po-hzmat.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   dwf-wk.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   xz-colly.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   dwf-hugi.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   xz-mil.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   pervers.nfo:
     artist: pogue
   po-badla.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   3k-uzwei.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tekk
   xz-dlr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   imp-0011.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   dwf-ll.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   xz-woe.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   edl1999.nfo:
     artist: pogue
   xz-cred.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   dwf-sa.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   po-prev.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-prev.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   dwf-tb.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   dwf-m211.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   dwf-mat.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   3k-prevl.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tekk
   po-pesch.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-die.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   dwf-os.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
 group: impure!ascii.1940

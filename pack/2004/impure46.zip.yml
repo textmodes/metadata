@@ -1,36 +1,36 @@
 ---
 files:
   ozz-plc2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   db-welch.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
   imp-sp.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
   us-vcdm.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - bornholme
     - hellbeard
   impure46.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   po-tribe.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-gasf.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   xz-mahon.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   db-gasfa.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
   po-dbrn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ozz-plc1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
 group: impure!ascii.1940

@@ -1,7 +1,7 @@
 ---
 files:
   sk-upuap.txt:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: skope
   fs!-hrrh.asc:
     artist: f0st
@@ -12,32 +12,32 @@ files:
   h7-rebootdragonballz.asc:
     artist: h7
   sk-haliphax.txt:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: skope
   break_06.mem:
     artist: knocturnal
   iks-kg14.asc:
     artist: irokos
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: skope
   sk-hellbeard.txt:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: skope
   k1-sept5.asc:
     artist: knocturnal
   hx-doors.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   zfr-phony.ans:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   h7-blackflac.asc:
     artist: h7
   fs!-trx.asc:
     artist: f0st
   fs!-brk.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: f0st
   jp!clvn1.ans:
     artist: jack.phlash
@@ -46,7 +46,7 @@ files:
   k1-gin_diz.asc:
     artist: knocturnal
   hx-79c.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   h7-skrolli-original.xb:
     artist: h7

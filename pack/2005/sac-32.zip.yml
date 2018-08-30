@@ -13,7 +13,7 @@ files:
   4th-sac.txt:
     artist: 4th.disciple
   s!-ltw.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   cdr-linknet.asc:
     artist: crusader
@@ -60,7 +60,7 @@ files:
   w0-dnl_intro_1.png:
     artist: webpige0
   s!-101.nfo:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   cdr-glftpd.pre.asc:
     artist: crusader
@@ -144,7 +144,7 @@ files:
   sergeon_sacquickgraf.jpg:
     artist: sergeon.cuts
   cru-cent.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: crusader
   w0-bex.asc:
     artist: webpige0

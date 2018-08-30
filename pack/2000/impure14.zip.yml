@@ -1,55 +1,55 @@
 ---
 files:
   po-confs.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-thug.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   xz-main.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   dwf-wck.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   dwf-ip.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   dwf-sc.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   po-logof.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-dalin.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   dwf-bull.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: dwarf
   po-ocii.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-mscan.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-woe.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   po-nujck.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-fsedt.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   po-mbbs.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   imp-014.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   po-df.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
 group: impure!ascii.1940

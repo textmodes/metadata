@@ -3,16 +3,16 @@ files:
   s&-sadm.asc:
     artist: sandman
   us-1lit.ans:
-    font: cp866-8x16
+    font: IBM VGA 866
   ast-hayku.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: astery
   ra-cbard.ans:
     artist: r@
   raz-vask.ans:
     artist: pa3
   shl-haik.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: shadow.lord
   s&-cylfe.asc:
     artist: sandman
@@ -23,7 +23,7 @@ files:
   pp-run.ans:
     artist: peaceprayer
   th-life.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: than
   pp-robotz.ans:
     artist: peaceprayer
@@ -34,7 +34,7 @@ files:
   raz-girl.ans:
     artist: pa3
   rebirth.nfo:
-    font: cp866-8x16
+    font: IBM VGA 866
     artists:
     - peaceprayer
     - nf
@@ -45,23 +45,23 @@ files:
   pp-wyf.ans:
     artist: peaceprayer
   th-horor.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: than
   ra-cgirl.ans:
     artist: r@
   nf_flowr.ans:
     artist: nf
   th-day.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: than
   th-year.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: than
   ast-pomni.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: astery
   ast-dec.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: astery
   shl-anim.jpg:
     artist: shadow.lord

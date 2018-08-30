@@ -1,63 +1,63 @@
 ---
 files:
   po-sham.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-dg.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!-laz.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   t01-ek.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   eld!-spc.nfo:
     artist: elend
   cdn-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: curdon
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   xz-sars.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   eld!-hiv.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!-dee.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   t01-d0.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   eld!-spc.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!-inn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   xz-rad.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   us-enden.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - tribe
     - pogue
   eld!-snp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!-z-.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   xz-sam.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   eld!-sal.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   ab-dvt.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acidbrain
 group: impure!ascii.1940

@@ -9,46 +9,46 @@ files:
   cpn-ignorants.asc:
     artist: cpn
   scr-exit.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-lone.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-haze.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   ayl-gz-pat.nfo:
     artist: aylien
   cpn-phoenix.asc:
     artist: cpn
   scr-crubes.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   ayl-unit.nfo:
     artist: aylien
   scr-bmw.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   ayl-nendi.nfo:
     artist: aylien
   cpn-sio2.asc:
     artist: cpn
   scr-lucid_keygen_template.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-lom-logo.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-icyrose.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   ayl-mystdvdr.nfo:
     artist: aylien
   scr-undead.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-plexx.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   cpn-rov.asc:
     artist: cpn
@@ -57,13 +57,13 @@ files:
   ayl-snowman.jpg:
     artist: aylien
   scr-acid.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-spikedheart.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-cro.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   ayl-raf.jpg:
     artist: aylien
@@ -80,7 +80,7 @@ files:
   cpn-pandora_new.asc:
     artist: cpn
   scr-orion.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   cpn-ulla.asc:
     artist: cpn
@@ -93,15 +93,15 @@ files:
   ayl-tad2.nfo:
     artist: aylien
   scr-dcc.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   scr-bptr.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   cpn-victory_b.asc:
     artist: cpn
   scr-rockwilder-logo.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   ayl-dr.nfo:
     artist: aylien
@@ -112,6 +112,6 @@ files:
   cpn-weed_world.asc:
     artist: cpn
   scr-storm_installer_gui.jpg:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
 group: chemical.reaction

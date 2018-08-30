@@ -1,17 +1,17 @@
 ---
 files:
   nerv-evoke.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: nerv
   break_08.asc:
     artist: knocturnal
   iks-inque.asc:
     artist: irokos
   nerv-farm.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: nerv
   hx-rodar.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   nerv-skope.txt:
     artist: nerv
@@ -20,7 +20,7 @@ files:
   zfr-mono.asc:
     artist: zefyros
   sns-effect.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   iks-kediz.asc:
     artist: irokos
   jp!drkn7.ans:
@@ -34,9 +34,9 @@ files:
   iks-ke.asc:
     artist: irokos
   h7-break8.txt:
-    font: mo_soul
+    font: Amiga mOsOul
     artist: h7
   nerv-ftlrrr.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: nerv
 group: break!ascii

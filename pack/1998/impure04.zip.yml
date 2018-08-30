@@ -1,73 +1,73 @@
 ---
 files:
   esc-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: esc
   cl!-bio.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: cleaner
   po!@-cly.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   xz-ocean.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   ab-bb1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   po!@geni.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   esc-td.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: esc
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   cl!-debr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: cleaner
   po!@tetr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po!@-rr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   jp-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: jack.phlash
   ch!-tly.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: cleaner
   var-smrf.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artists:
     - quix
     - pogue
   xz-storm.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   td-woe1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: the.director
   cl!-prop.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: cleaner
   po!@-ls.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   cl!-fire.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: cleaner
   ab-dig3.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   cl!-nmd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: cleaner
   po!@-tbl.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po!@bnd2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
 group: impure!ascii.1940

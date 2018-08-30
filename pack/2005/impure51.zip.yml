@@ -1,67 +1,67 @@
 ---
 files:
   d0b-blch.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   nf-how.asc:
     artist: noof
   po-east.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   us-imp.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - hellbeard
     - pogue
   xz-com.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   po-hellb.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   nf-belpu.asc:
     artist: noof
   po-funkp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   t01-supa.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   nf-imp2.asc:
     artist: noof
   d0b-ophd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   impure51.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   po-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-haci.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   nf-voll.asc:
     artist: noof
   t01-bd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   xz-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   po-noof.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   t01-endo.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   po-qwk.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   nf-ops2.asc:
     artist: noof
   po-help.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
 group: impure!ascii.1940

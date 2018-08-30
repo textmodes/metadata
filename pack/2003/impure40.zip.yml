@@ -1,70 +1,70 @@
 ---
 files:
   ab-if.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   us-pods2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - pogue
     - podsi
   us-rmrs.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - hellbeard
     - pogue
   imp-fs.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
   po-prfct.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-hjb.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!-piz.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!-spe.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   impure40.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ab-mst.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: acid.burn
   xz-aisli.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   eld!-2w.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   eld!-zel.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   us-podsi.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - elend
     - pogue
   ps-perf.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: podsi
   eld!-sup.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld!-mas.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   po-xzip.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-roa.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   us-imp.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - pogue
     - hellbeard

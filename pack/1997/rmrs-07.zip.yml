@@ -1,49 +1,49 @@
 ---
 files:
   r-omiskk.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   9l-abr.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   fm-dstr.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   tm-col1.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   fm-plstc.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   r-sv.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   kal-iom.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: kaleidas
   li-acd1.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   r-terra.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   be-acid.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: beasty
   kal-whod.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: kaleidas
   r-eurot.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   pm-dope.bin:
     artist: polymorph
   mi!-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   kal-acd5.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: kaleidas
   ack-kol1.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   r-tda.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ps-rmrs.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   r-vi.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   fm-cf.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   fm-sugar.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
 group: remorse.1981

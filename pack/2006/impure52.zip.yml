@@ -3,56 +3,56 @@ files:
   noof-sh.asc:
     artist: noof
   eld-5711.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   t01-dlan.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   imp-8yl.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   cyb-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: cyberboy
   eld-hw.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   t01-otr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: tribe
   xz-sine.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   impure52.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   eld-ali.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   us-nasu.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - tribe
     - pogue
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   noof-g.asc:
     artist: noof
   d0b-beno.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: griskokare
   eld-sam.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   eld-taun.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   po-noof.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artists:
     - noof
     - pogue
   us-steve.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - tribe
     - pogue

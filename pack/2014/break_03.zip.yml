@@ -1,13 +1,13 @@
 ---
 files:
   hx-bp.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   hx-statd.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   hx-bisln.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   no-bflag-1.asc:
     artist: noches
@@ -34,7 +34,7 @@ files:
   jp!ngnx1.asc:
     artist: jack.phlash
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   jp!lg1.asc:
     artist: jack.phlash
   h7-amigalogoz-b3.txt:
@@ -58,17 +58,17 @@ files:
   jp!blrmx.ans:
     artist: jack.phlash
   zfr-90d.asc:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   zo-br3ak.ans:
     artist: luciano
   34-flag.ans:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: spear
   ko-lwins.ans:
     artist: konami
   hx-aa.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   h7-trsirocketnfo.txt:
     artist: h7

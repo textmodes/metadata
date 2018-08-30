@@ -1,271 +1,271 @@
 ---
 files:
   po-santa.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-lxy.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   sk!nebul.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   po-def.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   sk!demol.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   pix-shll.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   pix-bisl.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-pmtv.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   po-malf.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-sclr2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   impure26.mem:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   pix-l124.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-obsd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-stax.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   po-impy.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   sk!stati.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   us-tl1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - elend
     - pogue
   po-ndlay.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   jp-wrl1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: jack.phlash
   po-jash.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-icn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   pix-scum.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-rmrs.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   po-lsd.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-nvr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   jn-apple.ans:
     artist: jashiin
   pix-blac.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-okie.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-amig.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-bros.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-atr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   pix-eros.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   po-inv.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-po.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   us-tl.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - hellbeard
     - pogue
   sk!imp40.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   us-bleh.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   po-hs.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-fl1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pix-psyn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   eld!-wlz.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   pix-axx.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   xz-imp2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   us-imp.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - hellbeard
     - pogue
   us-sclr.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - elend
     - pogue
   eld!-rii.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   pix-maca.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   imp-atgb.txt:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   us-imp1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - elend
     - pogue
   po-mlt.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   eld!-br.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   sk-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   po-mf.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pix-csmc.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   po-wcn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pix-impu.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   po-jihad.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-fonos.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   po-sclr.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   ycpix.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
   pix-acid.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   impure26.inf:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   pix-fys.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   lsd.nfo:
     artist: pogue
   eld!-pdo.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   pix-prev.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   po-never.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pix-bi.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   eld!xmas.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   po-tl.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pix-pogu.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   us-imp2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - elend
     - pogue
   eld!-rep.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   po-iv.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   sk!splif.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: simonking
   us-slack.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: splonk
   pix-fdo.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   us-elend.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - elend
     - pogue
   eld!-bh.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   po-lsd2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: pogue
   pix-udm.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   jp-s7.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: jack.phlash
   eld!-mlt.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
   pix-cri.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: splonk
   eld!-tko.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: elend
 group: impure!ascii.1940

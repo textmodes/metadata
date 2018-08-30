@@ -17,13 +17,13 @@ files:
   u3-fuck.ans:
     artist: unseen.fate
   hx-w33d.ans:
-    font: cp437_8x8
+    font: IBM VGA50
     artist: haliphax
   u3-betho.ans:
-    font: cp437_8x8
+    font: IBM VGA50
     artist: unseen.fate
   hx-rmrs.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   an-dline.asc:
     artist: annie
@@ -44,15 +44,15 @@ files:
   bw-btm.ans:
     artist: binary.walker
   an-2lame.asc:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
     artist: annie
   hx-snd.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   hx-antif.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   mkk-isle.asc:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
     artist: mekanik
 group: pen15

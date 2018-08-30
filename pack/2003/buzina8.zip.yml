@@ -3,34 +3,34 @@ files:
   day_01.ans:
     artist: crasher
   readme.1st:
-    font: cp866-8x16
+    font: IBM VGA 866
   hui.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
   betrayme.asc:
-    font: cp866-8x16
+    font: IBM VGA 866
   day_04.ans:
     artist: crasher
   buzina.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
   another.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
   day_07.asc:
     artists:
     - keeper
     - crasher
   ponyat.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
   day_05.ans:
-    font: cp866-8x16
+    font: IBM VGA 866
   night_06.ans:
     artists:
     - crasher
     - shanti
   trespass.asc:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: 0xel
   day_02.ans:
     artist: crasher
   ((((((((.))):
-    font: cp866-8x16
+    font: IBM VGA 866
 group: buzina.factory

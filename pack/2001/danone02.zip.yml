@@ -5,15 +5,15 @@ files:
     - noches
     - phz
   no-lform.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: noches
   phz-shit.asc:
     artist: phz
   l124-gov.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: noches
   rm-danon.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   no-lure.asc:
     artist: noches
   us-czyli.asc:

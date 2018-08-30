@@ -1,79 +1,79 @@
 ---
 files:
   r-girl2.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   bzr-span.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   r-ozz81a.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-dbx.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sp-girl.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sp-erres.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   zs-remx5.ans:
     artist: zerostar
   sp-rd32.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   us-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-elem.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   cn-detox.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-mfc.diz:
     artist: ozzeth
   axb-599a.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   rmrsdiz.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ka-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-psyre.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   ozz-remo.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ozz-subl.diz:
     artist: ozzeth
   wd-ild.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: whodini
   r-tm.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-gues.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ozz-nuro.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   r-girl.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-sess.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   pm-r81.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: polymorph
   zs-elmn5.ans:
     artist: zerostar
   ozz-escp.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   bne-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   bne-we.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   pm-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: polymorph
   bzr-chef.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
 group: remorse.1981

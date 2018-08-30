@@ -9,7 +9,7 @@ files:
   h7-grandnoise1.asc:
     artist: h7
   zfr-mhtm.ans:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   k1-b4.asc:
     artist: knocturnal
@@ -20,15 +20,15 @@ files:
   jp!exo1.asc:
     artist: jack.phlash
   zfr-melt.ans:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   hx-jupit.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   xz-hack.asc:
     artist: hellbeard
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   iks-raina.txt:
     artist: irokos
   k1-cbrk.ans:
@@ -48,7 +48,7 @@ files:
   ko-alove.ans:
     artist: konami
   zfr-heat.ans:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   jp!kcrmx.ans:
     artist: jack.phlash

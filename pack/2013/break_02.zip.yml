@@ -11,7 +11,7 @@ files:
   k1-jizz.asc:
     artist: knocturnal
   zfr-sacb.ans:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   k1-acid.ans:
     artist: knocturnal
@@ -26,16 +26,16 @@ files:
   k1-block.asc:
     artist: knocturnal
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   zfr-phar.ans:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   k1-123.asc:
     artist: knocturnal
   jp!met3.ans:
     artist: jack.phlash
   zfr-last.ans:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   jp!icrmx.ans:
     artist: jack.phlash
@@ -44,7 +44,7 @@ files:
   34-16c01.asc:
     artist: spear
   zfr-door.ans:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   k1-candy.asc:
     artist: knocturnal

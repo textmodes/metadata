@@ -17,7 +17,7 @@ files:
   k1-noize.asc:
     artist: knocturnal
   hx-brk05.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   sk-monterey.ans:
     artist: skope
@@ -28,7 +28,7 @@ files:
   fs-careme_prenant.xb:
     artist: f0st
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   cl!-nbsd.ans:
     artist: cleaner
@@ -49,10 +49,10 @@ files:
   k1-peach.asc:
     artist: knocturnal
   hx-dvt.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   zfr-brk5.txt:
-    font: mo-soul
+    font: Amiga mOsOul
     artist: zefyros
   sk-grand_noise.txt:
     artist: skope
@@ -69,7 +69,7 @@ files:
   h7-antti.asc:
     artist: h7
   jp!antx1.ans:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: jack.phlash
   h7-survnet.asc:
     artist: h7

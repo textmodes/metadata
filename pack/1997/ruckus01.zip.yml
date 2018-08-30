@@ -1,54 +1,54 @@
 ---
 files:
   hx-death.txt:
-    font: cp437_8x16
+    font: IBM VGA
   id-rksos.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-rks79.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-prons.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-crmpt.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-ostyl.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-nec.diz:
-    font: cp437_8x8
+    font: IBM VGA50
   us-crack.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   bio-ruck.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-tlost.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   file_id.diz:
-    font: cp437_8x8
+    font: IBM VGA50
   id-rksdz.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-virgn.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-empor.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   us-creed.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   tl-xmass.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   dz-rucks.txt:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   mj-rucks.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-cntrl.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   bne!stat.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   (l)stat.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   (l)c0fi.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   bne!rks.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   0z-falln.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   bne!ra.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-yule.txt:
-    font: cp437_8x8
+    font: IBM VGA50

@@ -1,73 +1,73 @@
 ---
 files:
   xz-smeuc.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   m4-darks.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   kn-cart2.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: kartoon
   m4-911.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   xz-am.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   m4-vod.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   m4-kas.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   kn-colly.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: kartoon
   m4-epit.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   m4-soup.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   xz-motm1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   m4-picn.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   xz-imp1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   file_id.diz:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   impure07.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   kn-cart1.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: kartoon
   kn-cart4.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: kartoon
   xz-lair.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   m4-gdiz.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   xz-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   xz-amend.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: hellbeard
   qx-imp.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: quix
   m4-glst.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: metaphore
   kn-cart3.asc:
-    font: topazplus-a1200
+    font: Amiga Topaz 2+
     artist: kartoon
 group: impure!ascii.1940

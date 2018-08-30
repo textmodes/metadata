@@ -1,23 +1,23 @@
 ---
 files:
   sns-yard.txt:
-    font: topazplus_a1200
+    font: Amiga Topaz 2+
   jp!nrco1.ans:
     artist: jack.phlash
   jp!prrmx.asc:
     artist: jack.phlash
   sns-fujiology.txt:
-    font: topazplus_a1200
+    font: Amiga Topaz 2+
   emulaatio_by_mjd.nfo:
-    font: topazplus_a1200
+    font: Amiga Topaz 2+
   sns-retropie.txt:
-    font: topazplus_a1200
+    font: Amiga Topaz 2+
   h7-trilobitinfo.asc:
     artist: h7
   h7-response.asc:
     artist: h7
   sns-airtv.txt:
-    font: topazplus_a1200
+    font: Amiga Topaz 2+
   k1-why.ans:
     artist: knocturnal
   h7-xmasasciis.asc:
@@ -29,7 +29,7 @@ files:
   iks-esg.asc:
     artist: irokos
   sns-airline.txt:
-    font: topazplus_a1200
+    font: Amiga Topaz 2+
   h7-byterapersdiz.asc:
     artist: h7
   iks-spectre.asc:
@@ -37,10 +37,10 @@ files:
   iks-ricola.asc:
     artist: irokos
   hx-bbndr.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   xz-plupp3.ans:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: hellbeard
   jp!engm1.ans:
     artist: jack.phlash

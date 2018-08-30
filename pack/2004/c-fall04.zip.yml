@@ -1,27 +1,27 @@
 ---
 files:
   os02.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: nerv
   os09.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: ansichrist
   os06.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: hellbeard
   os07.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: aeroholics
   os04.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: pogue
   os11.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   os05.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: ansichrist
   os08.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: barium
   block01.asc:
     artist: zlorfik
@@ -30,16 +30,16 @@ files:
   block03.asc:
     artist: nobody
   file_id.diz:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: pogue
   os10.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   block02.asc:
     artist: ansichrist
   os03.asc:
-    font: microknight
+    font: Amiga MicroKnight
     artist: speed.devil
   os01.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: eleric

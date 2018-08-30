@@ -11,10 +11,10 @@ files:
   btg2#rag.ans:
     artist: rage
   des3#rag.ans:
-    font: cp437-8x8
+    font: IBM VGA50
     artist: rage
   aur2#rag.ans:
-    font: cp437-8x8
+    font: IBM VGA50
   des1#paz.ans:
     artist: paz
   des2#paz.ans:
@@ -36,7 +36,7 @@ files:
   des4#rag.ans:
     artist: rage
   ordr#rag.ans:
-    font: cp437-8x8
+    font: IBM VGA50
     artist: rage
   atl#drft.ans:
     artist: draft
@@ -49,7 +49,7 @@ files:
     - paz
     - rage
   gal2#rag.ans:
-    font: cp437-8x8
+    font: IBM VGA50
     artist: rage
   rab3#rag.ans:
     artist: rage

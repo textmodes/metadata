@@ -1,30 +1,30 @@
 ---
 files:
   cbn-dn.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   cbn-funkp.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   hx-punc.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   cbn-riot.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   sp-lts.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   cbn-fasciist.xb:
     artist: cubon
   hx-r81.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   cbn-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   hx-aon2.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   us-xenon.asc:
     artists:
@@ -35,46 +35,46 @@ files:
   jx!grow.ans:
     artist: joplex
   cbn-psykle.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   cbn-edge.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   rb-ache.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: raster.burn
   nt-rca.ans:
     artist: nightrain
   nt-atv.asc:
     artist: nightrain
   hx-face.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   nt-hl.asc:
     artist: nightrain
   rb-gyges.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: raster.burn
   jx!remorse bendings.jpg:
     artist: joplex
   sp-gms.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   cbn-pkv.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   cm-sac.ans:
     artist: cmang
   ns-conf.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: ansichrist
   rb-pertn.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: raster.burn
   nt-fed.asc:
     artist: nightrain
   cbn-gbcds.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: cubon
   jx!peak.ans:
     artist: joplex

@@ -15,7 +15,7 @@ files:
   drj-mmc.ans:
     artist: ddrj
   hx-mblk.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   wk-73.txt:
     artist: wisekid
@@ -24,7 +24,7 @@ files:
   drj-gods.ans:
     artist: ddrj
   hx-grn.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   t01-hadd.asc:
     artist: tribe

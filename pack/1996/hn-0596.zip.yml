@@ -9,7 +9,7 @@ files:
   c4-verti.asc:
     artist: c4nn
   ps-insom.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   c4-doink.asc:
     artist: c4nn
   c4-gen.asc:
@@ -17,15 +17,15 @@ files:
   c4-hn.asc:
     artist: c4nn
   ps-sourc.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ps-void.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ps-wizr.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   c4-scum.asc:
     artist: c4nn
   c4-apa.asc:
     artist: c4nn
   ps-cad.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
 group: halluci-nation

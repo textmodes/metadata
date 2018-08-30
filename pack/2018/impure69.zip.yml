@@ -7,7 +7,7 @@ files:
     - hellbeard
     - venam
   file_id.diz:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
 
 # Default group member matches
 match:

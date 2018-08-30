@@ -1,210 +1,210 @@
 ---
 files:
   sp-scam.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sd_scour.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   scr-pilg.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   py-sands.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   dbrn-nd.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: dead.brain
   sd_nons.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sd_hb.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-mmc00.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   bh-minicolly.txt:
-    font: cp437_8x16
+    font: IBM VGA
   sd_enrmp.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   dt-gay.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   file_id.diz:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   ax-cool.asc:
-    font: cp437_8x16
+    font: IBM VGA
   hx-may.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   sd_sd.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   dark-adv.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ret-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   us-bar.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   us-p00.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   axb-tnc.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   asx-mx.asc:
-    font: cp437_8x16
+    font: IBM VGA
   ti-ice.asc:
-    font: cp437_8x16
+    font: IBM VGA
   sp-tlnfo.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: spinsane
   sp-mad.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: spinsane
   sd_duckb.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sd_dmg.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   rm-nddiz.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sd_scour5.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   axb-gizm.asc:
-    font: cp437_8x16
+    font: IBM VGA
   us-ks.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   p-mad.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   pix-oran.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: splonk
   us-nsers.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-more_pussy.jpg:
     artist: spinsane
   sd_scour3.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sd_scour4.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-o.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sp-fp111.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   asx-pc2.diz:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   sd_scour2.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sd_wpx3.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   er-ertel.ans:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
   sd_wpx.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-ffant.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sp-spliff.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   er-amix.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   y-logo.png:
     artist: yce
   hx-nks3.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   mx-rad.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sd_wpx4.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   hx-ks.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   sp-lps1.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   to-neuro.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   hx-dr.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   scr-bdks.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   hx-ks2.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   43-nrmx.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: aesthetic
   bash.org.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-dtmc.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sp-wave9.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sd_wpx2.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sd_m.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   brm-rad.asc:
-    font: cp437_8x16
+    font: IBM VGA
   us-edb.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   m0lo-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   us-sour.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   scr-mac.nfo.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   us-pen15.asc:
-    font: cp437_8x16
+    font: IBM VGA
   hx-spin.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   sp-phrk.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sd_mono.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   no-pe.ans:
     artist: noches
   no-love.ans:
     artist: noches
   sp-rebel.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   hx-ksblk.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   sp-icet.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   us-slack.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   scr-mac.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: scour
   pix-asci.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: splonk
   brm-hood.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   pix-xiq.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: splonk
   sp-irce.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sp-mmchb.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: spinsane
   hx-bio.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: haliphax
   hx-robot.asc:
-    font: cp437_8x16
+    font: IBM VGA
     artist: haliphax
   sp-tmms.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
 group: remorse.1981

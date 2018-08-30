@@ -1,7 +1,7 @@
 ---
 files:
   ps-belf1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tz-kts!a.diz:
     artist: tinyz
   tz-jus1.asc:
@@ -11,7 +11,7 @@ files:
   tz-bull1.asc:
     artist: tinyz
   ps-pp.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tz-ckill.asc:
     artist: tinyz
   tz-wland.asc:
@@ -39,17 +39,17 @@ files:
   tz-uni1.diz:
     artist: tinyz
   ps-ophb1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tz-sparr.asc:
     artist: tinyz
   ps-a-men.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tz-rts.asc:
     artist: tinyz
   ps-inlnd.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   ps-ansi.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tz-rucus.diz:
     artist: tinyz
   tz-pls1.asc:
@@ -57,13 +57,13 @@ files:
   tz-pmp.diz:
     artist: tinyz
   ps-tet1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tz-fr.asc:
     artist: tinyz
   tz-ice1.diz:
     artist: tinyz
   ps-agres.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tz-msj1.diz:
     artist: tinyz
   tz-lame1.asc:
@@ -93,7 +93,7 @@ files:
   tz-acid2.diz:
     artist: tinyz
   ps-puff.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
   tz-agora.asc:
     artist: tinyz
   tz-werd.asc:

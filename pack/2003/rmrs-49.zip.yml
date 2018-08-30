@@ -1,89 +1,89 @@
 ---
 files:
   jrr-rmrs.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   bh-tk.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-digi.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   asx-sc3.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   mi-acid.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   rmrs-app.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ax_stuff.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-uma1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   to-issue.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-rem1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   ozz-wchu.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   h7da-ink.ans:
     artist: h7
   ozz-emes.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   vlr-etp2.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   jrr-inld.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-duck.ans:
     artist: spinsane
   jrr-inl2.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-fis4.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   sp-tje.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   da-acid.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   asx-tox.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   dip-sky.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   asx-alot.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   rm-produ.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ax_rmr5.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   dkny-fag.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   dy-ti.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   jrr-nrw.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-shao.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   bh-acid.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   sp-moy.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   sp-phkl.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   jrr-lcd.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   dip-brea.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
   ozz-acid.diz:
     artist: ozzeth
   ozz-sec1.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ozzeth
   sp-defxi.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
 group: remorse.1981

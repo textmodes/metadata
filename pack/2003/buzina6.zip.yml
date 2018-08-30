@@ -1,19 +1,19 @@
 ---
 files:
   crs-idea.ans:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
   crs-chle.asc:
     artists:
     - 0xel
     - crasher
   buzina.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
   crs-zero.jpg:
     artist: crasher
   crs-hmes.ans:
-    font: cp866-8x16
+    font: IBM VGA 866
     artists:
     - shadow
     - crasher
@@ -22,7 +22,7 @@ files:
     - lip
     - crasher
   file_id.diz:
-    font: cp866-8x16
+    font: IBM VGA 866
   crs-face.ans:
     artist: crasher
 group: buzina.factory

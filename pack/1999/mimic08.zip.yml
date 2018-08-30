@@ -7,16 +7,16 @@ files:
   gdr-mimi.asc:
     artist: gravedancer
   ozz-soda.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: kayozz
   ozz-erpt.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: kayozz
   ozz-nite.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: kayozz
   ozz-karm.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: kayozz
   ozz-divg.diz:
     artist: kayozz
@@ -33,6 +33,6 @@ files:
   ds-noct1.asc:
     artist: dead.soul
   ozz-merl.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: kayozz
 group: mimic

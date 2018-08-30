@@ -1,8 +1,8 @@
 ---
 files:
   buz-chl.ans:
-    font: cp866-8x16
+    font: IBM VGA 866
   buzina.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
 group: buzina.factory

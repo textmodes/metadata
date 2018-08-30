@@ -29,10 +29,10 @@ files:
   w0_dmg-boondocks.png:
     artist: webpige0
   scr-igno.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   scr-again.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   w0-trtle.ans:
     artist: webpige0
@@ -87,7 +87,7 @@ files:
   cdr-fw2.asc:
     artist: crusader
   scr-sky.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   don-mtx.asc:
     artist: don
@@ -116,14 +116,14 @@ files:
   cdr-fw1.asc:
     artist: crusader
   scr-vace.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   cdr-df02.nfo:
     artist: crusader
   cdr-ctrl.asc:
     artist: crusader
   scr-game.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   eb-ngen.jpg:
     artist: eboy
@@ -164,7 +164,7 @@ files:
   don-rge.asc:
     artist: don
   scr-tsp.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   don-tit.nfo:
     artist: don
@@ -177,7 +177,7 @@ files:
   w0-soxiu.ans:
     artist: webpige0
   scr-stn.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   don-zro.asc:
     artist: don
@@ -202,7 +202,7 @@ files:
   cdr-rules.asc:
     artist: crusader
   scr-vim.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   dip-enfu.diz:
     artist: dipswitch
@@ -241,17 +241,17 @@ files:
   eb-logos.asc:
     artist: eboy
   scr-vlr.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   scr-gsm.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   dip-yvid.nfo:
     artist: dipswitch
   w0-sacns.ans:
     artist: webpige0
   scr-haven.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   w0-crm_icon.png:
     artist: webpige0
@@ -264,10 +264,10 @@ files:
   w0-sac.png:
     artist: webpige0
   scr-sauna.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   scr-iph.nfo:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scour
   eb-eof.asc:
     artist: eboy

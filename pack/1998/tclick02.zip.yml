@@ -1,60 +1,60 @@
 ---
 files:
   (c)core.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   n4-dust.ans:
     artist: sodium
   us-lowrd.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-singe.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-rmrs.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   id-green.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   vmcfartz.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   ktr-dust.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-ebol.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-click.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   n4-oneli.ans:
     artist: sodium
   zz-tzeen.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   ktr-dure.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   us-click.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   n4-amsg.ans:
     artist: sodium
   file_id.diz:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-e21!.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-geron.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-ele21.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-dust.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-sing2.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   id-cotm.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-ele21.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-clik.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   dmv-clk2.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-panic.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   ml-click.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   id-purg.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-clk11.txt:
-    font: cp437_8x8
+    font: IBM VGA50

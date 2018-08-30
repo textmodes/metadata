@@ -3,19 +3,19 @@ files:
   k1-impy.asc:
     artist: knocturnal
   cl!-shms.ans:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
     artist: cleaner
   h7-fruitynfo.txt:
-    font: cp437_8x16
+    font: IBM VGA
     artist: h7
   iks-tsx.asc:
     artist: irokos
   jp!wnmt1.asc:
     artist: jack.phlash
   file_id.diz:
-    font: topazplus_a1200
+    font: Amiga Topaz 2+
   hx-x84.txt:
-    font: topazplus_a500
+    font: Amiga Topaz 1+
     artist: haliphax
   h7-conspiracy.asc:
     artist: h7
@@ -36,7 +36,7 @@ files:
   jp!tbck2.ans:
     artist: jack.phlash
   h7-bloodisland.txt:
-    font: mo_soul
+    font: Amiga mOsOul
     artist: h7
   iks-cia.asc:
     artist: irokos

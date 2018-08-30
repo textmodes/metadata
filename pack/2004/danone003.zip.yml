@@ -28,14 +28,14 @@ files:
   no-login.ans:
     artist: noches
   t01-milk.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: tribe
   no-evo.ans:
     artist: noches
   jn-d004.asc:
     artist: jashiin
   dip-equi.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: dipswitch
   jn-d003.asc:
     artist: jashiin
@@ -53,10 +53,10 @@ files:
     - knocturnal
     - luciano
   t01-dano.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: tribe
   no-003.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: noches
   pn-xxxxx.ans:
     artist: ponk1
@@ -72,7 +72,7 @@ files:
     - maytag
     - noches
   rm-danon.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: rm
   ba-tundr.ans:
     artist: mark.baurett

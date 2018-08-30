@@ -11,13 +11,13 @@ files:
   nf-2k5hr.jpg:
     artist: nf
   fd-autumn.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
   nf_2k5_4.ans:
     artist: nf
   pp-gzagrt.ans:
     artist: peaceprayer
   astery-strange.lit:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: astery
   file_id.diz:
     artist: peaceprayer

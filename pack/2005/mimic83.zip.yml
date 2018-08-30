@@ -1,10 +1,10 @@
 ---
 files:
   roo-budg.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: roodoplh
   m-chd.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artists:
     - h7
     - c-jeff
@@ -13,10 +13,10 @@ files:
   bjasc278.ans:
     artist: black.jack
   rm-keede.asc:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: ricky.martin
   h7-kiwi.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   jn-diag.asc:
     artist: jashiin
@@ -33,7 +33,7 @@ files:
   k!alekkk.asc:
     artist: keetar
   h7-s05.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: h7
   mkk-0_o.ans:
     artist: steve
@@ -50,6 +50,6 @@ files:
   bjasc279.ans:
     artist: black.jack
   jn-afs9.txt:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: jashiin
 group: mimic

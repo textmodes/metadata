@@ -5,7 +5,7 @@ files:
     - crasher
     - shadow
   crs-shd3.ans:
-    font: cp866-8x16
+    font: IBM VGA 866
     artists:
     - shadow
     - crasher
@@ -18,7 +18,7 @@ files:
     - shadow
     - crasher
   buzina.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
   crs-shd2.ans:
     artists:

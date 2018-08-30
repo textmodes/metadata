@@ -33,7 +33,7 @@ files:
   b5-oxd.asc:
     artist: barium
   s!+nr-kotn.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artists:
     - scour
     - nerv
@@ -56,7 +56,7 @@ files:
   don-xtr.asc:
     artist: don
   s!-bud.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   nr-tud.txt:
     artist: nerv
@@ -65,7 +65,7 @@ files:
   w0-npt.asc:
     artist: webpige0
   s!+dn-ea.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artists:
     - scour
     - don
@@ -155,7 +155,7 @@ files:
   w0-roya.asc:
     artist: webpige0
   sp-tess.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   w0-ages_funnycolours.png:
     artist: webpige0
@@ -166,14 +166,14 @@ files:
     - podsi
     - webpige0
   sp-tij.txt:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: spinsane
   w0-orn.png:
     artist: webpige0
   s!-trd.diz:
     artist: scour
   s!-typh.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   b5-csen1.asc:
     artist: barium
@@ -212,14 +212,14 @@ files:
   dip-neur.asc:
     artist: dipswitch
   s!-gate.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   b5-fyllh.asc:
     artist: barium
   b5-mflo.asc:
     artist: barium
   s!-mv2.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   w0-ages_7_codename_poopypants.png:
     artist: webpige0
@@ -280,7 +280,7 @@ files:
   cdr-darkus.asc:
     artist: crusader
   s!-mv.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   dn-dark.txt:
     artist: don
@@ -289,7 +289,7 @@ files:
   asx-bmf.txt:
     artist: asphyx
   s!+cdr-sac.asc:
-    font: topaz-a1200
+    font: Amiga Topaz 2
     artist: scour
   b5-ecg.asc:
     artist: barium

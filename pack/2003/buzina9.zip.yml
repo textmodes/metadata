@@ -3,12 +3,12 @@ files:
   crs-aoa.ans:
     artist: crasher
   anec.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
   echo.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
   buzina.txt:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
   crs-svd.ans:
     artist: crasher
@@ -21,10 +21,10 @@ files:
   crs-rlc.ans:
     artist: crasher
   crs-bad.asc:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
   crs-tire.ans:
-    font: cp866-8x16
+    font: IBM VGA 866
     artist: crasher
   crs-shit.asc:
     artist: crasher

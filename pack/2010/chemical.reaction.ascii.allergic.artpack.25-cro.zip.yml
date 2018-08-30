@@ -13,7 +13,7 @@ files:
   tr-asc.png:
     artist: trash
   scr-outlaws_metal.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   tr_vid.txt:
     artist: trash
@@ -28,7 +28,7 @@ files:
   clsd-hft.png:
     artist: clsdbox
   scr-reloaded.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   clsd-d0.png:
     artist: clsdbox
@@ -63,7 +63,7 @@ files:
   entropy.bbs:
     artist: h7
   scr-valhalla.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   f3-xtm.png:
     artist: fumk
@@ -76,7 +76,7 @@ files:
   tr-audi.png:
     artist: trash
   scr-rubikcube.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   kr8-farin_lzo-logofx.jpg:
     artist: kr8vity
@@ -95,14 +95,14 @@ files:
   cpn-tpb.asc:
     artist: cpn
   scr-outlaws.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   kr8-volumen_logo-final.jpg:
     artist: kr8vity
   cpn-tpb.png:
     artist: cpn
   scr-orbit.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   f3-gn.png:
     artist: fumk
@@ -133,7 +133,7 @@ files:
   f3-xtm_diz.png:
     artist: fumk
   scr-100918_reloaded.png:
-    font: topazplus-a500
+    font: Amiga Topaz 1+
     artist: scorpi
   f3-lnsg.png:
     artist: fumk

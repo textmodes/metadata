@@ -1,32 +1,32 @@
 ---
 files:
   ac-click.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-lair.ans:
-    font: cp437_8x16
+    font: IBM VGA
   zz-cyber.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   t3-kleen.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-s001.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-glm.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-proc.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-file.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-ep.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   file_id.diz:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-decon.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   hx-com.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   zz-dvdsk.txt:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-e21.asc:
-    font: cp437_8x8
+    font: IBM VGA50
   ac-zero.asc:
-    font: cp437_8x8
+    font: IBM VGA50
