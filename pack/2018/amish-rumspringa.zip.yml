@@ -1,103 +1,45 @@
 ---
 files:
-  x0-fuel_whq.ans:
+  717-rumspringa-artists.ans:
     artist: xero
-  misfit-billy penn.ans:
-    artist: misfit
-  ti-amsh1.ans:
-    artist: trip
-  fil-demosplash.ans:
-    artist: filth
-  fi-tsf.ans:
-    artist: filth
+  717-rumspringa-nfo.ans:
+    artists:
+    - xero
+    - misfit
   us-717.ans:
     artists:
     - misfit
     - transient
-  acid-phix-the-fix-music-company.ans:
-    artist: acid.phix
-  fil-fracking.ans:
-    artist: filth
-  acid-phix-amish3.ans:
-    artist: acid.phix
-  fil-folk.ans:
-    artist: filth
-  misfit-bs phunk.ans:
-    artist: misfit
-  misfit-rumspringa.ans:
-    artist: misfit
-  x0-amish-banners.ans:
-    artist: xero
-  hx-amish.ans:
-    artist: haliphax
-  misfit-phil.ans:
-    artist: misfit
-  wz-amish.tnd:
-    artist: whazzit
-  x0-fall.ans:
-    artist: xero
-  fi-tsf!.ans:
-    artist: filth
-  fi-plate.ans:
-    artist: filth
-  fil-rumspringa.ans:
-    artist: filth
   us-amish.ans:
     artists:
     - knocturnal
     - burps
-  x0-bitsunset.ans:
-    artist: xero
-  ungenannt-forbidden harvest.ans:
-    artist: ungenannt
-  717-rumspringa-artists.ans:
-    artist: xero
-  us-crop-circle-jerks.ans:
-    artists:
-    - misfit
-    - misfit
-    - filth
   us-amishlit.ans:
     artists:
     - misfit
     - brother.alpha
     - cthulu
-  avg-amish.ans:
-    artist: avenging.angel
-  fil-cliff_em_all.ans:
-    artist: filth
-  misfit-gutter.ans:
-    artist: misfit
-  r5-ami.ans:
-    artist: reset.survivor
-  transient-amish717.ans:
-    artist: transient
-  fil-melassichriwwelkuche.ans:
-    artist: filth
-  fil-danvers.ans:
-    artist: filth
-  acid-phix-dutch-masters.ans:
-    artist: acid.phix
-  brother-alpha-amish-cyborg.ans:
-    artist: brother.alpha
-  bs-amish.ans:
-    artist: burps
-  misfit-chamberlain.ans:
-    artist: misfit
-  fil-appalachia.ans:
-    artist: filth
-  fi-nfo.ans:
-    artist: filth
-  2m-amish hoes.png:
-    artist: mattmatthew
-  misfit-fred.ans:
-    artist: misfit
-  fil-ausbund.ans:
-    artist: filth
-  717-rumspringa-nfo.ans:
+  us-crop-circle-jerks.ans:
     artists:
-    - xero
     - misfit
-  n-amish.ans:
-    artist: nail
+    - misfit
+    - filth
 group: amish
+
+match:
+  2m-*:            mattmatthew
+  acid?phix-*:     acid phix
+  avg-*:           avenging angel
+  brother?alpha-*: brother alpha
+  bs-*:            burps
+  fi-*:            filth
+  fil-*:           filth
+  hx-*:            haliphax
+  misfit-*:        misfit
+  n-*:             nail
+  r5-*:            reset survivor
+  ti-*:            trip
+  transient-*:     transient
+  ungenannt-*:     ungenannt
+  wz-*:            whazzit
+  x0-*:            xer0
